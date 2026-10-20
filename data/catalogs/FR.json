@@ -1,0 +1,1715 @@
+{
+  "version": 1,
+  "country": "FR",
+  "channels": [
+    {
+      "id": "20MinutesTV.fr",
+      "name": "20 Minutes TV",
+      "website": "https://20minutes.tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:52:45.336Z"
+        }
+      ]
+    },
+    {
+      "id": "4Music.fr",
+      "name": "4 Music",
+      "website": "https://4music.persiana.live/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://musichls.persiana.live/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:52:45.336Z"
+        }
+      ]
+    },
+    {
+      "id": "ADNTVPlus.fr",
+      "name": "ADN TV+",
+      "website": "https://animationdigitalnetwork.fr/live",
+      "categories": [
+        "animation"
+      ],
+      "streams": [
+        {
+          "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:53:07.576Z"
+        }
+      ]
+    },
+    {
+      "id": "Africa24.fr",
+      "name": "Africa 24",
+      "website": "https://africa24tv.com/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:53:08.201Z"
+        }
+      ]
+    },
+    {
+      "id": "Africa24Sport.fr",
+      "name": "Africa 24 Sport",
+      "website": "https://africa24tv.com/sport",
+      "categories": [
+        "news",
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:53:29.224Z"
+        }
+      ]
+    },
+    {
+      "id": "AfricanewsFrench.fr",
+      "name": "Africanews French",
+      "website": "https://fr.africanews.com",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:53:29.867Z"
+        }
+      ]
+    },
+    {
+      "id": "AlpedHuezTV.fr",
+      "name": "Alpe d'Huez TV",
+      "website": "https://www.alpe.tv/a-propos",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:53:50.822Z"
+        }
+      ]
+    },
+    {
+      "id": "AntenneReunion.fr",
+      "name": "Antenne Reunion",
+      "website": "https://www.antennereunion.fr/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:53:51.457Z"
+        }
+      ]
+    },
+    {
+      "id": "ASTV.fr",
+      "name": "ASTV",
+      "website": "https://www.tele-astv.fr/index.php?page=live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://player.twitch.tv/?channel=astvstream",
+          "format": "embed",
+          "page": "https://www.tele-astv.fr/index.php?page=live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:24:23.345Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMAlsace.fr",
+      "name": "BFM Alsace",
+      "website": "https://www.bfmtv.com/alsace/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/alsace/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:46:24.685Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMBusiness.fr",
+      "name": "BFM Business",
+      "website": "https://www.bfmtv.com/economie/",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/economie/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:54:13.057Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMDICIAlpesduSud.fr",
+      "name": "BFM DICI Alpes du Sud",
+      "website": "https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvalp-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:46:24.696Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMDICIHauteProvence.fr",
+      "name": "BFM DICI Haute-Provence",
+      "website": "https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvpro-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:46:46.075Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMGrandLille.fr",
+      "name": "BFM Grand Lille",
+      "website": "https://www.bfmtv.com/grand-lille/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvlil-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/grand-lille/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:07.438Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMGrandLittoral.fr",
+      "name": "BFM Grand Littoral",
+      "website": "https://www.bfmtv.com/grand-littoral/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvgdl-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/grand-littoral/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:07.835Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMLyon.fr",
+      "name": "BFM Lyon",
+      "website": "https://www.bfmtv.com/lyon/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/lyon/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:54:18.663Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMMarseille.fr",
+      "name": "BFM Marseille Provence",
+      "website": "https://www.bfmtv.com/marseille/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/marseille/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:28.786Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMCotedAzur.fr",
+      "name": "BFM Nice Côte d'Azur",
+      "website": "https://www.bfmtv.com/cote-d-azur/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvcda-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/cote-d-azur/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:46:46.487Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMNormandie.fr",
+      "name": "BFM Normandie",
+      "website": "https://www.bfmtv.com/normandie/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvnor-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/normandie/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:29.216Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMVar.fr",
+      "name": "BFM Toulon Var",
+      "website": "https://www.bfmtv.com/var/en-direct/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-bfmtvvar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/var/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:51.406Z"
+        }
+      ]
+    },
+    {
+      "id": "BFMTV.fr",
+      "name": "BFM TV",
+      "website": "https://www.bfmtv.com/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+          "format": "hls",
+          "page": "https://www.bfmtv.com/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:54:34.671Z"
+        },
+        {
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_france.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:54:40.295Z"
+        }
+      ]
+    },
+    {
+      "id": "BFM2.fr",
+      "name": "BFM2",
+      "website": "https://www.bfmtv.com/en-direct/bfm2/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:54:56.289Z"
+        }
+      ]
+    },
+    {
+      "id": "BIPTV.fr",
+      "name": "BIP TV (Bip TV Issoudun / Berry)",
+      "website": "https://www.biptv.tv/direct.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://hls-biptv.archistream.live/hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.biptv.tv/direct.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:33.571Z"
+        }
+      ]
+    },
+    {
+      "id": "BrionnaisTV.fr",
+      "name": "Brionnais TV",
+      "website": "https://brionnais.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://brionnais.tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:55:01.855Z"
+        }
+      ]
+    },
+    {
+      "id": "Caillou.fr",
+      "name": "Caillou",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:55:17.929Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal32.fr",
+      "name": "Canal 32",
+      "website": "https://www.canal32.fr/direct",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://canal32-lineaire.b-cdn.net/master.m3u8",
+          "format": "hls",
+          "page": "https://www.canal32.fr/direct",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:47:51.475Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalLocalGrosblie.fr",
+      "name": "Canal Local Grosblie",
+      "website": "https://canallocalgrosblie.tv/index.php/en-direct/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://canallocalgrosblie.tv/index.php/en-direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:12.229Z"
+        }
+      ]
+    },
+    {
+      "id": "CannesLerinsTV.fr",
+      "name": "Cannes Lerins TV",
+      "website": "https://lerins-radio.fr/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:55:23.490Z"
+        }
+      ]
+    },
+    {
+      "id": "ChiconiFMTV.yt",
+      "name": "Chiconi FM-TV",
+      "website": "https://www.chiconifm.fr/chiconi-fm/direct-tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://player.twitch.tv/?channel=chiconifmtv976",
+          "format": "embed",
+          "page": "https://www.chiconifm.fr/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:26:21.679Z"
+        }
+      ]
+    },
+    {
+      "id": "CineNanar.fr",
+      "name": "Cine Nanar",
+      "website": "https://communityzylo7.wixsite.com/cine-nanar",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:55:43.558Z"
+        }
+      ]
+    },
+    {
+      "id": "CineWestern.fr",
+      "name": "Cine Western",
+      "website": "https://communityzylo7.wixsite.com/cine-western-fr",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:55:45.621Z"
+        }
+      ]
+    },
+    {
+      "id": "CNJOITV.re",
+      "name": "CNJOI TV",
+      "website": "https://cnjoi.fr/direct",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://customer-x900nhds2pxvzq79.cloudflarestream.com/f478ff9a28ccdafa81dd3c8ec4633a6c/manifest/video.m3u8",
+          "format": "hls",
+          "page": "https://cnjoi.fr/direct",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:49:18.384Z"
+        }
+      ]
+    },
+    {
+      "id": "DBMTV.fr",
+      "name": "DBM TV",
+      "website": "https://www.dbmtv.fr/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:56:07.276Z"
+        }
+      ]
+    },
+    {
+      "id": "EmotionL.fr",
+      "name": "Emotion L",
+      "website": "https://communityzylo7.wixsite.com/emotionl",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:56:07.965Z"
+        }
+      ]
+    },
+    {
+      "id": "ETV.gp",
+      "name": "ETV",
+      "website": "https://www.etv.gp/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:56:28.338Z"
+        }
+      ]
+    },
+    {
+      "id": "EuronewsFrench.fr",
+      "name": "Euronews French",
+      "website": "https://fr.euronews.com/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:56:29.072Z"
+        },
+        {
+          "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:56:49.530Z"
+        },
+        {
+          "url": "https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:56:51.239Z"
+        }
+      ]
+    },
+    {
+      "id": "EvandisGospelTV.fr",
+      "name": "Evandis Gospel TV",
+      "website": "https://evandis-gospel.tv/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8",
+          "format": "hls",
+          "page": "https://webcast.streamakaci.com/evandis",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:57:11.109Z"
+        }
+      ]
+    },
+    {
+      "id": "FashionTVParisLOriginal.fr",
+      "name": "FashionTV Paris L'Original",
+      "website": "https://www.fashiontv.com/",
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:57:15.253Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:FR:fifafrench",
+      "name": "FIFA+ French",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:57:36.531Z"
+        }
+      ]
+    },
+    {
+      "id": "Francophonie24.fr",
+      "name": "Francophonie24",
+      "website": "http://tvfrancophonie.org/",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:57:53.919Z"
+        }
+      ]
+    },
+    {
+      "id": "FrequenceNovelas.fr",
+      "name": "Frequence Novelas",
+      "website": "https://communityzylo7.wixsite.com/frequence-novelas",
+      "categories": [
+        "series"
+      ],
+      "streams": [
+        {
+          "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:57:58.254Z"
+        }
+      ]
+    },
+    {
+      "id": "FUSIONTV.mq",
+      "name": "FUSION TV",
+      "website": "https://fusiontv.fr/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:58:16.108Z"
+        }
+      ]
+    },
+    {
+      "id": "GenerationsTV.fr",
+      "name": "Generations TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:58:20.847Z"
+        }
+      ]
+    },
+    {
+      "id": "HANDICAPTV.fr",
+      "name": "HANDICAP TV",
+      "website": "https://www.handicaptv.tv/",
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+          "format": "hls",
+          "page": "https://www.handicaptv.tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:58:42.745Z"
+        }
+      ]
+    },
+    {
+      "id": "IdentiteTeleCaraibes.mq",
+      "name": "Identite Tele Caraibes",
+      "website": "https://identiteradio.com/tv/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+          "format": "hls",
+          "page": "https://identiteradio.com/tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T13:58:51.172Z"
+        }
+      ]
+    },
+    {
+      "id": "ILTV.fr",
+      "name": "ILTV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:59:04.358Z"
+        }
+      ]
+    },
+    {
+      "id": "IntoCrime.fr",
+      "name": "Into Crime",
+      "website": "https://communityzylo7.wixsite.com/intocrime",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T13:59:12.816Z"
+        }
+      ]
+    },
+    {
+      "id": "Kanaldude.fr",
+      "name": "Kanaldude",
+      "website": "https://kanaldude.eus/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream1.sarebide.eus/tbzain/smil:kanaldude.smil/manifest.mpd",
+          "format": "dash",
+          "page": "https://live.kanaldude.eus/z_embed.php?autoplay=1",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:54.978Z"
+        },
+        {
+          "url": "https://stream1.sarebide.eus/tbzain/smil:kanaldude.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://live.kanaldude.eus/z_embed.php?autoplay=1",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:54.479Z"
+        }
+      ]
+    },
+    {
+      "id": "KozoomTV.fr",
+      "name": "Kozoom TV",
+      "website": "https://tv.kozoom.com/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:59:25.449Z"
+        }
+      ]
+    },
+    {
+      "id": "LintelligentTV.fr",
+      "name": "L'intelligent TV",
+      "website": "https://www.lintelligent.tv/live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video1.getstreamhosting.com:1936/8074/8074/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.lintelligent.tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:49:39.366Z"
+        }
+      ]
+    },
+    {
+      "id": "LeFigaroTVIledeFrance.fr",
+      "name": "Le Figaro TV Ile-de-France",
+      "website": "https://video.lefigaro.fr/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://static.lefigaro.fr/secom/tnt.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:59:48.094Z"
+        }
+      ]
+    },
+    {
+      "id": "LittoralFMTV.fr",
+      "name": "Littoral FM TV",
+      "website": "https://littoral.fm/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T13:59:56.951Z"
+        }
+      ]
+    },
+    {
+      "id": "MadininaTV.mq",
+      "name": "Madinina TV",
+      "website": "http://www.madininatv.com/direct.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://api.streamnexus.io/slug/MadininaTV",
+          "format": "embed",
+          "page": "http://www.madininatv.com/direct.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:26:47.347Z"
+        }
+      ]
+    },
+    {
+      "id": "MadrasFMTV.gp",
+      "name": "Madras FM TV",
+      "website": "https://www.madrasfm.tv/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:00:09.540Z"
+        }
+      ]
+    },
+    {
+      "id": "MonacoInfo.mc",
+      "name": "Monaco Info",
+      "website": "https://monacoinfo.com/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://webtv.monacoinfo.com/live/master.m3u8",
+          "format": "hls",
+          "page": "https://monacoinfo.com/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:49:15.367Z"
+        }
+      ]
+    },
+    {
+      "id": "MonteCarloDigitalTelevision.fr",
+      "name": "Monte Carlo Digital Television",
+      "website": null,
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:00:31.315Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:FR:mrbeananimatedfr",
+      "name": "Mr Bean Animated FR",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:00:41.492Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:FR:naturetimefrance",
+      "name": "NatureTime France",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:01:00.049Z"
+        }
+      ]
+    },
+    {
+      "id": "P2MTV.fr",
+      "name": "P2M TV",
+      "website": "https://p2mtv.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+          "format": "hls",
+          "page": "https://p2mtv.com/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:01:03.188Z"
+        }
+      ]
+    },
+    {
+      "id": "PuissanceTV.fr",
+      "name": "Puissance TV",
+      "website": "https://www.puissancetelevision.fr/play/direct",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:01:22.674Z"
+        }
+      ]
+    },
+    {
+      "id": "QwestTV.fr",
+      "name": "Qwest TV",
+      "website": "https://www.qwest.tv/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:01:24.803Z"
+        },
+        {
+          "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:01:43.870Z"
+        }
+      ]
+    },
+    {
+      "id": "QwestTVJazzBeyond.fr",
+      "name": "Qwest TV Jazz & Beyond",
+      "website": "https://qwest.tv/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:01:46.421Z"
+        },
+        {
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:02:05.971Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioTVBasseTerre.gp",
+      "name": "Radio TV Basse-Terre",
+      "website": "https://www.rtvbt.fr/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:02:08.010Z"
+        }
+      ]
+    },
+    {
+      "id": "RHTGuadeloupe.gp",
+      "name": "RHT Guadeloupe",
+      "website": "https://www.rhtguadeloupe.fr/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:02:27.649Z"
+        }
+      ]
+    },
+    {
+      "id": "RMCLife.fr",
+      "name": "RMC Life",
+      "website": "https://www.rmcbfmplay.com/chaine/rmc-life",
+      "categories": [
+        "entertainment",
+        "interactive"
+      ],
+      "streams": [
+        {
+          "url": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:02:29.652Z"
+        }
+      ]
+    },
+    {
+      "id": "ScreamIN.fr",
+      "name": "ScreamIN",
+      "website": "https://communityzylo7.wixsite.com/screamin",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:03:13.037Z"
+        }
+      ]
+    },
+    {
+      "id": "SonyOneBlacklist.fr",
+      "name": "Sony One Blacklist",
+      "website": null,
+      "categories": [
+        "series"
+      ],
+      "streams": [
+        {
+          "url": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:03:15.584Z"
+        },
+        {
+          "url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:03:35.507Z"
+        }
+      ]
+    },
+    {
+      "id": "SonyOneFavoris.fr",
+      "name": "Sony One Favoris",
+      "website": null,
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:03:39.691Z"
+        },
+        {
+          "url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:03:58.466Z"
+        }
+      ]
+    },
+    {
+      "id": "SonyOneHitsAction.fr",
+      "name": "Sony One Hits Action",
+      "website": null,
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:04:02.432Z"
+        },
+        {
+          "url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:04:20.549Z"
+        }
+      ]
+    },
+    {
+      "id": "SonyOneHitsComedie.fr",
+      "name": "Sony One Hits Comedie",
+      "website": null,
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:04:24.688Z"
+        },
+        {
+          "url": "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:04:42.384Z"
+        }
+      ]
+    },
+    {
+      "id": "TebeoTV.fr",
+      "name": "Tébéo",
+      "website": "https://www.tebeo.bzh/direct/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tebeo.bzh/direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:12.681Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleZoukla.mq",
+      "name": "Tele Zoukla",
+      "website": "https://www.telezoukla.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:05:04.694Z"
+        }
+      ]
+    },
+    {
+      "id": "TEVEKA.gp",
+      "name": "TEVEKA",
+      "website": "http://www.teveka.net/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://flux.teveka.net:8443/show/teveka/index.m3u8",
+          "format": "hls",
+          "page": "http://www.teveka.net/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:49:36.354Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleGrenoble.fr",
+      "name": "TG+ (ex-TéléGrenoble)",
+      "website": "https://tgplus.fr/direct/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://player.kick.com/tgplus",
+          "format": "embed",
+          "page": "https://tgplus.fr/direct/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:21:39.340Z"
+        }
+      ]
+    },
+    {
+      "id": "TL7.fr",
+      "name": "TL7 Télévision Loire 7",
+      "website": "https://www.tl7.fr/direct.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://player.twitch.tv/?channel=LE_LIVE_TL7_LOIRE&parent=www.tl7.fr",
+          "format": "embed",
+          "page": "https://www.tl7.fr/direct.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:21:13.611Z"
+        }
+      ]
+    },
+    {
+      "id": "TMA.gp",
+      "name": "TMA",
+      "website": "http://www.tmacaraibes.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://hls.tmacaraibes.com/live/index.m3u8",
+          "format": "hls",
+          "page": "http://www.tmacaraibes.com/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:27:14.792Z"
+        }
+      ]
+    },
+    {
+      "id": "TraceCaribbean.fr",
+      "name": "Trace Caribbean",
+      "website": "https://trace.company/activities/television/trace-caribbean/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:05:28.516Z"
+        }
+      ]
+    },
+    {
+      "id": "TraceGospel.fr",
+      "name": "Trace Gospel",
+      "website": "http://tracegospel.tv/",
+      "categories": [
+        "music",
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:05:33.914Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:05:49.780Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:05:54.988Z"
+        }
+      ]
+    },
+    {
+      "id": "TraceUrban.fr",
+      "name": "Trace Urban",
+      "website": "https://fr.trace.tv/trace-urban/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:06:10.878Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:06:16.381Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:06:32.022Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:06:37.441Z"
+        },
+        {
+          "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:06:53.855Z"
+        },
+        {
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:06:58.466Z"
+        },
+        {
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:07:14.946Z"
+        },
+        {
+          "url": "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:07:20.022Z"
+        },
+        {
+          "url": "https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:07:36.402Z"
+        },
+        {
+          "url": "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:07:41.005Z"
+        },
+        {
+          "url": "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:07:57.388Z"
+        },
+        {
+          "url": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:08:03.054Z"
+        }
+      ]
+    },
+    {
+      "id": "TraceVanillaIslands.fr",
+      "name": "Trace Vanilla Islands",
+      "website": "https://trace.company/activities/television/trace-vanillaislands/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:08:19.344Z"
+        }
+      ]
+    },
+    {
+      "id": "TVFamille.mq",
+      "name": "TV Famille",
+      "website": "https://tvfamille.org/",
+      "categories": [
+        "family",
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+          "format": "hls",
+          "page": "https://tvfamille.org/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:08:24.042Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:FR:tvmonaco",
+      "name": "TV Monaco",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:08:40.320Z"
+        }
+      ]
+    },
+    {
+      "id": "TV5MONDEChefs.fr",
+      "name": "TV5MONDE Chefs",
+      "website": "https://www.tv5mondeplus.com/en/direct?channelid=32",
+      "categories": [
+        "lifestyle",
+        "cooking"
+      ],
+      "streams": [
+        {
+          "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "fast-distributor",
+          "verifiedAt": "2026-10-20T14:09:02.900Z"
+        }
+      ]
+    },
+    {
+      "id": "TV5MondeEurope.fr",
+      "name": "TV5Monde Europe",
+      "website": "https://europe.tv5monde.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:09:11.672Z"
+        }
+      ]
+    },
+    {
+      "id": "TV7Colmar.fr",
+      "name": "TV7 Colmar",
+      "website": "https://www.tv7.fr/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tv7.fr/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:09:27.551Z"
+        }
+      ]
+    },
+    {
+      "id": "TVR.fr",
+      "name": "TVR",
+      "website": "https://www.tvr.bzh/direct",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://captaprod.player.easybroadcast.io/events/54_tvr_vtucuxt",
+          "format": "embed",
+          "page": "https://www.tvr.bzh/direct",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T15:17:41.699Z"
+        },
+        {
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tvr.bzh/direct",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:48:33.070Z"
+        }
+      ]
+    },
+    {
+      "id": "ViaMatele.fr",
+      "name": "ViaMatele",
+      "website": "https://viamatele.tv/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:09:49.277Z"
+        }
+      ]
+    },
+    {
+      "id": "viaTelePaese.fr",
+      "name": "viaTelePaese",
+      "website": "https://viatelepaese.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:10:02.001Z"
+        }
+      ]
+    },
+    {
+      "id": "VosgesTV.fr",
+      "name": "Vosges TV",
+      "website": "https://www.viavosges.tv/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-10-20T14:10:11.994Z"
+        }
+      ]
+    },
+    {
+      "id": "zenith.fr",
+      "name": "zenith",
+      "website": "https://www.znth.tv",
+      "categories": [
+        "general",
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+          "format": "hls",
+          "page": "https://www.znth.tv",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:10:23.613Z"
+        },
+        {
+          "url": "https://live.azenagroup.com/zenith/index.m3u8",
+          "format": "hls",
+          "page": "https://www.znth.tv",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:10:34.683Z"
+        }
+      ]
+    },
+    {
+      "id": "ZitataTV.mq",
+      "name": "Zitata TV",
+      "website": "https://zitata.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.zitata.tv/direct-hls/playlist.m3u8",
+          "format": "hls",
+          "page": "https://zitata.tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-10-20T14:10:45.116Z"
+        }
+      ]
+    }
+  ]
+}

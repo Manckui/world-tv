@@ -1,0 +1,21 @@
+World TV — Crediti geografici Francia
+
+Regioni metropolitane e d'oltremare (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte):
+IGN Admin Express COG, edizione 2018, distribuito da france-geojson (Grégoire David), file regions-avec-outre-mer.geojson.
+https://github.com/gregoiredavid/france-geojson
+Licence Ouverte / Open Licence Etalab: https://www.etalab.gouv.fr/licence-ouverte-open-licence
+
+Nouvelle-Calédonie, Polynésie française, Saint-Pierre-et-Miquelon (assenti dal file IGN):
+Natural Earth, cartografia 1:50m, pubblico dominio; sorgente originale versione 5.1.2:
+https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_50m_admin_0_countries.geojson
+https://www.naturalearthdata.com/about/terms-of-use/
+I contorni regionali conservano tutte le isole presenti in questa fonte; non sono ricavati da world.json,
+la cui semplificazione per il globo aveva eliminato, tra le altre, l'isola di Saint-Pierre.
+
+Codici ISO 3166-2:FR (es. FR-IDF, FR-20R, FR-971). I territori d'oltremare restano alle coordinate reali,
+senza riquadri spostati.
+
+Modifiche per World TV: semplificazione Douglas–Peucker dei contorni, arrotondamento a 4 decimali,
+orientamento orario degli anelli esterni per d3-geo (scripts/fr-prepare-map.mjs).
+Per le tre collettività Natural Earth non viene applicata ulteriore semplificazione.
+I punti rappresentano la città della sede documentata delle emittenti, non aree di copertura.

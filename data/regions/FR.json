@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "country": "FR",
+  "note": "center = [longitudine, latitudine], centroide della geometria in public/maps/france.json.",
+  "regions": [
+    {
+      "code": "FR-ARA",
+      "name": "Auvergne-Rhône-Alpes",
+      "center": [
+        4.5382,
+        45.5159
+      ]
+    },
+    {
+      "code": "FR-BFC",
+      "name": "Bourgogne-Franche-Comté",
+      "center": [
+        4.8093,
+        47.2351
+      ]
+    },
+    {
+      "code": "FR-BRE",
+      "name": "Bretagne",
+      "center": [
+        -2.839,
+        48.1804
+      ]
+    },
+    {
+      "code": "FR-CVL",
+      "name": "Centre-Val de Loire",
+      "center": [
+        1.6853,
+        47.4804
+      ]
+    },
+    {
+      "code": "FR-20R",
+      "name": "Corse",
+      "center": [
+        9.1054,
+        42.1497
+      ]
+    },
+    {
+      "code": "FR-GES",
+      "name": "Grand Est",
+      "center": [
+        5.6194,
+        48.6892
+      ]
+    },
+    {
+      "code": "FR-971",
+      "name": "Guadeloupe",
+      "center": [
+        -61.5394,
+        16.1977
+      ]
+    },
+    {
+      "code": "FR-973",
+      "name": "Guyane",
+      "center": [
+        -53.2353,
+        3.9229
+      ]
+    },
+    {
+      "code": "FR-HDF",
+      "name": "Hauts-de-France",
+      "center": [
+        2.7752,
+        49.9663
+      ]
+    },
+    {
+      "code": "FR-IDF",
+      "name": "Île-de-France",
+      "center": [
+        2.505,
+        48.7091
+      ]
+    },
+    {
+      "code": "FR-974",
+      "name": "La Réunion",
+      "center": [
+        55.5325,
+        -21.1332
+      ]
+    },
+    {
+      "code": "FR-972",
+      "name": "Martinique",
+      "center": [
+        -61.0183,
+        14.6532
+      ]
+    },
+    {
+      "code": "FR-976",
+      "name": "Mayotte",
+      "center": [
+        45.1474,
+        -12.8206
+      ]
+    },
+    {
+      "code": "FR-NOR",
+      "name": "Normandie",
+      "center": [
+        0.1058,
+        49.1215
+      ]
+    },
+    {
+      "code": "FR-NAQ",
+      "name": "Nouvelle-Aquitaine",
+      "center": [
+        0.1927,
+        45.1927
+      ]
+    },
+    {
+      "code": "FR-NC",
+      "name": "Nouvelle-Calédonie",
+      "center": [
+        165.6797,
+        -21.3009
+      ]
+    },
+    {
+      "code": "FR-OCC",
+      "name": "Occitanie",
+      "center": [
+        2.1376,
+        43.7023
+      ]
+    },
+    {
+      "code": "FR-PDL",
+      "name": "Pays de la Loire",
+      "center": [
+        -0.8258,
+        47.4747
+      ]
+    },
+    {
+      "code": "FR-PF",
+      "name": "Polynésie française",
+      "center": [
+        -144.7858,
+        -14.713
+      ]
+    },
+    {
+      "code": "FR-PAC",
+      "name": "Provence-Alpes-Côte d'Azur",
+      "center": [
+        6.0578,
+        43.9569
+      ]
+    },
+    {
+      "code": "FR-PM",
+      "name": "Saint-Pierre-et-Miquelon",
+      "center": [
+        -56.3031,
+        46.919
+      ]
+    }
+  ]
+}

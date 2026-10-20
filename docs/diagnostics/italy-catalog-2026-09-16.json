@@ -1,0 +1,136 @@
+{
+  "checkedAt": "2026-09-16T17:25:56.507347+02:00",
+  "verification": "Catalog download, server API, URL/channel merge and logic fixtures. No new real browser playback tests were performed in this change.",
+  "country": "IT",
+  "channels": 678,
+  "distinctStreamUrls": 849,
+  "channelsWithAlternatives": 111,
+  "sources": [
+    {
+      "id": "iptv-org",
+      "name": "IPTV-org API",
+      "url": "https://iptv-org.github.io/api",
+      "status": "loaded",
+      "entries": 312,
+      "error": null
+    },
+    {
+      "id": "iptv-org-it",
+      "name": "IPTV-org · lista Italia",
+      "url": "https://iptv-org.github.io/iptv/countries/it.m3u",
+      "status": "loaded",
+      "entries": 319,
+      "error": null
+    },
+    {
+      "id": "free-tv-it",
+      "name": "Free-TV · Italia",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_italy.m3u8",
+      "status": "loaded",
+      "entries": 440,
+      "error": null
+    },
+    {
+      "id": "tundrak-it",
+      "name": "IPTV-Italia · Tundrak",
+      "url": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+      "status": "loaded",
+      "entries": 71,
+      "error": null
+    },
+    {
+      "id": "tv2000-official",
+      "name": "TV2000 · player ufficiale",
+      "url": "https://www.tv2000.it/stream/?media=tv2000_live",
+      "status": "loaded",
+      "entries": 1,
+      "error": null
+    }
+  ],
+  "sample": [
+    {
+      "name": "Canale 5",
+      "id": "Canale5.it",
+      "streamCount": 3,
+      "formats": [
+        "dash",
+        "hls"
+      ]
+    },
+    {
+      "name": "Italia 1",
+      "id": "Italia1.it",
+      "streamCount": 3,
+      "formats": [
+        "dash",
+        "hls"
+      ]
+    },
+    {
+      "name": "Rai 1",
+      "id": "Rai1.it",
+      "streamCount": 6,
+      "formats": [
+        "hls"
+      ]
+    },
+    {
+      "name": "Rai 2",
+      "id": "Rai2.it",
+      "streamCount": 3,
+      "formats": [
+        "hls"
+      ]
+    },
+    {
+      "name": "Rai 3",
+      "id": "Rai3.it",
+      "streamCount": 5,
+      "formats": [
+        "hls"
+      ]
+    },
+    {
+      "name": "Rete 4",
+      "id": "Rete4.it",
+      "streamCount": 3,
+      "formats": [
+        "dash",
+        "hls"
+      ]
+    },
+    {
+      "name": "Sky TG24",
+      "id": "SkyTG24.it",
+      "streamCount": 2,
+      "formats": [
+        "hls"
+      ]
+    },
+    {
+      "name": "TV2000",
+      "id": "TV2000.it",
+      "streamCount": 5,
+      "formats": [
+        "hls"
+      ]
+    }
+  ],
+  "checks": {
+    "lint": "passed",
+    "catalogFixtures": "passed",
+    "webpackBuild": "passed",
+    "homeHttp": 200,
+    "italyApiHttp": 200,
+    "chileApiHttp": 200,
+    "vietnamApiHttp": 200
+  },
+  "notes": [
+    "Only entries with stream URLs are shown; no website-only entries.",
+    "Community catalogs do not certify stream ownership or embedding permission.",
+    "Identical URLs retain multiple catalog origins. Different URLs do not necessarily imply independent services.",
+    "Italy does not discard stream candidates solely because IPTV-org metadata says closed; Sky TG24 has a current official live page despite its closed metadata.",
+    "The four entries with only forceUserAgent URLs were excluded; those options are never requested or imitated.",
+    "Previous browser playback records remain in localStorage; old records without provenance retain that limitation."
+  ]
+}

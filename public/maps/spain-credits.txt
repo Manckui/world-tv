@@ -1,0 +1,12 @@
+Spagna — confini delle comunità e città autonome
+Fonte originale: Instituto Geográfico Nacional / CNIG, Spagna.
+Distribuzione: geoBoundaries gbOpen ESP ADM1, boundaryID ESP-ADM1-25490228.
+Dati rappresentati: 2017. Build geoBoundaries: 12 dicembre 2023.
+https://www.geoboundaries.org/api/current/gbOpen/ESP/ADM1/
+https://github.com/wmgeolab/geoBoundaries/tree/9469f09/releaseData/gbOpen/ESP/ADM1
+Licenza: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Modifiche World TV: nomi e codici ISO delle 19 unità, arrotondamento delle
+coordinate e orientamento degli anelli per d3-geo. Le Canarie mantengono
+la posizione geografica reale; non sono spostate in un riquadro.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

@@ -1,0 +1,1067 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "id": "AntennaTre.it",
+      "country": "IT",
+      "name": "Antenna Tre",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:canale10not247",
+      "country": "IT",
+      "name": null,
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "RadioCapitalTiVu.it",
+      "country": "IT",
+      "name": "Radio Capital TiVu",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "MediterraniaTV.it",
+      "country": "IT",
+      "name": "MediterraniaTV",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:supertvoristanonot247",
+      "country": "IT",
+      "name": "Super TV Oristano (720p) [Not 24/7]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:teleestense",
+      "country": "IT",
+      "name": "Tele Estense",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:teleregionecolor",
+      "country": "IT",
+      "name": "TeleRegione Color",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "Telestense.it",
+      "country": "IT",
+      "name": "Telestense",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:trentinotvnot247",
+      "country": "IT",
+      "name": "Trentino TV (720p) [Not 24/7]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "Videolina.it",
+      "country": "IT",
+      "name": "Videolina",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:videolinasardegnanot247",
+      "country": "IT",
+      "name": "Videolina Sardegna (404p) [Not 24/7]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:oratv",
+      "country": "IT",
+      "name": "Ora Tv",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:canale5geoblocked",
+      "country": "IT",
+      "name": "Canale 5 [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "7RadioVisione.it",
+      "country": "IT",
+      "name": "7 RadioVisione",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "FanoTV.it",
+      "country": "IT",
+      "name": "Fano TV",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "PlutoTV.it",
+      "country": "IT",
+      "name": "Pluto TV",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:cine34geoblocked",
+      "country": "IT",
+      "name": "Cine34 [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:irisgeoblocked",
+      "country": "IT",
+      "name": "Iris [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:italia1geoblocked",
+      "country": "IT",
+      "name": "Italia 1 [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:la5geoblocked",
+      "country": "IT",
+      "name": "La5 [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:mediasetextrageoblocked",
+      "country": "IT",
+      "name": "Mediaset Extra [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "RadioIglesiasSardegna.it",
+      "country": "IT",
+      "name": "Radio Iglesias Sardegna",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:rete4geoblocked",
+      "country": "IT",
+      "name": null,
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:topcrimegeoblocked",
+      "country": "IT",
+      "name": "Top Crime [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "catalog:IT:20geoblocked",
+      "country": "IT",
+      "name": "20 [Geo-blocked]",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "7Gold.it",
+      "country": "IT",
+      "name": "7 Gold",
+      "removedAt": "2026-10-08T10:31:18.721Z"
+    },
+    {
+      "id": "WarnerTV.it",
+      "country": "IT",
+      "name": "Warner TV",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "HorrorChannel.it",
+      "country": "IT",
+      "name": "Horror Channel",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "ByoBlu.it",
+      "country": "IT",
+      "name": "ByoBlu",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "LA7d.it",
+      "country": "IT",
+      "name": "LA7d",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "Telegranda.it",
+      "country": "IT",
+      "name": "Telegranda",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:telegrandanot247",
+      "country": "IT",
+      "name": "Telegranda (720p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "GoldTVSat.it",
+      "country": "IT",
+      "name": "Gold TV Sat",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:umbriatrt",
+      "country": "IT",
+      "name": "Umbria+ TRT",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:yviitv",
+      "country": "IT",
+      "name": "Yvii Tv",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:tvuno",
+      "country": "IT",
+      "name": "Tv Uno",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "RomaTV82.it",
+      "country": "IT",
+      "name": "Roma TV 82",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "TeleRadioSciacca.it",
+      "country": "IT",
+      "name": "Tele Radio Sciacca",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:teleradiosciaccanot247",
+      "country": "IT",
+      "name": "Tele Radio Sciacca (240p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:webcomtv",
+      "country": "IT",
+      "name": "Webcom Tv",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "teleMonteneve.it",
+      "country": "IT",
+      "name": "teleMonteneve",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:telemontenevenot247",
+      "country": "IT",
+      "name": "teleMonteneve (480p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "TremediaTV.it",
+      "country": "IT",
+      "name": "Tremedia TV",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "MotorTrend.it",
+      "country": "IT",
+      "name": "Motor Trend",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:radiotvseriea",
+      "country": "IT",
+      "name": "Radio TV Serie A",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:radiotvserieaconrds",
+      "country": "IT",
+      "name": "Radio TV Serie A con RDS",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "SportitaliaMotori.it",
+      "country": "IT",
+      "name": "Sportitalia Motori",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "catalog:IT:sportitaliamotorigeoblocked",
+      "country": "IT",
+      "name": "Sportitalia Motori (720p) [Geo-blocked]",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "ZonaDAZN.it",
+      "country": "IT",
+      "name": "Zona DAZN",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "VideoRola.it",
+      "country": "IT",
+      "name": "Video Rola",
+      "removedAt": "2026-10-08T15:10:36.474Z"
+    },
+    {
+      "id": "ABChannel.it",
+      "country": "IT",
+      "name": "AB Channel",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "ABCTV.it",
+      "country": "IT",
+      "name": "ABC TV",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:basilicata1tv",
+      "country": "IT",
+      "name": "Basilicata 1 Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:canale74sicilia",
+      "country": "IT",
+      "name": "Canale 74 Sicilia",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:cremona1",
+      "country": "IT",
+      "name": "Cremona 1",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:disneychannelgermany",
+      "country": "IT",
+      "name": "Disney Channel (Germany)",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:donnashoppingtv",
+      "country": "IT",
+      "name": "Donna Shopping Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:equostv",
+      "country": "IT",
+      "name": "Equos Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "Frisbee.it",
+      "country": "IT",
+      "name": "Frisbee",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:gschannel",
+      "country": "IT",
+      "name": "GS Channel",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:hgtvhomegarden",
+      "country": "IT",
+      "name": "HGTV - Home&Garden",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "ItaliaChannel.it",
+      "country": "IT",
+      "name": "Italia Channel",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "K2.it",
+      "country": "IT",
+      "name": "K2",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "La7Cinema.it",
+      "country": "IT",
+      "name": "La7 Cinema",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:lucaniatv",
+      "country": "IT",
+      "name": "Lucania Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:matrixtv",
+      "country": "IT",
+      "name": "Matrix Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:mediterraneatv",
+      "country": "IT",
+      "name": "Mediterranea Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:medjugorjetvpuglia",
+      "country": "IT",
+      "name": "Medjugorje Tv Puglia",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:ofantotv",
+      "country": "IT",
+      "name": "Ofanto Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:poptv",
+      "country": "IT",
+      "name": "Pop Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "Rai4.it",
+      "country": "IT",
+      "name": "Rai 4",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "RaiGulp.it",
+      "country": "IT",
+      "name": "Rai Gulp",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "RaiPremium.it",
+      "country": "IT",
+      "name": "Rai Premium",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "RaiSport.it",
+      "country": "IT",
+      "name": "Rai Sport",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:rdetv",
+      "country": "IT",
+      "name": "RDE Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:rtctelecalabrianot247",
+      "country": "IT",
+      "name": "RTC Telecalabria (720p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:rtvsanmarino",
+      "country": "IT",
+      "name": "RTV San Marino",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:sanmarinortv",
+      "country": "IT",
+      "name": "San Marino RTV (720p)",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:sanmarinortvsport",
+      "country": "IT",
+      "name": "San Marino RTV Sport (720p)",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "SiciliaTV.it",
+      "country": "IT",
+      "name": "Sicilia TV",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "SL48TV.it",
+      "country": "IT",
+      "name": "SL48 TV",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:telenostra",
+      "country": "IT",
+      "name": "Tele Nostra",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:teleoccidente",
+      "country": "IT",
+      "name": "Tele Occidente",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:teleoltre",
+      "country": "IT",
+      "name": "Tele Oltre",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:telesirio",
+      "country": "IT",
+      "name": "Tele Sirio",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:telesudpuglia",
+      "country": "IT",
+      "name": "Tele Sud Puglia",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:televideoagrigentotva",
+      "country": "IT",
+      "name": "Tele Video Agrigento (T.V.A.)",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:teleitalia41",
+      "country": "IT",
+      "name": "Teleitalia 41",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "TelePordenone.it",
+      "country": "IT",
+      "name": "TelePordenone",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:teleroma56",
+      "country": "IT",
+      "name": "Teleroma 56",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "TelesudTrapani.it",
+      "country": "IT",
+      "name": "Telesud Trapani",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:telesudtrapaninot247",
+      "country": "IT",
+      "name": "Telesud Trapani (720p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "TopCalcio24.it",
+      "country": "IT",
+      "name": "Top Calcio 24",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:tvyes",
+      "country": "IT",
+      "name": "Tv Yes",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "TVYesItalia.it",
+      "country": "IT",
+      "name": "TV Yes Italia",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "TV7Triveneta.it",
+      "country": "IT",
+      "name": "TV7 Triveneta",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:unotv",
+      "country": "IT",
+      "name": "Uno Tv",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:vb33",
+      "country": "IT",
+      "name": "VB33",
+      "removedAt": "2026-10-08T15:13:54.490Z"
+    },
+    {
+      "id": "catalog:IT:antennatregeoblocked",
+      "country": "IT",
+      "name": "Antenna Tre (480p) [Geo-blocked]",
+      "removedAt": "2026-10-08T15:23:36.624Z"
+    },
+    {
+      "id": "catalog:IT:canalediecinot247",
+      "country": "IT",
+      "name": "Canale Dieci (540p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:23:36.624Z"
+    },
+    {
+      "id": "TeleA.it",
+      "country": "IT",
+      "name": "Tele A",
+      "removedAt": "2026-10-08T15:23:36.624Z"
+    },
+    {
+      "id": "catalog:IT:telespaziomessina",
+      "country": "IT",
+      "name": "Tele Spazio Messina",
+      "removedAt": "2026-10-08T15:23:36.624Z"
+    },
+    {
+      "id": "catalog:IT:tsntelesondrionewsnot247",
+      "country": "IT",
+      "name": "TSN TeleSondrio News (480p) [Not 24/7]",
+      "removedAt": "2026-10-08T15:23:36.624Z"
+    },
+    {
+      "id": "catalog:ES:teledeporte",
+      "country": "ES",
+      "name": "Teledeporte",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:esport3",
+      "country": "ES",
+      "name": "Esport3",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:etbdeporteskirolak360",
+      "country": "ES",
+      "name": "ETB Deportes (Kirolak 360)",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:sx3",
+      "country": "ES",
+      "name": "SX3",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:7tvalmeria",
+      "country": "ES",
+      "name": "7TV Almería",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:7tvgranada",
+      "country": "ES",
+      "name": "7TV Granada",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvmalaga",
+      "country": "ES",
+      "name": "101TV Málaga",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvmalagacofrade",
+      "country": "ES",
+      "name": "101TV Málaga Cofrade",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:8tvlajanda",
+      "country": "ES",
+      "name": "8TV La Janda",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:ptvmalaga",
+      "country": "ES",
+      "name": "PTV Málaga",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvsevilla",
+      "country": "ES",
+      "name": "101TV Sevilla",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvsevillacofrade",
+      "country": "ES",
+      "name": "101TV Sevilla Cofrade",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvgranada",
+      "country": "ES",
+      "name": "101TV Granada",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvantequera",
+      "country": "ES",
+      "name": "101TV Antequera",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvcadiz",
+      "country": "ES",
+      "name": "101TV Cádiz",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:101tvcostadelsol",
+      "country": "ES",
+      "name": "101TV Costa del Sol",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:interalmeriatv",
+      "country": "ES",
+      "name": "Interalmería TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:ptvlinares",
+      "country": "ES",
+      "name": "PTV Linares",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:ptvsevilla",
+      "country": "ES",
+      "name": "PTV Sevilla",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:manilvatv",
+      "country": "ES",
+      "name": "Manilva TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:9lalomatv",
+      "country": "ES",
+      "name": "9 la Loma TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:ptvgranada",
+      "country": "ES",
+      "name": "PTV Granada",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:ptvcordoba",
+      "country": "ES",
+      "name": "PTV Córdoba",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:canalcoin",
+      "country": "ES",
+      "name": "Canal Coín",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:la2canarias",
+      "country": "ES",
+      "name": "La 2 Canarias",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tenerifeplustv",
+      "country": "ES",
+      "name": "Tenerife Plus TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:nortevision",
+      "country": "ES",
+      "name": "NORTEvisión",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:estecanaltv",
+      "country": "ES",
+      "name": "Este Canal TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:noroestetv",
+      "country": "ES",
+      "name": "Noroeste TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tvhellin",
+      "country": "ES",
+      "name": "TV Hellín",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:imastv",
+      "country": "ES",
+      "name": "Imás TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:canal2000",
+      "country": "ES",
+      "name": "Canal 2000",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:teletoledo",
+      "country": "ES",
+      "name": "TeleToledo",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:juntadecastillayleon",
+      "country": "ES",
+      "name": "Junta de Castilla y León",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catexclusiu1",
+      "country": "ES",
+      "name": "3Cat Exclusiu 1",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catexclusiu2",
+      "country": "ES",
+      "name": "3Cat Exclusiu 2",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catexclusiu3",
+      "country": "ES",
+      "name": "3Cat Exclusiu 3",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catexclusiu4",
+      "country": "ES",
+      "name": "3Cat Exclusiu 4",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catanime",
+      "country": "ES",
+      "name": "3Cat Anime",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:3catverdiclassics",
+      "country": "ES",
+      "name": "3Cat Verdi Clàssics",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:la2cat",
+      "country": "ES",
+      "name": "La 2 Cat",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:lleidatv",
+      "country": "ES",
+      "name": "Lleida TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tvcostabrava",
+      "country": "ES",
+      "name": "TV Costa Brava",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:lhospitalettv",
+      "country": "ES",
+      "name": "L'Hospitalet TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:penedestv",
+      "country": "ES",
+      "name": "Penedès TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:rtvelvendrell",
+      "country": "ES",
+      "name": "RTV El Vendrell",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:bdnbadalonatv",
+      "country": "ES",
+      "name": "BDN Badalona TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:rtvcardedeu",
+      "country": "ES",
+      "name": "RTV Cardedeu",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:etv",
+      "country": "ES",
+      "name": "etv",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:iprotv",
+      "country": "ES",
+      "name": "iPROtv",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:8lamarinatv",
+      "country": "ES",
+      "name": "8 La Marina TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:intercomarcaltv",
+      "country": "ES",
+      "name": "Intercomarcal TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:maestrattv",
+      "country": "ES",
+      "name": "Maestrat TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:alacantitv",
+      "country": "ES",
+      "name": "Alacantí TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:elche7tv",
+      "country": "ES",
+      "name": "Elche 7 TV",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tva",
+      "country": "ES",
+      "name": "tvA",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tv4lavall",
+      "country": "ES",
+      "name": "TV 4 La Vall",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:canal56",
+      "country": "ES",
+      "name": "Canal 56",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:unevinalopo",
+      "country": "ES",
+      "name": "Une Vinalopó",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:cortsvalencianes",
+      "country": "ES",
+      "name": "Corts Valencianes",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tvrioja",
+      "country": "ES",
+      "name": "TV Rioja",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:parlamentodelarioja",
+      "country": "ES",
+      "name": "Parlamento de La Rioja",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:populartvmelilla",
+      "country": "ES",
+      "name": "Popular TV Melilla",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:etb1",
+      "country": "ES",
+      "name": "ETB 1",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:etb2",
+      "country": "ES",
+      "name": "ETB 2",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:etbeventos2",
+      "country": "ES",
+      "name": "ETB Eventos 2",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:tele7",
+      "country": "ES",
+      "name": "Tele 7",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:telebilbao",
+      "country": "ES",
+      "name": "TeleBilbao",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:euskolegebiltzarra",
+      "country": "ES",
+      "name": "Eusko Legebiltzarra",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:consejodegobiernodelaregiondemurcia",
+      "country": "ES",
+      "name": "Consejo de Gobierno de la Región de Murcia",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:aragontvinternacional",
+      "country": "ES",
+      "name": "Aragón TV Internacional",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:canalimagenalmansa",
+      "country": "ES",
+      "name": "CanalImagen Almansa",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "catalog:ES:canal6totana",
+      "country": "ES",
+      "name": "Canal 6 Totana",
+      "removedAt": "2026-10-20T16:38:36.082Z"
+    },
+    {
+      "id": "ETV.gp",
+      "country": "FR",
+      "name": "ETV",
+      "removedAt": "2026-10-20T17:14:13.129Z"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+@mixin row($gap: 12px) {
+  display: flex;
+  align-items: center;
+  gap: $gap;
+}
+
+.app {
+  --surface: #111c30;
+  --panel: #1c2c43;
+  --text: #f2ede5;
+  --muted: #abbbd0;
+  --line: #445a74;
+  --land: #59799a;
+  --ocean: #192f49;
+  --accent: #ffa879;
+  --accent-hover: #ffba94;
+  --selected: var(--accent);
+  --grid: #304a67;
+  --land-line: #1a3049;
+  --neighbor: #20334b;
+  --neighbor-line: #364c66;
+  --other-region: #2c435e;
+  --on-light-muted: #586171;
+  background: var(--surface);
+  color: var(--text);
+  height: 100dvh;
+  min-height: 640px;
+  overflow: hidden;
+
+  button { cursor: pointer; }
+  button:disabled { cursor: default; opacity: .45; }
+  button, a, input, select { touch-action: manipulation; }
+  :focus:not(:focus-visible) { outline: none; }
+  button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, [tabindex]:focus-visible {
+    outline: 2px solid var(--selected);
+    outline-offset: 4px;
+  }
+  button { transition: background-color 160ms, color 160ms; }
+  button:disabled:hover { background: inherit; }
+  svg { flex-shrink: 0; }
+}
+
+.header {
+  @include row(24px);
+  justify-content: space-between;
+  height: 77px;
+  margin: 0 40px;
+  border-bottom: 1px solid var(--line);
+}
+.explorationBar {
+  @include row(16px);
+  height: 64px;
+  margin: 0 40px;
+  label { color: var(--muted); font-size: 14px; }
+}
+.brand {
+  @include row(10px);
+  flex-shrink: 0;
+  white-space: nowrap;
+  padding: 0;
+  color: var(--text);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -.025em;
+  min-height: 44px;
+}
+.countryField {
+  position: relative;
+  flex: 0 1 144px;
+  min-width: 0;
+  > svg { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+}
+.languageButton {
+  display: grid;
+  place-items: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  font-size: 24px;
+  line-height: 1;
+  &:hover { opacity: .8; }
+}
+.app .countrySelect {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 44px;
+  padding: 0 40px 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--panel);
+  color: var(--text);
+  font: inherit;
+  font-size: 16px;
+  line-height: normal;
+  cursor: pointer;
+  &:hover { border-color: var(--muted); }
+  &:focus { outline: none; box-shadow: none; }
+  &:focus-visible { outline: 1px solid var(--text); outline-offset: 2px; }
+}
+.desktopNav {
+  @include row(32px);
+  margin-left: auto;
+  button { min-height: 44px; color: var(--muted); font-size: 14px; padding: 0; }
+  button[aria-current], button:hover { color: var(--text); }
+}
+.workspace {
+  display: grid;
+  min-height: 0;
+  grid-template-columns: minmax(0, 1fr) 368px;
+  height: calc(100% - 141px);
+  padding: 34px 0 24px;
+  margin: 0 40px;
+  position: relative;
+}
+.mapArea { position: relative; min-width: 0; overflow: hidden; }
+.mapCanvas { position: absolute; inset: 0; animation: mapArrival 650ms cubic-bezier(.16, 1, .3, 1); }
+.mapSvg { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+.mapSvg:active { cursor: grabbing; }
+.ocean { fill: var(--ocean); stroke: var(--line); stroke-width: 1; }
+.graticule { fill: none; stroke: var(--grid); stroke-width: .65; pointer-events: none; }
+.land { fill: var(--neighbor); stroke: var(--neighbor-line); stroke-width: .7; pointer-events: none; }
+.availableLand { fill: var(--land); stroke: var(--land-line); }
+.selectedLand { fill: var(--selected); }
+.neighborCountries { fill: var(--neighbor); stroke: var(--neighbor-line); stroke-width: .8; pointer-events: none; }
+.regionShape {
+  fill: var(--land);
+  stroke: var(--surface);
+  stroke-width: 1.3;
+  cursor: pointer;
+  transition: fill 150ms;
+  &:hover, &:focus-visible { fill: var(--selected); outline: none; stroke: var(--text); stroke-width: 2; }
+}
+.selectedRegion { fill: var(--selected); }
+.regionMap {
+  .regionShape { fill: var(--other-region); }
+  .selectedRegion { fill: var(--land); }
+}
+.mapPin { cursor: pointer; outline: none; }
+.pinRing { fill: transparent; stroke: var(--text); stroke-width: 1.5; }
+.pinCenter { fill: var(--land); stroke: var(--surface); stroke-width: 2; }
+.activePin .pinCenter, .localPin:hover .pinCenter, .localPin:focus-visible .pinCenter { fill: var(--accent); }
+.localPin .pinRing { fill: var(--surface); stroke-width: 2; }
+.pinCore { fill: var(--surface); }
+.pinHit { fill: transparent; }
+.pinLabelBackground { fill: var(--surface); }
+.pinLabel { fill: var(--text); font-size: 22px; letter-spacing: -.02em; }
+.pinHint { fill: var(--muted); font-size: 11px; }
+.regionLabel { fill: var(--text); font-size: 13px; paint-order: stroke; stroke: var(--surface); stroke-width: 2.5; stroke-linejoin: round; }
+.mapCredits { position: absolute; bottom: 0; right: 32px; color: var(--muted); font-size: 10px; padding: 6px 0; text-decoration: underline; text-underline-offset: 3px; }
+.mapPin:hover .pinRing, .mapPin:focus-visible .pinRing { stroke: var(--text); stroke-width: 3; }
+.mapControls {
+  display: grid;
+  gap: 8px;
+  position: absolute;
+  right: 32px;
+  bottom: 82px;
+  button { @include row(0); justify-content: center; width: 44px; height: 44px; background: var(--panel); border-radius: 3px; }
+  button:last-child { margin-top: 12px; }
+  button:hover { background: var(--line); }
+  button:focus-visible { outline-color: var(--text); }
+}
+.mapMessage { position: absolute; top: 45%; left: 20%; max-width: 340px; padding: 24px; color: var(--muted); background: var(--surface); line-height: 1.6; }
+.mapMessage button { text-decoration: underline; text-underline-offset: 4px; min-height: 44px; }
+.mapIntro {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  right: 24px;
+  pointer-events: none;
+  h1 { font-size: clamp(46px, 4.72vw, 68px); line-height: 1.02; font-weight: 400; letter-spacing: -.04em; margin: 0 0 32px; }
+  p { color: var(--muted); font-size: 17px; line-height: 1.5; margin: 0 0 0 3px; }
+}
+.countryIntro {
+  h1 { margin-top: 36px; margin-bottom: 16px; max-width: 600px; font-size: clamp(40px, 4.45vw, 64px); }
+  p { font-size: 18px; }
+}
+.mapIntro .expansionNote { max-width: 320px; }
+.breadcrumb {
+  @include row(12px);
+  pointer-events: auto;
+  font-size: 14px;
+  min-height: 24px;
+  color: var(--muted);
+  button { padding: 4px 0; min-height: 24px; }
+  button:hover { color: var(--text); }
+  [aria-current] { color: var(--text); }
+}
+.mapFooter {
+  position: absolute;
+  left: 24px;
+  bottom: 24px;
+  p { font-size: 14px; color: var(--muted); line-height: 1.5; margin: 0 0 80px; }
+  small { display: block; color: var(--muted); font-size: 11px; margin-top: 20px; }
+}
+.countryIntro ~ .mapFooter {
+  p { margin-bottom: 16px; max-width: 350px; }
+  small { display: none; }
+}
+.primaryButton, .randomButton {
+  @include row(12px);
+  justify-content: center;
+  background: var(--accent);
+  color: var(--surface);
+  min-height: 48px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  &:hover { background: var(--accent-hover); }
+}
+.randomButton { width: 236px; }
+.sidebar {
+  min-width: 0;
+  min-height: 0;
+  border-left: 1px solid var(--line);
+  padding-left: 28px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  > :not(.results) { flex-shrink: 0; }
+}
+.sidebarHeading {
+  position: relative;
+  flex: 0 0 auto;
+  margin-bottom: 24px;
+  h2 { font-size: 32px; letter-spacing: -.035em; line-height: 1.1; font-weight: 400; margin: 0 0 12px; }
+  p { color: var(--muted); font-size: 13px; line-height: 1.45; margin: 0; }
+}
+.postcard {
+  position: relative;
+  margin: 0 0 24px;
+  img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
+  figcaption { position: absolute; right: 8px; bottom: 8px; background: var(--surface); color: var(--text); padding: 5px 8px; font-size: 10px; }
+}
+.channelPoster {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background: var(--panel);
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  padding: 20px;
+  margin-bottom: 24px;
+  text-align: left;
+  strong { font-size: 28px; font-weight: 400; letter-spacing: -.025em; }
+  > span { align-self: center; display: grid; place-items: center; border-radius: 50%; width: 52px; height: 52px; background: var(--text); color: var(--surface); }
+  small { font-size: 12px; color: var(--muted); }
+  &:hover { background: var(--line); }
+}
+.featuredTitle {
+  @include row;
+  justify-content: space-between;
+  margin-top: 8px;
+  h2 { font-size: 28px; font-weight: 500; letter-spacing: -.025em; margin: 0; overflow-wrap: anywhere; }
+}
+.featuredBody {
+  > p { font-size: 13px; color: var(--muted); line-height: 1.5; margin: 8px 0 20px; }
+  > .primaryButton { width: 100%; }
+}
+.iconButton {
+  @include row(0);
+  justify-content: center;
+  min-width: 44px;
+  width: 44px;
+  height: 44px;
+  background: var(--panel);
+  border-radius: 3px;
+  &:hover { background: var(--line); }
+}
+.isFavorite svg { fill: currentColor; }
+.listSectionTitle {
+  @include row;
+  justify-content: space-between;
+  border-top: 1px solid var(--line);
+  margin-top: 30px;
+  padding-top: 16px;
+  h3 { font-size: 18px; font-weight: 400; letter-spacing: -.015em; margin: 0; }
+}
+.textButton {
+  @include row(8px);
+  font-size: 13px;
+  min-height: 44px;
+  text-align: left;
+  color: var(--muted);
+  &:hover { color: var(--text); }
+}
+.channelList {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0;
+  li { @include row(0); border-bottom: 1px solid var(--line); }
+  li:last-child { border-bottom: 0; }
+  li > .iconButton { background: transparent; min-width: 36px; width: 36px; }
+  li > .iconButton svg { width: 17px; height: 17px; }
+}
+.channelRow {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) 16px;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 4px;
+  width: 100%;
+  text-align: left;
+  min-width: 0;
+  > svg { width: 16px; }
+  &:hover { background: var(--panel); }
+}
+.channelInitials { @include row(0); justify-content: center; width: 44px; height: 44px; background: var(--panel); font-size: 11px; font-weight: 600; }
+.channelCopy {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+  strong { font-size: 14px; font-weight: 500; overflow-wrap: anywhere; }
+  small { color: var(--muted); font-size: 11px; line-height: 1.4; }
+}
+.activeChannel { background: var(--panel); }
+.exploreRegions { @include row; justify-content: space-between; min-height: 48px; font-size: 14px; border-top: 1px solid var(--line); width: 100%; padding: 12px 0; }
+.sidebarFooter {
+  @include row;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 11px;
+  margin-top: auto;
+  padding-top: 24px;
+  a { min-height: 32px; display: inline-flex; align-items: center; text-decoration: underline; text-underline-offset: 3px; }
+}
+.search {
+  @include row;
+  background: var(--panel);
+  min-height: 48px;
+  padding: 0 14px;
+  margin-bottom: 16px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  &:has(input:focus-visible) { border-color: var(--muted); }
+  input { width: 100%; min-width: 0; background: transparent; color: var(--text); border: 0; padding: 13px 0; font-size: 16px; line-height: 20px; caret-color: var(--text); }
+  input:focus-visible { outline: none; }
+  input::placeholder { color: var(--muted); opacity: 1; }
+  button { min-width: 28px; min-height: 40px; }
+}
+.tabs {
+  @include row(24px);
+  flex: 0 0 auto;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 8px;
+  button { font-size: 14px; min-height: 44px; padding: 0; color: var(--muted); border-bottom: 1px solid transparent; margin-bottom: -1px; white-space: nowrap; }
+  button[aria-pressed="true"] { color: var(--text); border-color: var(--text); }
+  button:hover { color: var(--text); }
+}
+.results {
+  flex: 1 1 0;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+  scrollbar-gutter: stable;
+}
+.regionList {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+  button:not(.textButton) { @include row; justify-content: space-between; text-align: left; width: 100%; padding: 20px 12px; min-height: 90px; }
+  button:hover { background: var(--panel); }
+  strong { display: block; font-size: 25px; font-weight: 400; letter-spacing: -.025em; }
+  small { display: block; margin-top: 7px; color: var(--muted); font-size: 13px; }
+}
+.catalogNote { color: var(--muted); font-size: 13px; line-height: 1.6; margin: 24px 0 0; }
+.empty {
+  padding: 32px 4px;
+  > svg { margin: 0 0 24px; color: var(--selected); }
+  h3 { font-size: 28px; font-weight: 400; letter-spacing: -.025em; line-height: 1.1; margin: 0 0 16px; }
+  p { font-size: 14px; line-height: 1.6; color: var(--muted); margin-bottom: 24px; }
+}
+.loadingDot { display: block; width: 8px; height: 8px; background: var(--selected); border-radius: 50%; margin-bottom: 24px; animation: loading 1.2s ease-in-out infinite alternate; }
+.playerArea { position: absolute; top: 34px; bottom: 24px; right: 0; width: 368px; background: var(--surface); padding-left: 28px; border-left: 1px solid var(--line); overflow-y: auto; z-index: 5; }
+.dockedPlayer { margin-bottom: 16px; max-height: 44%; overflow-y: auto; scrollbar-width: thin; }
+.compactPlayer {
+  .playerToolbar { margin-bottom: 4px; }
+  .playerTitle { margin-bottom: 12px; h2 { font-size: 20px; margin-bottom: 4px; } }
+  :global(.player-status) { margin-top: 8px; font-size: 12px; }
+  :global(.retry-button), :global(.official-link) { margin-top: 0; margin-right: 16px; font-size: 12px; }
+  :global(.official-link) { display: inline-flex; }
+}
+.expanded .playerArea { left: 0; width: 100%; border-left: 0; padding: 0; }
+.expanded .player { max-width: 1000px; margin: 0 auto; }
+.playerToolbar { @include row; justify-content: space-between; margin-bottom: 24px; }
+.playerTitle {
+  @include row;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  h2 { font-size: 32px; letter-spacing: -.025em; font-weight: 400; line-height: 1.1; margin: 0 0 12px; overflow-wrap: anywhere; }
+  p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
+}
+.player {
+  :global(.video-frame) { width: 100%; background: var(--surface); aspect-ratio: 16 / 9; overflow: hidden; }
+  :global(video), :global(iframe) { display: block; width: 100%; height: 100%; border: 0; }
+  :global(.player-status) { @include row(8px); align-items: flex-start; margin-top: 16px; font-size: 13px; line-height: 1.6; color: var(--muted); }
+  :global(.status-dot) { width: 6px; height: 6px; margin-top: 7px; flex-shrink: 0; border-radius: 50%; background: var(--muted); }
+  :global(.status-dot.playing) { background: var(--selected); }
+  :global(.status-dot.failed) { background: #ed9c87; }
+  :global(.retry-button), :global(.official-link) { display: inline-flex; align-items: center; min-height: 44px; margin-top: 16px; font-size: 13px; text-decoration: underline; text-underline-offset: 4px; }
+  :global(.official-link) { display: flex; }
+}
+.playerNote { border-top: 1px solid var(--line); margin: 32px 0 0; padding-top: 20px; font-size: 12px; line-height: 1.6; color: var(--muted); }
+.playerLoading { aspect-ratio: 16 / 9; display: grid; place-items: center; background: var(--panel); color: var(--muted); font-size: 14px; }
+.skipLink { position: fixed; top: -100px; left: 40px; z-index: 30; background: var(--text); color: var(--surface); padding: 16px; }
+.skipLink:focus { top: 16px; }
+.mobileNav, .mobileFavorite, .mobilePreview, .closePanel, .mobileSummary, .mobileRegionChannels { display: none; }
+
+@keyframes mapArrival { from { opacity: .7; transform: scale(.96); } to { opacity: 1; transform: scale(1); } }
+@keyframes loading { to { opacity: .4; } }
+
+@media (max-width: 1150px) and (min-width: 761px) {
+  .header { margin: 0 24px; }
+  .workspace { margin: 0 24px; grid-template-columns: minmax(0, 1fr) 330px; }
+  .sidebar, .playerArea { padding-left: 20px; }
+  .playerArea { width: 330px; }
+  .mapIntro h1 { font-size: 48px; }
+  .countryIntro h1 { max-width: 340px; }
+  .mapIntro p { font-size: 15px; }
+  .mapControls { right: 20px; }
+  .randomButton { width: 185px; }
+  .tabs { gap: 18px; }
+}
+
+@media (max-width: 760px) {
+  .app { min-height: 600px; }
+  .header { height: 80px; margin: 0 20px; border-bottom: 0; gap: 8px; }
+  .countryField { flex-basis: 112px; }
+  .countryField > svg { right: 10px; }
+  .app .countrySelect { padding-inline: 12px 32px; }
+  .explorationBar { margin: 0 20px; justify-content: space-between; }
+  .explorationBar .countryField { flex-basis: 144px; }
+  .brand { font-size: 22px; }
+  .desktopNav { display: none; }
+  .languageButton { margin-left: auto; }
+  .mobileFavorite { display: flex; }
+  .workspace { display: block; margin: 0; padding: 0; height: calc(100% - 220px - env(safe-area-inset-bottom, 0px)); }
+  .mapArea { width: 100%; height: 100%; }
+  .mapIntro {
+    top: 16px;
+    left: 20px;
+    right: 20px;
+    h1 { font-size: 44px; line-height: 1.04; letter-spacing: -.035em; margin: 0; }
+    p { display: none; }
+    .expansionNote { display: block; margin: 12px 0 0; max-width: 280px; font-size: 14px; line-height: 1.5; }
+  }
+  .worldHeading { display: block; font-size: clamp(28px, 8.8vw, 36px); }
+  .countryIntro {
+    top: 6px;
+    h1 { font-size: 38px; margin-top: 20px; max-width: 100%; }
+  }
+  .breadcrumb { gap: 10px; font-size: 12px; }
+  .mapFooter {
+    top: 186px;
+    bottom: auto;
+    left: 20px;
+    p, small { display: none; }
+  }
+  .randomButton {
+    background: var(--panel);
+    color: var(--text);
+    min-height: 48px;
+    width: 178px;
+    font-weight: 400;
+    &:hover { background: var(--line); }
+  }
+  .countryIntro ~ .mapFooter { display: block; top: 118px; p { display: none; } }
+  .mapControls { right: 20px; bottom: 205px; gap: 8px; }
+  .regionMap ~ .mapControls { bottom: 255px; }
+  .mapCredits { right: 20px; font-size: 9px; padding: 4px 0; }
+  .mapControls button:last-child { margin-top: 0; }
+  .mapMessage { left: 20px; right: 20px; top: 38%; padding: 20px; font-size: 14px; }
+  .mobilePreview {
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    padding: 16px;
+    background: var(--text);
+    color: var(--surface);
+    .featuredTitle { margin-top: 4px; padding-right: 110px; }
+    h2 { font-size: 26px; }
+    .iconButton { background: transparent; width: 36px; height: 36px; min-width: 36px; }
+    .featuredBody > p { color: var(--on-light-muted); margin: 8px 0 24px; font-size: 12px; min-height: 18px; padding-right: 110px; }
+    .primaryButton { min-height: 44px; padding: 10px 12px; }
+    button:focus-visible { outline-color: var(--surface); }
+    &.previewWithoutPhoto {
+      .featuredTitle, .featuredBody > p { padding-right: 0; }
+    }
+  }
+  .mobilePostcard {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    margin: 0;
+    width: 104px;
+    height: 76px;
+    img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    figcaption { position: absolute; right: 3px; bottom: 3px; background: var(--surface); color: var(--text); font-size: 9px; padding: 3px 5px; }
+  }
+  .mobileRegionChannels {
+    display: flex;
+    flex-direction: column;
+    max-height: 220px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+    background: var(--surface);
+    header { @include row; justify-content: space-between; margin-bottom: 12px; flex-shrink: 0; }
+    h2 { font-size: 24px; font-weight: 400; letter-spacing: -.025em; margin: 0; }
+    .channelList { margin: 0; }
+    .channelRow { padding: 12px 8px; }
+  }
+  .mobileSummary {
+    @include row;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    background: var(--text);
+    color: var(--surface);
+    padding: 20px;
+    strong { display: block; font-size: 24px; font-weight: 500; letter-spacing: -.025em; }
+    span { display: block; font-size: 12px; margin-top: 8px; color: var(--on-light-muted); }
+    button { width: 44px; height: 44px; background: var(--surface); color: var(--text); flex-shrink: 0; display: grid; place-items: center; }
+    button:focus-visible { outline-color: var(--surface); }
+  }
+  .sidebar { display: none; }
+  .showPanel {
+    .mapArea { visibility: hidden; }
+    .sidebar { display: flex; position: absolute; inset: 0; padding: 16px 20px 24px; border: 0; background: var(--surface); }
+  }
+  .watching:not(.showPanel) .sidebar {
+    display: flex;
+    position: absolute;
+    inset: auto 20px 0;
+    max-height: 46%;
+    padding: 12px 0 0;
+    background: var(--surface);
+    border: 0;
+    border-top: 1px solid var(--line);
+    > :not(.dockedPlayer):not(.playerArea) { display: none; }
+    .dockedPlayer { max-height: none; min-height: 0; margin: 0; flex-shrink: 1; }
+    .playerTitle { h2 { font-size: 18px; } p { display: none; } }
+    .player :global(.video-frame) { max-height: 150px; }
+  }
+  .sidebarHeading { padding-right: 50px; margin-bottom: 24px; h2 { font-size: 32px; } }
+  .closePanel { display: flex; position: absolute; right: 0; top: -6px; }
+  .regionList { margin-top: 8px; strong { font-size: 24px; } }
+  .search input { font-size: 16px; }
+  .channelRow { min-height: 76px; gap: 14px; }
+  .channelCopy strong { font-size: 16px; }
+  .channelCopy small { font-size: 12px; }
+  .channelList li > .iconButton { min-width: 44px; width: 44px; }
+  .mobileNav {
+    @include row(0);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: calc(76px + env(safe-area-inset-bottom, 0px));
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    background: var(--surface);
+    border-top: 1px solid var(--line);
+    z-index: 10;
+    button { display: grid; place-content: center; justify-items: center; gap: 7px; flex: 1; height: 100%; color: var(--muted); font-size: 11px; }
+    button[aria-current], button:hover { color: var(--text); }
+  }
+  .playerArea { inset: 0; width: 100%; border: 0; padding: 4px 20px 24px; }
+  .playerTitle h2 { font-size: 32px; }
+  .playerToolbar { margin-bottom: 20px; }
+  .expandPlayer { display: none; }
+  .expanded .playerArea { padding: 4px 20px 24px; }
+  .skipLink { left: 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .app *, .mapCanvas { animation: none; transition: none; }
+}

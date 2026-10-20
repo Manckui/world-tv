@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "country": "ES",
+  "regions": [
+    {
+      "code": "ES-AN",
+      "name": "Andalucía",
+      "center": [
+        -4.5778,
+        37.4678
+      ]
+    },
+    {
+      "code": "ES-AR",
+      "name": "Aragón",
+      "center": [
+        -0.6649,
+        41.5134
+      ]
+    },
+    {
+      "code": "ES-AS",
+      "name": "Asturias",
+      "center": [
+        -5.9936,
+        43.2938
+      ]
+    },
+    {
+      "code": "ES-CN",
+      "name": "Canarias",
+      "center": [
+        -15.6715,
+        28.3477
+      ]
+    },
+    {
+      "code": "ES-CB",
+      "name": "Cantabria",
+      "center": [
+        -4.0299,
+        43.1979
+      ]
+    },
+    {
+      "code": "ES-CL",
+      "name": "Castilla y León",
+      "center": [
+        -4.7848,
+        41.7521
+      ]
+    },
+    {
+      "code": "ES-CM",
+      "name": "Castilla-La Mancha",
+      "center": [
+        -3.0064,
+        39.5775
+      ]
+    },
+    {
+      "code": "ES-CT",
+      "name": "Catalunya",
+      "center": [
+        1.5243,
+        41.7973
+      ]
+    },
+    {
+      "code": "ES-CE",
+      "name": "Ceuta",
+      "center": [
+        -5.3434,
+        35.8938
+      ]
+    },
+    {
+      "code": "ES-MD",
+      "name": "Comunidad de Madrid",
+      "center": [
+        -3.7168,
+        40.4945
+      ]
+    },
+    {
+      "code": "ES-VC",
+      "name": "Comunitat Valenciana",
+      "center": [
+        -0.5579,
+        39.3949
+      ]
+    },
+    {
+      "code": "ES-EX",
+      "name": "Extremadura",
+      "center": [
+        -6.1514,
+        39.1878
+      ]
+    },
+    {
+      "code": "ES-GA",
+      "name": "Galicia",
+      "center": [
+        -7.9103,
+        42.7548
+      ]
+    },
+    {
+      "code": "ES-IB",
+      "name": "Illes Balears",
+      "center": [
+        2.907,
+        39.575
+      ]
+    },
+    {
+      "code": "ES-RI",
+      "name": "La Rioja",
+      "center": [
+        -2.5162,
+        42.2751
+      ]
+    },
+    {
+      "code": "ES-ML",
+      "name": "Melilla",
+      "center": [
+        -2.9329,
+        35.2868
+      ]
+    },
+    {
+      "code": "ES-NC",
+      "name": "Navarra",
+      "center": [
+        -1.6464,
+        42.6661
+      ]
+    },
+    {
+      "code": "ES-PV",
+      "name": "País Vasco / Euskadi",
+      "center": [
+        -2.6165,
+        43.0434
+      ]
+    },
+    {
+      "code": "ES-MC",
+      "name": "Región de Murcia",
+      "center": [
+        -1.4854,
+        38.0013
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+name: Add or improve a country
+description: Coordinate research on national, regional and local television.
+title: "[Country] "
+body:
+  - type: input
+    id: country
+    attributes:
+      label: Country or region
+      placeholder: Name and ISO country code
+    validations:
+      required: true
+  - type: textarea
+    id: coverage
+    attributes:
+      label: What can you help with?
+      description: Broadcasters, local knowledge, geography, playback testing or translation.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Official sources
+      description: Public broadcaster pages, regulator directories and boundary datasets with their licenses.
+  - type: textarea
+    id: testing
+    attributes:
+      label: Playback evidence or known limitations
+      description: Browser, actual test location if known, date and results. Do not paste credentials or temporary tokens.

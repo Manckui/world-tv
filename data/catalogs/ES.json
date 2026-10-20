@@ -1,0 +1,4357 @@
+{
+  "version": 1,
+  "country": "ES",
+  "channels": [
+    {
+      "id": "catalog:ES:la1",
+      "name": "La 1",
+      "website": "https://www.rtve.es/play/videos/directo/la-1/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:10:57.501Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la2",
+      "name": "La 2",
+      "website": "https://www.rtve.es/play/videos/directo/la-2/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:11:19.553Z"
+        },
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:11:42.995Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:eltorotv",
+      "name": "El Toro TV",
+      "website": "https://eltorotv.com/tv-en-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:06:18.631Z"
+        },
+        {
+          "url": "https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:06:35.796Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:trece",
+      "name": "TRECE",
+      "website": "https://www.cope.es/directos/trece",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.cope.es/directos/trece",
+          "verifiedAt": "2026-10-20T14:22:18.877Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:rneparatodos",
+      "name": "RNE para todos",
+      "website": "https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ztnr.rtve.es/ztnr/6688753.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:18:42.930Z"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:18:48.183Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:24h",
+      "name": "24h",
+      "website": "https://www.rtve.es/play/videos/directo/24h/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:13.724Z"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:14.896Z"
+        },
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:36.523Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catinfo",
+      "name": "3CatInfo",
+      "website": "https://www.3cat.cat/3cat/directes/3catinfo-tv/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:52:00.250Z"
+        },
+        {
+          "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:52:10.161Z"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:negociostv",
+      "name": "Negocios TV",
+      "website": "https://www.negocios.com/directo",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:13:42.754Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:teledeporte",
+      "name": "Teledeporte",
+      "website": "https://www.rtve.es/play/videos/directo/tdp/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:esport3",
+      "name": "Esport3",
+      "website": "https://www.3cat.cat/3cat/directes/esport3/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etbdeporteskirolak360",
+      "name": "ETB Deportes (Kirolak 360)",
+      "website": "https://kirolakeitb.eus/es/kirolak-360/en-directo/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://kirolakeitb.eus/es/kirolak-360/en-directo/"
+        },
+        {
+          "url": "https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:realmadridtv",
+      "name": "Real Madrid TV",
+      "website": "https://www.realmadrid.com/real-madrid-tv",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:18:04.369Z"
+        },
+        {
+          "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:18:20.999Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:clan",
+      "name": "Clan",
+      "website": "https://www.rtve.es/play/videos/directo/clan/",
+      "categories": [
+        "kids"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:04:09.331Z"
+        },
+        {
+          "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:sx3",
+      "name": "SX3",
+      "website": "https://www.3cat.cat/3cat/directes/sx3/",
+      "categories": [
+        "kids"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:infantilcanalextremadura",
+      "name": "Infantil (Canal Extremadura)",
+      "website": "https://www.canalextremadura.app/videos/354923-canal-tematico-infantil",
+      "categories": [
+        "kids"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:10:10.294Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalsurandalucia",
+      "name": "Canal Sur Andalucía",
+      "website": "https://www.canalsurmas.es/videos/131772-canal-sur-andalucia",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:01:55.301Z"
+        },
+        {
+          "url": "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalsur2accesible",
+      "name": "Canal Sur 2 Accesible",
+      "website": "https://www.canalsurmas.es/videos/77595-canal-sur-2-accesible",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtva-channel22.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:01:48.646Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalsurmasnoticias",
+      "name": "Canal Sur Más Noticias",
+      "website": "https://www.canalsurmas.es/videos/131524-canal-sur-mas-live-14",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtva-channel42.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:02:09.909Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvandalucia",
+      "name": "7TV Andalucía",
+      "website": "https://www.7tvandalucia.es/video/andalucia/directo/20250718114601000917.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/andalucia/directo/20250718114601000917.html",
+          "verifiedAt": "2026-10-20T13:52:46.504Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvalmeria",
+      "name": "7TV Almería",
+      "website": "https://www.7tvandalucia.es/video/almeria/almeria-7tv-directo/20250723091305001107.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVALMERIA.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvcadiz",
+      "name": "7TV Cádiz",
+      "website": "https://www.7tvandalucia.es/video/cadiz/cadiz-7tv-directo/20250723092939001110.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:53:09.349Z"
+        },
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/7TVCADIZ.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz/cadiz-7tv-directo/20250723092939001110.html",
+          "verifiedAt": "2026-10-20T14:31:29.512Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvcordoba",
+      "name": "7TV Córdoba",
+      "website": "https://www.7tvandalucia.es/video/cordoba/cordoba-7tv-directo/20250723094526001122.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:53:31.692Z"
+        },
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/7TVCORDOBA.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cordoba/cordoba-7tv-directo/20250723094526001122.html",
+          "verifiedAt": "2026-10-20T14:31:30.433Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvgranada",
+      "name": "7TV Granada",
+      "website": "https://www.7tvandalucia.es/video/granada/granada-7tv-directo/20250723120311001147.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVGRANADA.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/granada/granada-7tv-directo/20250723120311001147.html"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvhuelva",
+      "name": "7TV Huelva",
+      "website": "https://www.7tvandalucia.es/video/huelva/huelva-7tv-directo/20250723121506001159.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/regional.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:53:39.533Z"
+        },
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/huelva/huelva-7tv-directo/20250723121506001159.html",
+          "verifiedAt": "2026-10-20T14:31:51.184Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvjaen",
+      "name": "7TV Jaén",
+      "website": "https://www.7tvandalucia.es/video/jaen/jaen-7tv-directo/20250723123031001175.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:53:54.045Z"
+        },
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/7TVJAEN.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/jaen/jaen-7tv-directo/20250723123031001175.html",
+          "verifiedAt": "2026-10-20T14:32:12.841Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvmalaga",
+      "name": "7TV Málaga",
+      "website": "https://www.7tvandalucia.es/video/granada/malaga-7tv-directo/20250723140142001188.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:54:23.876Z"
+        },
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/7TVMALAGA.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/granada/malaga-7tv-directo/20250723140142001188.html",
+          "verifiedAt": "2026-10-20T14:31:52.069Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvsevilla",
+      "name": "7TV Sevilla",
+      "website": "https://www.7tvandalucia.es/video/sevilla/sevilla-7tv-directo/20250723144948001214.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/sevilla/sevilla-7tv-directo/20250723144948001214.html",
+          "verifiedAt": "2026-10-20T13:55:00.583Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvaljarafe",
+      "name": "7TV Aljarafe",
+      "website": "https://www.7tvandalucia.es/video/sevilla-aljarafe/aljarafe-7tv-directo/20250731093841001361.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVALJARAFE.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/sevilla-aljarafe/aljarafe-7tv-directo/20250731093841001361.html",
+          "verifiedAt": "2026-10-20T13:52:32.219Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvarcos",
+      "name": "7TV Arcos",
+      "website": "https://www.7tvandalucia.es/video/cadiz-arcos/arcos-7tv-directo/20250731092124001344.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVARCOS.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz-arcos/arcos-7tv-directo/20250731092124001344.html",
+          "verifiedAt": "2026-10-20T13:52:54.268Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvcampodegibraltar",
+      "name": "7TV Campo de Gibraltar",
+      "website": "https://www.7tvandalucia.es/video/cadiz-campodegibraltar/campo-gibraltar-7tv-directo/20250731092253001346.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVALGECIRAS.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz-campodegibraltar/campo-gibraltar-7tv-directo/20250731092253001346.html",
+          "verifiedAt": "2026-10-20T13:53:16.577Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvlinares",
+      "name": "7TV Linares",
+      "website": "https://www.7tvandalucia.es/video/jaen-linares/linares-7tv-directo/20250731093604001357.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVLINARES.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/jaen-linares/linares-7tv-directo/20250731093604001357.html",
+          "verifiedAt": "2026-10-20T13:54:16.303Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvjerez",
+      "name": "7TV Jerez",
+      "website": "https://www.7tvandalucia.es/video/cadiz-jerez/jerez-7tv-directo/20250731092738001352.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz-jerez/jerez-7tv-directo/20250731092738001352.html",
+          "verifiedAt": "2026-10-20T13:54:01.644Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvsanfernando",
+      "name": "7TV San Fernando",
+      "website": "https://www.7tvandalucia.es/video/cadiz-sanfernando/san-fernando-7tv-directo/20250724085255001240.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVSANFERNANDO.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz-sanfernando/san-fernando-7tv-directo/20250724085255001240.html",
+          "verifiedAt": "2026-10-20T13:54:45.854Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7tvrota",
+      "name": "7TV Rota",
+      "website": "https://www.7tvandalucia.es/video/cadiz-rota/rota-7tv-directo/20250731112132001354.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/7TVROTA.m3u8",
+          "format": "hls",
+          "page": "https://www.7tvandalucia.es/video/cadiz-rota/rota-7tv-directo/20250731112132001354.html",
+          "verifiedAt": "2026-10-20T13:54:38.494Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvmalaga",
+      "name": "101TV Málaga",
+      "website": "https://101play.tv/es/pl/359",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvmalagacofrade",
+      "name": "101TV Málaga Cofrade",
+      "website": "https://101play.tv/es/pl/614",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeMalaga.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:almeria24htv",
+      "name": "Almería 24h TV",
+      "website": "https://www.almeria24htv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:56:45.411Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ondacadiz",
+      "name": "Onda Cádiz",
+      "website": "https://ondacadiz.es/television-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8",
+          "format": "hls",
+          "page": "https://ondacadiz.es/television-directo",
+          "verifiedAt": "2026-10-20T14:14:33.764Z"
+        },
+        {
+          "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:14:53.048Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:8tvsierradecadiz",
+      "name": "8TV Sierra de Cádiz",
+      "website": "https://8cadiz.es/directo-sierra/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+          "format": "hls",
+          "page": "https://8cadiz.es/directo-sierra/",
+          "verifiedAt": "2026-10-20T13:55:32.746Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:8tvchiclana",
+      "name": "8TV Chiclana",
+      "website": "https://8cadiz.es/directo-chiclana/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s.emisoras.tv:8081/chiclana/index.m3u8",
+          "format": "hls",
+          "page": "https://8cadiz.es/directo-chiclana/",
+          "verifiedAt": "2026-10-20T13:55:10.718Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:8tvlajanda",
+      "name": "8TV La Janda",
+      "website": "https://8cadiz.es/directo-la-janda/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s.emisoras.tv:8081/lajanda/index.m3u8",
+          "format": "hls",
+          "page": "https://8cadiz.es/directo-la-janda/",
+          "verifiedAt": "2026-10-20T13:55:38.285Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tuyalajandatv",
+      "name": "Tuya La Janda TV",
+      "website": "https://tuyatv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://nimble.tuyapro.es/app/tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://tuyatv.com",
+          "verifiedAt": "2026-10-20T14:22:32.965Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ondaalgecirastv",
+      "name": "Onda Algeciras TV",
+      "website": "https://ondaalgecirastv.com/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+          "format": "hls",
+          "page": "https://ondaalgecirastv.com/en-directo/",
+          "verifiedAt": "2026-10-20T14:14:25.607Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ptvmalaga",
+      "name": "PTV Málaga",
+      "website": "https://ptvtelecom.com/canales/malaga.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer.zapitv.com/PTV-malaga/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:andaluciacocina",
+      "name": "Andalucía Cocina",
+      "website": "https://xn--vivaespaa-s6a.tv/user/live-tv/ch201-andalucia-cocina/11",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8",
+          "format": "hls",
+          "page": "https://xn--vivaespaa-s6a.tv/user/live-tv/ch201-andalucia-cocina/11",
+          "verifiedAt": "2026-10-20T13:57:08.118Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:teleonuba",
+      "name": "Teleonuba",
+      "website": "https://www.teleonuba.es/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:21:03.883Z"
+        },
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://embed.azhr.tv/teleonuba/live/directo?autoplay",
+          "verifiedAt": "2026-10-20T14:32:13.268Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvsevilla",
+      "name": "101TV Sevilla",
+      "website": "https://101play.tv/es/pl/362",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvsevillacofrade",
+      "name": "101TV Sevilla Cofrade",
+      "website": "https://101play.tv/es/pl/617",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeSevilla.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvgranada",
+      "name": "101TV Granada",
+      "website": "https://101play.tv/es/pl/233",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:granada.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalcosta",
+      "name": "CanalCosta",
+      "website": "https://www.canalcostatv.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:02:59.733Z"
+        },
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://embed.azhr.tv/canalcosta-tv/live/directo?autoplay",
+          "verifiedAt": "2026-10-20T14:32:34.132Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:condavision",
+      "name": "Condavisión",
+      "website": "https://www.condavision.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:04:14.357Z"
+        },
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/Condavision/_definst_/endirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://embed.azhr.tv/condavision/live/directo?autoplay",
+          "verifiedAt": "2026-10-20T14:32:34.629Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:marbellatv",
+      "name": "Marbella TV",
+      "website": "https://rtvmarbella.tv/tv-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+          "format": "hls",
+          "page": "https://rtvmarbella.tv/tv-en-directo/",
+          "verifiedAt": "2026-10-20T14:12:52.627Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:m95marbella",
+      "name": "M95 Marbella",
+      "website": "https://www.m95tvmarbella.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:12:35.832Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:esteponatv",
+      "name": "Estepona TV",
+      "website": "https://television.estepona.es/tvendirecto/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:07:03.646Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal45tv",
+      "name": "Canal 45 TV",
+      "website": "https://www.canal45tv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+          "format": "hls",
+          "page": "https://www.canal45tv.com",
+          "verifiedAt": "2026-10-20T14:00:28.566Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:costanoroestetv",
+      "name": "Costa Noroeste TV",
+      "website": "https://www.costanoroestetv.net",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+          "format": "hls",
+          "page": "https://www.costanoroestetv.net",
+          "verifiedAt": "2026-10-20T14:04:48.758Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalmalaga",
+      "name": "Canal Málaga",
+      "website": "https://www.canalmalaga.es/videos/251314-directo-television",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:01:11.270Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvantequera",
+      "name": "101TV Antequera",
+      "website": "https://101play.tv/es/pl/440",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvcadiz",
+      "name": "101TV Cádiz",
+      "website": "https://101play.tv/es/pl/569",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:101tvcostadelsol",
+      "name": "101TV Costa del Sol",
+      "website": "https://101play.tv/es/pl/476",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:televisionalhaurin",
+      "name": "Televisión Alhaurín",
+      "website": "https://rtvalhaurinelgrande.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13354&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:21:13.061Z"
+        },
+        {
+          "url": "https://5940924978228.streamlock.net/directo1-1/ngrp:directo1-1_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://rtvalhaurinelgrande.com",
+          "verifiedAt": "2026-10-20T14:32:55.306Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canaldonana",
+      "name": "Canal Doñana",
+      "website": "https://www.canaldonana.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+          "format": "hls",
+          "page": "https://www.canaldonana.com",
+          "verifiedAt": "2026-10-20T14:00:43.471Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:interalmeriatv",
+      "name": "Interalmería TV",
+      "website": "https://www.interalmeria.tv/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://interalmeria.tv/directo/live.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalluztelevision",
+      "name": "Canal Luz Televisión",
+      "website": "https://canalluztelevision.es/en-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://embed.azhr.tv/canalluztelevision/live/directo",
+          "verifiedAt": "2026-10-20T14:01:05.967Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:almeriatv",
+      "name": "Almería TV",
+      "website": "https://almeriatv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://broadcast1.radioponiente.org/atv/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:57:01.194Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalsanroque",
+      "name": "Canal San Roque",
+      "website": "https://www.tv.multimediasanroque.com/videos/category/4520-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:01:32.622Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ptvlinares",
+      "name": "PTV Linares",
+      "website": "https://www.ptvtelecom.com/canales/linares.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer.zapitv.com/ptv-linarez/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ptvsevilla",
+      "name": "PTV Sevilla",
+      "website": "https://ptvtelecom.com/canales/sevilla.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:telemotril",
+      "name": "Telemotril",
+      "website": "https://telemotril.com/telemotril-en-vivo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video.telemotril.com/telemotril-channel-1/index.m3u8",
+          "format": "hls",
+          "page": "https://telemotril.com/telemotril-en-vivo/",
+          "verifiedAt": "2026-10-20T14:20:50.115Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:torremolinostv",
+      "name": "Torremolinos TV",
+      "website": "https://torremolinostv.com/tv-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:22:10.986Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tg7",
+      "name": "TG7",
+      "website": "https://tg7.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://flu-01.hucame.es/TG7/index.fmp4.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:21:49.658Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:saltv",
+      "name": "Sal TV",
+      "website": "https://www.saltv.es/elementor-92444/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://nimble.tuyapro.es/saltv/tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.saltv.es/elementor-92444/",
+          "verifiedAt": "2026-10-20T14:19:31.234Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:manilvatv",
+      "name": "Manilva TV",
+      "website": "https://www.rtvmanilva.com/tvdirecto/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:fuengirolatv",
+      "name": "Fuengirola TV",
+      "website": "https://fuengirolatv.com/directo-ftv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/FTV.m3u8",
+          "format": "hls",
+          "page": "https://fuengirolatv.com/directo-ftv/",
+          "verifiedAt": "2026-10-20T14:08:39.747Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:9lalomatv",
+      "name": "9 la Loma TV",
+      "website": "https://9laloma.tv/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://9laloma.tv/live.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:mijas340tv",
+      "name": "Mijas 3.40 TV",
+      "website": "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+          "format": "hls",
+          "page": "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+          "verifiedAt": "2026-10-20T14:12:57.650Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ptvgranada",
+      "name": "PTV Granada",
+      "website": "https://ptvtelecom.com/canales/granada.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer.zapitv.com/PTV-granada/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ptvcordoba",
+      "name": "PTV Córdoba",
+      "website": "https://ptvtelecom.com/canales/cordoba.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalcoin",
+      "name": "Canal Coín",
+      "website": "https://canalcoin.com/tv-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://canalcoin.garjim.es/hls/directo.m3u8",
+          "format": "hls",
+          "page": "https://canalcoin.com/tv-directo/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:dieztvandujar",
+      "name": "Diez TV Andújar",
+      "website": "https://dieztv.es/dieztv-andujar-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8",
+          "format": "hls",
+          "page": "https://dieztv.es/dieztv-andujar-directo/",
+          "verifiedAt": "2026-10-20T14:05:28.046Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:dieztvlasvillas",
+      "name": "Diez TV Las Villas",
+      "website": "https://dieztv.es/dieztv-lasvillas-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+          "format": "hls",
+          "page": "https://dieztv.es/dieztv-lasvillas-directo/",
+          "verifiedAt": "2026-10-20T14:05:34.612Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:dieztvubeda",
+      "name": "Diez TV Úbeda",
+      "website": "https://dieztv.es/dieztv-ubeda-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+          "format": "hls",
+          "page": "https://dieztv.es/dieztv-ubeda-directo/",
+          "verifiedAt": "2026-10-20T14:05:50.997Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:cartayatv",
+      "name": "Cartaya TV",
+      "website": "https://www.radiocartaya.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video3.lhdserver.es/cartayatv/live.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:03:14.989Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvmcordoba",
+      "name": "TVM Córdoba",
+      "website": "https://tvm.cordoba.es/live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:26:09.575Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:telegranada",
+      "name": "TeleGranada",
+      "website": "https://artefm.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://telegranada.es/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://artefm.es"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:huelvaconecta",
+      "name": "Huelva Conecta",
+      "website": "https://huelvaconecta.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8",
+          "format": "hls",
+          "page": "https://huelvaconecta.com",
+          "verifiedAt": "2026-10-20T14:10:04.592Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:musictvgranada",
+      "name": "Music TV Granada",
+      "website": "https://musictvgranada.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+          "format": "hls",
+          "page": "https://cloudvideo.servers10.com:2020/VideoPlayer/8032",
+          "verifiedAt": "2026-10-20T14:13:21.975Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:parlamentodeandalucia",
+      "name": "Parlamento de Andalucía",
+      "website": "https://www.parlamentodeandalucia.es/stream/canal4.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:15:16.994Z"
+        },
+        {
+          "url": "https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:15:22.480Z"
+        },
+        {
+          "url": "https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:15:42.887Z"
+        },
+        {
+          "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:15:47.364Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvcanariartvc",
+      "name": "TV Canaria (RTVC)",
+      "website": "https://www.canariasplay.es/videos/314784-rtvc-en-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:23:12.667Z"
+        },
+        {
+          "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:23:17.163Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la1canarias",
+      "name": "La 1 Canarias",
+      "website": "https://www.rtve.es/play/videos/directo/tve-canarias/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:10:58.062Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la2canarias",
+      "name": "La 2 Canarias",
+      "website": "https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:11:40.988Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:24hcanarias",
+      "name": "24h Canarias",
+      "website": "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:37.512Z"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:58.278Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal4tenerife",
+      "name": "Canal 4 Tenerife",
+      "website": "https://www.canal4tenerife.tv/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:59:57.083Z"
+        },
+        {
+          "url": "https://videoserver.tmcreativos.com:2020/hls/hkbpjryheu/hkbpjryheu.m3u8",
+          "format": "hls",
+          "page": "https://videoserver.tmcreativos.com:2020/VideoPlayer/hkbpjryheu?autoplay=1",
+          "verifiedAt": "2026-10-20T14:33:03.598Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:mirametv",
+      "name": "Mírame TV",
+      "website": "https://mirametv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:13:21.415Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tenerifeplustv",
+      "name": "Tenerife Plus TV",
+      "website": "https://www.tenerifeplus.tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://k20.usastreams.com:8081/tenerifeplus/index.m3u8",
+          "format": "hls",
+          "page": "https://k20.usastreams.com:2020/VideoPlayer/tenerifeplus?autoplay=1",
+          "verifiedAt": "2026-10-20T14:21:26.788Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:atlanticotelevision",
+      "name": "Atlántico Televisión",
+      "website": "https://www.atlanticotelevision.com/en-vivo-tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.atlanticotelevision.com/hls/hi/index.m3u8",
+          "format": "hls",
+          "page": "https://www.atlanticotelevision.com/en-vivo-tv/",
+          "verifiedAt": "2026-10-20T13:57:52.292Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:lancelottv",
+      "name": "Lancelot TV",
+      "website": "https://www.lancelot.tv/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:12:12.444Z"
+        },
+        {
+          "url": "https://live.lancelot.tv/directo/lancelot.television/index.m3u8?utm_source=lancelottv",
+          "format": "hls",
+          "page": "https://www.lancelot.tv/directo/",
+          "verifiedAt": "2026-10-20T14:33:17.458Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:nortevision",
+      "name": "NORTEvisión",
+      "website": "https://nortevision.es/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "http://amaru.dyndns.org:8870/0.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:13:49.584Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ahoratv",
+      "name": "Ahora TV",
+      "website": "https://ahoratelevision.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tv.mediacp.eu/hls/ahoratv/ahoratv.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:56:17.836Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:rtvmogan",
+      "name": "RTV Mogán",
+      "website": "https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:19:09.354Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:estecanaltv",
+      "name": "Este Canal TV",
+      "website": "http://www.estecanaltv.com/modules.php?mod=portal&file=endirecto",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "http://stream.estecanaltv.com:8009/live/stream/index.m3u8",
+          "format": "hls",
+          "page": "http://www.estecanaltv.com/modules.php?mod=portal&file=endirecto"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:noroestetv",
+      "name": "Noroeste TV",
+      "website": "https://sites.google.com/view/noroestetv/inicio",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:fuerteventuratv",
+      "name": "Fuerteventura TV",
+      "website": "https://fuerteventuratelevision.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:08:59.447Z"
+        },
+        {
+          "url": "https://live.lancelot.tv/directo/fuerteventura.television/index.m3u8",
+          "format": "hls",
+          "page": "https://fuerteventuratelevision.com",
+          "verifiedAt": "2026-10-20T14:33:25.247Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:factoriadecarnaval",
+      "name": "Factoría de Carnaval",
+      "website": "https://multicarnaval.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+          "format": "hls",
+          "page": "https://eu1.servers10.com:2020/VideoPlayer/8116?autoplay=1",
+          "verifiedAt": "2026-10-20T14:08:37.701Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:radiocalimatv",
+      "name": "Radio Calima TV",
+      "website": "https://calima.fm/es/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:17:59.083Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:afortunadastv",
+      "name": "Afortunadas TV",
+      "website": "https://afortunadastv.com/en-vivo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
+          "format": "hls",
+          "page": "https://afortunadastv.com/en-vivo/",
+          "verifiedAt": "2026-10-20T13:56:00.083Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:sajanansatv",
+      "name": "Saja Nansa TV",
+      "website": "https://www.ondaoccidental.es/sajanansatv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:19:10.695Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:populartvcantabria",
+      "name": "Popular TV Cantabria",
+      "website": "https://populartvcantabria.com/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+          "format": "hls",
+          "page": "https://populartvcantabria.com/en-directo/",
+          "verifiedAt": "2026-10-20T14:16:54.019Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:delaredulintv",
+      "name": "De Laredu Lin TV",
+      "website": "https://delaredulintv.com/television-online/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8034/index.m3u8",
+          "format": "hls",
+          "page": "https://eu1.servers10.com:2020/VideoPlayer/8034?autoplay=1",
+          "verifiedAt": "2026-10-20T14:05:05.557Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tevecan9",
+      "name": "Tevecan 9",
+      "website": "https://closeradio.tv/jarbhouse/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:21:35.415Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:castillalamanchamediacmm",
+      "name": "Castilla-La Mancha Media (CMM)",
+      "website": "https://www.cmmedia.es/play/en-directo/tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:03:21.054Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:castillalamancharadiocmm",
+      "name": "Castilla-La Mancha Radio (CMM)",
+      "website": "https://www.cmmedia.es/play/en-directo/radio/emision-visual-radio-c-lm.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_fmx3e3sd/protocol/https/format/applehttp/a.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:03:37.856Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvhellin",
+      "name": "TV Hellín",
+      "website": "https://televisionhellin.com/tvhellindirecto.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8",
+          "format": "hls",
+          "page": "https://media.profesionalhosting.com:2000/VideoPlayer/directohellin?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:guadatvmedia",
+      "name": "Guada TV Media",
+      "website": "https://www.guadatv.tv/streaming/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud.fastchannel.es/mic/manifiest/hls/guadatv2/guadatv.m3u8",
+          "format": "hls",
+          "page": "https://www.guadatv.tv/streaming/",
+          "verifiedAt": "2026-10-20T16:37:20.326Z"
+        },
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:09:24.898Z"
+        },
+        {
+          "url": "https://cloud.fastchannel.es/app_dai/master_playlists/guadatv.m3u8",
+          "format": "hls",
+          "page": "https://guadatv.xn--vivaespaa-s6a.tv/index.php?id=10",
+          "verifiedAt": "2026-10-20T14:33:40.114Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:alcarriatv",
+      "name": "Alcarria TV",
+      "website": "https://www.alcarria.tv/ver-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
+          "format": "hls",
+          "page": "https://todostreaming.eu/hlsvideo/?src=https%3A%2F%2Fcls.alcarria.tv%2Flive%2Falcarriatv-livestream.m3u8&autoplay=1&muted=0",
+          "verifiedAt": "2026-10-20T13:56:22.873Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:imastv",
+      "name": "Imás TV",
+      "website": "https://imastv.es/directo-tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal4mancha",
+      "name": "Canal 4 Mancha",
+      "website": "https://villarrobledonoticias.com/canal-4-mancha/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://villarrobledonoticias.com/canal-4-mancha/",
+          "verifiedAt": "2026-10-20T13:59:44.799Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal2000",
+      "name": "Canal 2000",
+      "website": "https://www.canal2000.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:59:00.634Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:teletoledo",
+      "name": "TeleToledo",
+      "website": "https://www.teletoledo.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvaranda",
+      "name": "TV Aranda",
+      "website": "https://www.telearanda.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:22:55.741Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:cortesdecastillayleon",
+      "name": "Cortes de Castilla y León",
+      "website": "https://www.ccyl.es/Home/Inicio",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directo.ccyl.es/CortesDeLeon/smil:CortesDeLeon.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directo.ccyl.es/CamposDeCastilla/smil:CamposDeCastilla.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directo.ccyl.es/CastilloDeFuensaldana/smil:CastilloDeFuensaldana.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:juntadecastillayleon",
+      "name": "Junta de Castilla y León",
+      "website": "https://www.jcyl.es/web/jcyltv.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://16escalones-live2.flumotion.com/chunks.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tv3",
+      "name": "TV3",
+      "website": "https://www.3cat.cat/3cat/directes/tv3/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.3cat.cat/3cat/directes/tv3/",
+          "verifiedAt": "2026-10-20T16:37:21.781Z"
+        },
+        {
+          "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:33",
+      "name": "33",
+      "website": "https://www.3cat.cat/3cat/directes/33/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.3cat.cat/3cat/directes/33/",
+          "verifiedAt": "2026-10-20T16:37:42.779Z"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catexclusiu1",
+      "name": "3Cat Exclusiu 1",
+      "website": "https://www.3cat.cat/3cat/directes/oca1/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catexclusiu2",
+      "name": "3Cat Exclusiu 2",
+      "website": "https://www.3cat.cat/3cat/directes/oca2/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catexclusiu3",
+      "name": "3Cat Exclusiu 3",
+      "website": "https://www.3cat.cat/3cat/directes/oca3/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catexclusiu4",
+      "name": "3Cat Exclusiu 4",
+      "website": "https://www.3cat.cat/3cat/directes/oca4/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca4-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catanime",
+      "name": "3Cat Anime",
+      "website": "https://www.3cat.cat/3cat/directes/tem2/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/tem2-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catdoraemon",
+      "name": "3Cat Doraemon",
+      "website": "https://www.3cat.cat/3cat/directes/fc3/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:51:09.151Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catcameresdeltemps",
+      "name": "3Cat Càmeres del temps",
+      "website": "https://www.3cat.cat/3cat/directes/beauties/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:50:51.036Z"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catjocdecartes",
+      "name": "3Cat Joc de Cartes",
+      "website": "https://www.3cat.cat/3cat/directes/fc2/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:51:23.416Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catplatsbruts",
+      "name": "3Cat Plats bruts",
+      "website": "https://www.3cat.cat/3cat/directes/fc1/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:51:30.987Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catvinagreta",
+      "name": "3Cat Vinagreta",
+      "website": "https://www.3cat.cat/3cat/directes/fc4/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:51:47.752Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:3catverdiclassics",
+      "name": "3Cat Verdi Clàssics",
+      "website": "https://www.3cat.cat/3cat/directes/tem1/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/tem1-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la1catalunya",
+      "name": "La 1 Catalunya",
+      "website": "https://www.rtve.es/play/videos/directo/tve-catalunya/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:11:18.984Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la2cat",
+      "name": "La 2 Cat",
+      "website": "https://www.rtve.es/play/videos/directo/tve-catalunya/la-2-cat/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:24hcatalunya",
+      "name": "24h Catalunya",
+      "website": "https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:49:59.604Z"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:50:20.228Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:radio4",
+      "name": "Ràdio 4",
+      "website": "https://www.rtve.es/play/radio/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ztnr.rtve.es/ztnr/6982935.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:17:37.672Z"
+        },
+        {
+          "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_cam_main_dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:17:43.007Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:bondiatv",
+      "name": "Bon Dia TV",
+      "website": "https://www.3cat.cat/bondiatv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:58:16.126Z"
+        },
+        {
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:beteve",
+      "name": "betevé",
+      "website": "https://beteve.cat/en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:58:06.065Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalreus",
+      "name": "Canal Reus",
+      "website": "https://canalreus.cat/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://canalreus.cat/directe/",
+          "verifiedAt": "2026-10-20T14:01:27.310Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:empordatv",
+      "name": "Empordà TV",
+      "website": "https://www.empordadigital.cat/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:06:40.989Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalterrassa",
+      "name": "Canal Terrassa",
+      "website": "https://terrassadigital.cat/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://terrassadigital.cat/directe/",
+          "verifiedAt": "2026-10-20T14:02:53.585Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tac12",
+      "name": "TAC 12",
+      "website": "https://www.tac12.tv/en-directe",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest3-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tac12.tv/en-directe",
+          "verifiedAt": "2026-10-20T14:33:50.237Z"
+        },
+        {
+          "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:lleidatv",
+      "name": "Lleida TV",
+      "website": "https://ott.lleidatv.cat/ca/pl/6",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/lleidatvlive/smil:lleidatvocasional.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvcostabrava",
+      "name": "TV Costa Brava",
+      "website": "https://www.tvcostabrava.com/canals-online",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:lhospitalettv",
+      "name": "L'Hospitalet TV",
+      "website": "https://lhdigital.cat/en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:penedestv",
+      "name": "Penedès TV",
+      "website": "https://www.rtvvilafranca.cat/penedes-televisio-en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal4tvcatalunya",
+      "name": "Canal 4 TV Catalunya",
+      "website": "https://www.grup4.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.grup4.com",
+          "verifiedAt": "2026-10-20T14:00:07.156Z"
+        },
+        {
+          "url": "https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.grup4.com",
+          "verifiedAt": "2026-10-20T14:34:02.375Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canaltaronjacentral",
+      "name": "Canal Taronja Central",
+      "website": "https://www.central.canaltaronja.cat",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.central.canaltaronja.cat",
+          "verifiedAt": "2026-10-20T14:02:31.811Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:rtvelvendrell",
+      "name": "RTV El Vendrell",
+      "website": "https://www.rtvelvendrell.cat/directes/televisio/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canaltaronjaanoia",
+      "name": "Canal Taronja Anoia",
+      "website": "https://www.anoia.canaltaronja.cat",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.anoia.canaltaronja.cat",
+          "verifiedAt": "2026-10-20T14:02:17.059Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:votv",
+      "name": "VOTV",
+      "website": "https://votv.cat/votv-en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+          "format": "hls",
+          "page": "https://votv.cat/votv-en-directe/",
+          "verifiedAt": "2026-10-20T14:26:31.830Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal10emporda",
+      "name": "Canal 10 Empordà",
+      "website": "https://www.canal10.cat/endirecte",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:58:51.070Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canaltaronjaosonaimoianes",
+      "name": "Canal Taronja Osona i Moianés",
+      "website": "https://www.osona.canaltaronja.cat",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.osona.canaltaronja.cat",
+          "verifiedAt": "2026-10-20T14:02:38.385Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:bdnbadalonatv",
+      "name": "BDN Badalona TV",
+      "website": "https://www.bdncom.cat/ca",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:rtvcardedeu",
+      "name": "RTV Cardedeu",
+      "website": "https://www.rtvc.cat/tele/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvsabadellvalles",
+      "name": "TV Sabadell - Vallès",
+      "website": "https://www.sabadell.canaltaronja.cat/sabadell-valles/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.sabadell.canaltaronja.cat/sabadell-valles/directe/",
+          "verifiedAt": "2026-10-20T14:23:41.259Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:pieratv",
+      "name": "Piera TV",
+      "website": "https://piera.practic.cat",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://piera.practic.cat",
+          "verifiedAt": "2026-10-20T14:16:50.775Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etv",
+      "name": "etv",
+      "website": "https://www.etv.cat",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:teleganes",
+      "name": "Teleganés",
+      "website": "https://www.teleganes.com/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:20:20.868Z"
+        },
+        {
+          "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+          "format": "hls",
+          "page": "https://player.emitstream.com/5z6oj7ziwxzfnj78vg2m/embed.html",
+          "verifiedAt": "2026-10-20T14:34:23.987Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:distritotv",
+      "name": "Distrito TV",
+      "website": "https://distritotv.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:05:56.601Z"
+        },
+        {
+          "url": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+          "format": "hls",
+          "page": "https://player.emitstream.com/3mn7wpcv7hbmxmdzaxap/embed.html",
+          "verifiedAt": "2026-10-20T14:34:11.984Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:dejatedehistoriastv",
+      "name": "Déjate de Historias TV",
+      "website": "https://dejatedehistorias.es/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8",
+          "format": "hls",
+          "page": "https://dejatedehistorias.es/directo/",
+          "verifiedAt": "2026-10-20T14:05:10.253Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal33madrid",
+      "name": "Canal 33 Madrid",
+      "website": "https://www.canal33.info",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.canal33.info",
+          "verifiedAt": "2026-10-20T13:59:34.795Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:iprotv",
+      "name": "iPROtv",
+      "website": "https://iprotv.eu",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iprotv.eu",
+          "verifiedAt": "2026-10-20T14:10:35.861Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:liratv",
+      "name": "LIRA TV",
+      "website": "https://liratv.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:12:28.321Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:xaloatelebista",
+      "name": "Xaloa Telebista",
+      "website": "https://xaloatelebista.eus/zuzenean/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.mediacast.pro/live/xaloa/playlist.m3u8",
+          "format": "hls",
+          "page": "https://players.mediacast.pro/xaloa.html",
+          "verifiedAt": "2026-10-20T14:26:39.063Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:parlamentodenavarra",
+      "name": "Parlamento de Navarra",
+      "website": "https://www.parlamentodenavarra.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:16:11.178Z"
+        },
+        {
+          "url": "https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:16:27.147Z"
+        },
+        {
+          "url": "https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:16:32.546Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:apunt",
+      "name": "À Punt",
+      "website": "https://www.apuntmedia.es/directe/directe-tv_136_1392524.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:55:56.168Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:8lamarinatv",
+      "name": "8 La Marina TV",
+      "website": "https://8lamarinatv.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:intercomarcaltv",
+      "name": "Intercomarcal TV",
+      "website": "https://www.intercomarcal.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+          "format": "hls",
+          "page": "https://streamingtvi.gestec-video.com/redirect_def_4_new.php"
+        },
+        {
+          "url": "https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8",
+          "format": "hls",
+          "page": "https://streamingtvi.gestec-video.com/redirect_def_4_1_new.php"
+        },
+        {
+          "url": "https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8",
+          "format": "hls",
+          "page": "https://streamingtvi.gestec-video.com/redirect_def_4_3_new.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:7televalencia",
+      "name": "7 TeleValencia",
+      "website": "https://7televalencia.com/directo-7televalencia/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:52:22.744Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:la8mediterraneo",
+      "name": "La 8 Mediterráneo",
+      "website": "https://laocho.tv/tv-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8",
+          "format": "hls",
+          "page": "https://laocho.tv/tv-en-directo/",
+          "verifiedAt": "2026-10-20T14:12:04.372Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:teleelx",
+      "name": "TeleElx",
+      "website": "https://teleelx.es/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tvdirecto3.teleelx.es/stream/teleelx.m3u8",
+          "format": "hls",
+          "page": "https://teleelx.es/directo/",
+          "verifiedAt": "2026-10-20T16:37:45.054Z"
+        },
+        {
+          "url": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:riberatv",
+      "name": "Ribera TV",
+      "website": "https://www.riberatelevisio.com/en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:18:26.780Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:maestrattv",
+      "name": "Maestrat TV",
+      "website": "https://www.maestrat.tv/directe",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.maestrat.tv/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://www.maestrat.tv/directe"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:alacantitv",
+      "name": "Alacantí TV",
+      "website": "https://www.alacantitv.com/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+          "format": "hls",
+          "page": "https://streaming01.gestec-video.com/redirect_alacanti.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:elche7tv",
+      "name": "Elche 7 TV",
+      "website": "https://elche7tv.es/tv-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
+          "format": "hls",
+          "page": "https://elche7tv.gestec-video.com/index.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tva",
+      "name": "tvA",
+      "website": "https://www.tv-a.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+          "format": "hls",
+          "page": "https://streaming007.gestec-video.com/redirect_tvadef.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:burrianateve",
+      "name": "Burriana TeVe",
+      "website": "https://burrianateve.com/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.burrianateve.com:8443/hls/abr_burrianateve/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:58:28.783Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tv4lavall",
+      "name": "TV 4 La Vall",
+      "website": "https://valldeuxo.gestec-video.com/lavall.php",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://valldeuxo.gestec-video.com/hls/lavall.m3u8",
+          "format": "hls",
+          "page": "https://valldeuxo.gestec-video.com/lavall.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal56",
+      "name": "Canal 56",
+      "website": "https://canal56.com/online/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:telesafor",
+      "name": "Tele Safor",
+      "website": "https://telesafor.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video.telesafor.com/hls/video.m3u8",
+          "format": "hls",
+          "page": "https://video.telesafor.com/",
+          "verifiedAt": "2026-10-20T14:19:57.771Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:universtv",
+      "name": "Univers TV",
+      "website": "https://www.universvalencia.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+          "format": "hls",
+          "page": "https://cloud2.streaminglivehd.com:2000/VideoPlayer/universfaller?autoplay=1",
+          "verifiedAt": "2026-10-20T14:26:16.823Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvalmassora",
+      "name": "TV Almassora",
+      "website": "https://www.tvalmassora.com/en-directo/en-directo-television-almassora/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:22:50.837Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:punt3valluixo",
+      "name": "Punt 3 Vall Uixó",
+      "website": "https://www.punt3.es/Directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+          "format": "hls",
+          "page": "https://www.punt3.es/Directo/",
+          "verifiedAt": "2026-10-20T14:17:21.517Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:onda15tv",
+      "name": "Onda 15 TV",
+      "website": "https://onda15.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+          "format": "hls",
+          "page": "https://onda15.es",
+          "verifiedAt": "2026-10-20T14:14:11.470Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal3biar",
+      "name": "Canal 3 Biar",
+      "website": "https://canal3biar.es/directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://avantstreaming.es/hls/canal3hd.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:59:12.921Z"
+        },
+        {
+          "url": "https://avantstreaming.es/hls/canal3.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:59:22.898Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ciudadesdelociotv",
+      "name": "Ciudades Del Ocio TV",
+      "website": "https://www.ciudadesdelocio.tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+          "format": "hls",
+          "page": "https://cloudvideo.servers10.com:2020/VideoPlayer/8024?autoplay=1",
+          "verifiedAt": "2026-10-20T14:03:43.288Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:ondavalencia",
+      "name": "Onda Valencia",
+      "website": "https://www.ondavalencia.es/en-directo/onda-valencia-tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+          "format": "hls",
+          "page": "https://cloudvideo.servers10.com:2020/VideoPlayer/8116",
+          "verifiedAt": "2026-10-20T14:14:57.564Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:unevinalopo",
+      "name": "Une Vinalopó",
+      "website": "https://www.unevinalopo.es/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:33tv",
+      "name": "33TV",
+      "website": "https://33tv.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://limited43.todostreaming.es/live/simbana-livestream.m3u8",
+          "format": "hls",
+          "page": "https://33tv.es",
+          "verifiedAt": "2026-10-20T13:50:46.459Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:cortsvalencianes",
+      "name": "Corts Valencianes",
+      "website": "https://mediateca.cortsvalencianes.es/library/lives/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalextremadura",
+      "name": "Canal Extremadura",
+      "website": "https://www.canalextremadura.app/videos/182630-canal-video-24h",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:00:49.858Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:exn24extremaduranoticias",
+      "name": "EXN24 (Extremadura Noticias)",
+      "website": "https://www.canalextremadura.app/videos/289428-exn24",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://dsdhx5k1zli7y.cloudfront.net/wct-73d928aa-5bc9-408c-97c6-61d898009440/continuous/41fa7b5f-29f3-4b34-8dee-a68fa27a7080/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:08:17.982Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:toroscanalextremadura",
+      "name": "Toros (Canal Extremadura)",
+      "website": "https://www.canalextremadura.app/videos/289341-canal-tem%C3%A1tico-toros-canal-extremadura",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:21:56.854Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:semosasinacanalextremadura",
+      "name": "Semos asina (Canal Extremadura)",
+      "website": "https://www.canalextremadura.app/videos/350407-canal-tem%C3%A1tico-semos-asina-canal-extremadura",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn-canalextremadura.watchity.net/fast3/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:19:33.062Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvg",
+      "name": "TVG",
+      "website": "https://www.agalega.gal/videos/76475-tvg",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:23:58.963Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvg2",
+      "name": "TVG 2",
+      "website": "https://www.agalega.gal/videos/77550-tv-g2",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:24:02.567Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgxabarin",
+      "name": "TVG Xabarin",
+      "website": "https://www.agalega.gal/videos/76534-xabarin-tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:50.860Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgpequerrechs",
+      "name": "TVG Pequerrech@s",
+      "website": "https://www.agalega.gal/videos/76535-xabarin-r1",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:29.555Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgcativs",
+      "name": "TVG Cativ@s",
+      "website": "https://www.agalega.gal/videos/76536-xabarin-tv2",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:24:20.253Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgmocins",
+      "name": "TVG Mociñ@s",
+      "website": "https://www.agalega.gal/videos/76537-xabarin-tv3",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:26.303Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgeventos",
+      "name": "TVG Eventos",
+      "website": "https://www.agalega.gal/videos/category/11998-directos",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-events1.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:24:24.608Z"
+        },
+        {
+          "url": "https://crtvg-events2.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:24:42.358Z"
+        },
+        {
+          "url": "https://crtvg-events3.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:24:46.445Z"
+        },
+        {
+          "url": "https://crtvg-events4.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:04.858Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvgmiraradiogalega",
+      "name": "TVG Mira Radio Galega",
+      "website": "https://www.agalega.gal/videos/76478-mira-rg",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:08.182Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvguniversocastelao",
+      "name": "TVG Universo Castelao",
+      "website": "https://www.agalega.gal/videos/315378-universo-castelao",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crtvg-universo-castelao-schlive.flumotion.cloud/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:25:47.580Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvferrol",
+      "name": "TV Ferrol",
+      "website": "https://tvferrol.es/es/contenido.php?c=4",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directo.tvferrol.es/tv.m3u8",
+          "format": "hls",
+          "page": "https://tvferrol.es/directo.html",
+          "verifiedAt": "2026-10-20T14:23:35.764Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:telemino",
+      "name": "Telemiño",
+      "website": "https://www.laregion.es/teleminho/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:20:42.369Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:anovetv",
+      "name": "Anove TV",
+      "website": "https://anove.gal",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud.streamingconnect.tv/hls/anove/anove.m3u8",
+          "format": "hls",
+          "page": "https://anove.gal",
+          "verifiedAt": "2026-10-20T13:57:22.451Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:parlamentodegalicia",
+      "name": "Parlamento de Galicia",
+      "website": "https://www.es.parlamentodegalicia.es/EmisionDirecto/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://pgalicia-live.akamaized.net/hls/live/2040697/pleno/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:16:05.262Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:xuntadegalicia",
+      "name": "Xunta de Galicia",
+      "website": "https://www.xunta.gal/video-en-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-akamai.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8",
+          "format": "hls",
+          "page": "https://www.xunta.gal/video-en-directo",
+          "verifiedAt": "2026-10-20T14:34:37.075Z"
+        },
+        {
+          "url": "https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/master.m3u8",
+          "format": "hls",
+          "page": "https://www.xunta.gal/video-en-directo"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tef",
+      "name": "TEF",
+      "website": "https://teftv.com/la-tef-en-directe/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tef.servertv.online:3268/live/teflive.m3u8",
+          "format": "hls",
+          "page": "https://tef.servertv.online/live-stream-video-widget/tef",
+          "verifiedAt": "2026-10-20T14:19:56.252Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal4tvmallorca",
+      "name": "Canal 4 TV Mallorca",
+      "website": "https://www.grup4.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.grup4.com",
+          "verifiedAt": "2026-10-20T14:00:19.998Z"
+        },
+        {
+          "url": "https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.grup4.com",
+          "verifiedAt": "2026-10-20T14:34:46.134Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tvrioja",
+      "name": "TV Rioja",
+      "website": "https://www.larioja.com/tvr/directo-20210408161442-nt.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+          "format": "hls",
+          "page": "https://proyectos.larioja.com/tvr/html5/tvrendirecto.php"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:parlamentodelarioja",
+      "name": "Parlamento de La Rioja",
+      "website": "https://mediateca.parlamento-larioja.org/live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:populartvmelilla",
+      "name": "Popular TV Melilla",
+      "website": "https://populartvmelilla.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://media.profesionalhosting.com:2000/VideoPlayer/8009?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etb1",
+      "name": "ETB 1",
+      "website": "https://etbon.eus/ch/etb-1",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/etb1/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etb2",
+      "name": "ETB 2",
+      "website": "https://etbon.eus/ch/etb-2",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/etb2/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etb1on",
+      "name": "ETB 1 On",
+      "website": "https://etbon.eus/ch/etb-1on",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:07:09.342Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etb2on",
+      "name": "ETB 2 On",
+      "website": "https://etbon.eus/ch/etb-2on",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:07:30.857Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etbeventos1",
+      "name": "ETB Eventos 1",
+      "website": "https://etbon.eus/ch/oca-1",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:07:35.275Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:etbeventos2",
+      "name": "ETB Eventos 2",
+      "website": "https://etbon.eus/ch/oca-2",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/oc2/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:euskadimeteoetbon",
+      "name": "Euskadi Meteo (ETB On)",
+      "website": "https://www.etbon.eus/ch/euskadi-meteo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn1.etbon.eus/meteo/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:07:55.040Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tele7",
+      "name": "Tele 7",
+      "website": "https://tele7.tv/tele-7-en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:hamaikatv",
+      "name": "Hamaika TV",
+      "website": "https://www.hamaika.eus/zuzenean",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:09:46.821Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:gukatb",
+      "name": "GUKA TB",
+      "website": "https://guka.eus/telebista/zuzenekoa",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.ukt.eus/hls/test.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:09:42.848Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:goienaeus",
+      "name": "Goiena Eus",
+      "website": "https://goiena.eus/telebista/zuzenekoa",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+          "format": "hls",
+          "page": "https://goienamedia.eus/internet/public/zuzenekoak/24/embed-kodea",
+          "verifiedAt": "2026-10-20T14:09:01.657Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:durangaldekotv",
+      "name": "Durangaldeko TV",
+      "website": "https://dotb.eus/tbkanala/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:06:13.224Z"
+        },
+        {
+          "url": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+          "format": "hls",
+          "page": "https://player.emitstream.com/5f9asjsehd7gmyxsdpzu/embed.html",
+          "verifiedAt": "2026-10-20T14:34:59.781Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:goierriirratitv",
+      "name": "Goierri Irrati TV",
+      "website": "https://gitb.eus/telebista/zuzenekoa",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.gitb.eus/hls/z.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:09:21.351Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:28kanala",
+      "name": "28 Kanala",
+      "website": "https://28kanala.eus/telebista/zuzenekoa",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.28kanala.eus/hls/z.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T13:50:21.763Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:oizmenditb",
+      "name": "Oizmendi TB",
+      "website": "https://www.oizmendi.eus/zuzenean/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://zuzenean.oizmendi.eus/hls/z.m3u8",
+          "format": "hls",
+          "page": "https://zuzenean.oizmendi.eus/",
+          "verifiedAt": "2026-10-20T14:14:04.218Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:telebilbao",
+      "name": "TeleBilbao",
+      "website": "https://www.telebilbao.es/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://player.telebilbao.es/hls/web-public/live.m3u8",
+          "format": "hls",
+          "page": "https://player.telebilbao.es/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:urolatb",
+      "name": "Urola TB",
+      "website": "https://www.urolatelebista.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_360p/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.urolatelebista.com",
+          "verifiedAt": "2026-10-20T14:35:07.328Z"
+        },
+        {
+          "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_160p/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.urolatelebista.com",
+          "verifiedAt": "2026-10-20T14:35:21.128Z"
+        },
+        {
+          "url": "https://5940924978228.streamlock.net/j_Directo2/smil:j_Directo2.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.urolatelebista.com",
+          "verifiedAt": "2026-10-20T14:35:29.157Z"
+        },
+        {
+          "url": "https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:euskolegebiltzarra",
+      "name": "Eusko Legebiltzarra",
+      "website": "https://www.legebiltzarra.eus",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        },
+        {
+          "url": "https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:juntageneraldelprincipadodeasturias",
+      "name": "Junta General del Principado de Asturias",
+      "website": "https://www.jgpa.es/emision-en-directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:10:35.361Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:populartvmurcia",
+      "name": "Popular TV Murcia",
+      "website": "https://populartvrm.com/directo",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/",
+          "verifiedAt": "2026-10-20T14:17:15.150Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal1marmenortorrepacheco",
+      "name": "Canal 1 Mar Menor Torre Pacheco",
+      "website": "https://www.tuwebtv.es/directo.php",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directo.tuwebtv.es/canal1.m3u8",
+          "format": "hls",
+          "page": "https://www.tuwebtv.es/directo.php",
+          "verifiedAt": "2026-10-20T13:58:38.172Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:arabitv",
+      "name": "Arabí TV",
+      "website": "https://www.arabitv.es/en-directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+          "format": "hls",
+          "page": "https://www.arabitv.es/en-directo/",
+          "verifiedAt": "2026-10-20T13:57:30.283Z"
+        },
+        {
+          "url": "https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8",
+          "format": "hls",
+          "page": "https://www.arabitv.es/en-directo/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:consejodegobiernodelaregiondemurcia",
+      "name": "Consejo de Gobierno de la Región de Murcia",
+      "website": "https://www.carm.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://crmlive.redctnet.es/liveedge/ConsejoGob/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.tdtchannels.com/catalogo/television/"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:tv3internacional",
+      "name": "TV3 Internacional",
+      "website": "https://www.3cat.cat/3cat/directes/tv3/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+          "format": "hls",
+          "page": "https://api-media.3cat.cat/pvideo/media.jsp?media=video&versio=vast&idint=tvi&desplacament=0&profile=pc_3cat",
+          "verifiedAt": "2026-10-20T14:30:22.896Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:aragontvinternacional",
+      "name": "Aragón TV Internacional",
+      "website": "https://www.aragonplay.es/directos",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://eu.mdstrm.com/live-stream-playlist/699341967864450d4f062ba9.m3u8",
+          "format": "hls",
+          "page": "https://www.aragonplay.es/directos"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:huelvatv",
+      "name": "Huelva TV",
+      "website": "https://alacarta.huelvatv.com/directo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://directo.huelvatv.com/memfs/0dec2061-5983-4369-95c7-3636aa08975b.m3u8",
+          "format": "hls",
+          "page": "https://alacarta.huelvatv.com/directo/",
+          "verifiedAt": "2026-10-20T14:30:24.345Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canalimagenalmansa",
+      "name": "CanalImagen Almansa",
+      "website": "https://zonacliente.almatelecom.es/videos/canalimagen",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://str01.tvalmansa.es/emisiononline/ciH6fitClpg5RCbUWeyWiv5JQ4vxrp7p.m3u8",
+          "format": "hls",
+          "page": "https://zonacliente.almatelecom.es/videos/canalimagen"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:vision6tv",
+      "name": "Visión 6 TV",
+      "website": "https://www.visionseis.tv/tv-online-vision-seis/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8",
+          "format": "hls",
+          "page": "https://www.visionseis.tv/tv-online-vision-seis/",
+          "verifiedAt": "2026-10-20T14:30:45.621Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:estutele",
+      "name": "EsTuTele",
+      "website": "https://estutele.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cloud.fastchannel.es/publica/estutele.m3u8",
+          "format": "hls",
+          "page": "https://estutele.com",
+          "verifiedAt": "2026-10-20T14:30:47.120Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:radiobocairenttv",
+      "name": "Ràdio Bocairent TV",
+      "website": "https://radiobocairent.com",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://iptv.wifibytes.com/RadioBocairentTV_Trasnscod/index.m3u8",
+          "format": "hls",
+          "page": "https://radiobocairent.com",
+          "verifiedAt": "2026-10-20T14:31:07.806Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:ES:canal6totana",
+      "name": "Canal 6 Totana",
+      "website": "http://www.totanaweb.es",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5b38ce71f1f00.streamlock.net/8174/8174/playlist.m3u8",
+          "format": "hls",
+          "page": "http://www.totanaweb.es"
+        }
+      ]
+    }
+  ]
+}

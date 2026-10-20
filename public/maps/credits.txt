@@ -1,0 +1,15 @@
+World TV — Crediti geografici
+
+Mondo: Natural Earth, cartografia 1:50m, pubblico dominio.
+https://www.naturalearthdata.com/about/terms-of-use/
+https://github.com/nvkelso/natural-earth-vector
+
+Regioni italiane: dati ISTAT, distribuiti da geojson-italy (Openpolis / Guglielmo Celata).
+https://github.com/guglielmo/geojson-italy
+Licenza Creative Commons Attribution 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Modifiche per World TV: semplificazione dei contorni, arrotondamento delle coordinate,
+normalizzazione dell'orientamento dei poligoni, palette grafica Orbita.
+Le mappe sono illustrative. I punti rappresentano sedi associate alle emittenti,
+non aree di copertura o garanzie di ricezione.

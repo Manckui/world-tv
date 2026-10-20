@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "country": "IT",
+  "note": "Fonti trovate da ricerca web e verificate in Chrome (reports/retest-candidates-2026-10-08-IT.json).",
+  "alternatives": [
+    {
+      "channelIds": [
+        "catalog:IT:mrbeananimatedit"
+      ],
+      "name": "Mr Bean Animated IT",
+      "page": "existing catalog URL (Rakuten TV IT FAST playout); not re-confirmed on a public page",
+      "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:01:53.158Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:telenorditalynot247"
+      ],
+      "name": "Telenord (Italy)",
+      "page": "https://telenord.it/ (also https://www.tvdream.net/web-tv/telenord/)",
+      "url": "https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:01:53.319Z"
+    },
+    {
+      "channelIds": [
+        "TelecityPiemonte.it"
+      ],
+      "name": "Telecity Piemonte",
+      "page": "https://telecity.it/canali/telecity-piemonte/",
+      "url": "https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:01:53.313Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:tvlunanapoli"
+      ],
+      "name": "Tv Luna Napoli",
+      "page": "https://diretta.arcapuglia.it:8080/teleluna.html (linked from tvmtv.it, where tvluna.it redirects)",
+      "url": "https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:01:53.316Z"
+    },
+    {
+      "channelIds": [
+        "NuovaTV2.it"
+      ],
+      "name": "Nuova TV 2",
+      "page": "https://nuovatv.net/",
+      "url": "https://nuovatv.net:8443/tv2/stream.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:25.610Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:telesveva"
+      ],
+      "name": "Telesveva",
+      "page": "https://telesveva.it/live/",
+      "url": "https://live2.telesveva.com/hls/svevahd.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:27.560Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:wltv"
+      ],
+      "name": "WLTV",
+      "page": "https://ns3159873.ip-51-91-131.eu:2000/VideoPlayer/WLTV?autoplay=0 (iframe 'DIRETTA TV' on https://www.wltv.it/)",
+      "url": "https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:27.325Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:rtr99tv"
+      ],
+      "name": "RTR99 Tv",
+      "page": "https://www.rtr99.it/player-tv.html",
+      "url": "https://str38.fluid.stream/RTR99TV/livestream/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:58.764Z"
+    },
+    {
+      "channelIds": [
+        "TVL.it",
+        "catalog:IT:tvlnot247"
+      ],
+      "name": "TVL",
+      "page": "https://tvl.it/diretta-tvl/",
+      "url": "https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:59.577Z"
+    },
+    {
+      "channelIds": [
+        "TVSei.it",
+        "catalog:IT:tvseinot247"
+      ],
+      "name": "TV Sei",
+      "page": "https://www.tvsei.it/live/",
+      "url": "https://654be07bf207c.streamlock.net:443/TvSeiHBBTV/_definst_/tvseiWebPresenter/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:02:57.326Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:videonola"
+      ],
+      "name": "Video Nola",
+      "page": "https://videonola.tv/streaming/",
+      "url": "https://videonola.aswifi.it/videonola/live/index.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:03:31.370Z"
+    },
+    {
+      "channelIds": [
+        "Sportitalia24.it",
+        "catalog:IT:sportitalia24geoblocked"
+      ],
+      "name": "Sportitalia 24",
+      "page": "https://sportitalialive.it/primavera/",
+      "url": "https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:03:35.304Z"
+    },
+    {
+      "channelIds": [
+        "Sportitalia24.it",
+        "catalog:IT:sportitalia24geoblocked"
+      ],
+      "name": "Sportitalia 24",
+      "page": "https://sportitalialive.it/sihd/",
+      "url": "https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:04:02.170Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:thepetcollectiveitaly"
+      ],
+      "name": "The Pet Collective Italy",
+      "page": "(current catalog URL; Samsung TV Plus IT feed via Wurl)",
+      "url": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:04:07.499Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:failarmyitaly"
+      ],
+      "name": "FailArmy Italy",
+      "page": "(existing catalog URL; Wurl FAST feed for Samsung TV Plus)",
+      "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:04:34.562Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:telepegaso",
+        "TelePegasoCatania.it",
+        "catalog:IT:telepegasocatanianot247"
+      ],
+      "name": "Tele Pegaso",
+      "page": "https://play.xdevel.com/13388/video0s977504-2067 (iframe on https://telepegaso.it/)",
+      "url": "https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:04:34.555Z"
+    },
+    {
+      "channelIds": [
+        "Teleliberta.it",
+        "catalog:IT:telelibertanot247"
+      ],
+      "name": "Teleliberta",
+      "page": "https://www.liberta.it/ (Nuxt runtime config 'streamingUrl')",
+      "url": "https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:04:34.655Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:vuemmetv"
+      ],
+      "name": "Vuemme Tv",
+      "page": "https://www.tvdream.net/web-tv/vuemme-tv/ (directory; cited as :443/vm/vm/playlist.m3u8)",
+      "url": "https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:05:06.456Z"
+    },
+    {
+      "channelIds": [
+        "CarinaTV.it"
+      ],
+      "name": "CarinaTV",
+      "page": "https://www.tvdream.net/web-tv/carinatv-potenza-diretta-streaming/ (directory; not seen on radiocarina.it)",
+      "url": "https://57068da1deb21.streamlock.net/radiocarina/radiocarina/playlist.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:05:06.441Z"
+    },
+    {
+      "channelIds": [
+        "LabTV.it"
+      ],
+      "name": "Lab TV",
+      "page": "https://www.labtv.net/ (derived from the official Cloudflare Stream iframe id)",
+      "url": "https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:05:11.520Z"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:uno4tv"
+      ],
+      "name": "Uno4 Tv",
+      "page": "https://cdn.uno4.it/stream (iframe on https://uno4.it/diretta/)",
+      "url": "https://cdn.uno4.it/index.m3u8",
+      "format": "hls",
+      "verifiedAt": "2026-10-08T15:05:38.816Z"
+    },
+    {
+      "channelIds": [
+        "RadioRoma.it",
+        "RadioRomaTelevision.it"
+      ],
+      "name": "Radio Roma",
+      "page": "https://www.radioroma.tv/diretta-radio-roma/",
+      "url": "https://geo.dailymotion.com/player/x10k9c.html?video=x96kfby",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "RadioRoma.it"
+      ],
+      "name": "Radio Roma",
+      "page": "https://www.radioroma.tv/diretta-radio-roma-news/",
+      "url": "https://geo.dailymotion.com/player/x10k9c.html?video=x96kf9k",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:garganotv"
+      ],
+      "name": "GarganoTv",
+      "page": "https://www.garganotv.com/",
+      "url": "https://cdn.azotosolutions.com/cloudtv/livetv3/player/",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "CanaleItalia.it"
+      ],
+      "name": "Canale Italia",
+      "page": "https://canaleitalia.it/diretta-live-streaming/canale-italia/",
+      "url": "https://canaleitalia.streamcloud.it/embed/live/28591152-e3c0-49b0-94a8-0d3e18125ca8",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "catalog:IT:teleradiostereo"
+      ],
+      "name": "TeleRadioStereo",
+      "page": "https://www.teleradiostereo.it/direttalive/",
+      "url": "https://player.twitch.tv/?channel=teleradiostereo&parent=www.teleradiostereo.it",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "TeleregioneLive.it"
+      ],
+      "name": "Teleregione Live",
+      "page": "https://www.teleregionelive.it/streaming/",
+      "url": "https://player.twitch.tv/?channel=teleregione_sardegna&parent=www.teleregionelive.it",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "CasaItalia53.it"
+      ],
+      "name": "Casa Italia 53",
+      "page": "https://casaitalia.tv/streaming-tv/",
+      "url": "https://canaleitalia.streamcloud.it/embed/live/e701400d-2c46-4cec-8deb-bb6f7b8a7401",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "ReiTV.it"
+      ],
+      "name": "Rei TV",
+      "page": "https://www.reitv.it/live_tv.html",
+      "url": "https://player.twitch.tv/?channel=reitv18&parent=localhost",
+      "format": "embed"
+    },
+    {
+      "channelIds": [
+        "TeleA.it"
+      ],
+      "name": "Tele A",
+      "page": "https://www.teleatv.it/ (menu 'In onda' / 'Vai alla live')",
+      "url": "https://iframe.dacast.com/live/4b7f6086-a2e7-9ccf-85a3-72a417511886/87ea1bcb-43b8-40fe-99d3-6f56420a9124",
+      "format": "embed"
+    }
+  ]
+}
