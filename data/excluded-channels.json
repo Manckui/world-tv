@@ -1062,6 +1062,66 @@
       "country": "FR",
       "name": "ETV",
       "removedAt": "2026-10-20T17:14:13.129Z"
+    },
+    {
+      "id": "Rai1.it",
+      "country": "IT",
+      "name": "Rai 1",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "Rai2.it",
+      "country": "IT",
+      "name": "Rai 2",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "Rai3.it",
+      "country": "IT",
+      "name": "Rai 3",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiItalia.it",
+      "country": "IT",
+      "name": "Rai Italia",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiMovie.it",
+      "country": "IT",
+      "name": "Rai Movie",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiNews24.it",
+      "country": "IT",
+      "name": "Rai News 24",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiScuola.it",
+      "country": "IT",
+      "name": "Rai Scuola",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "catalog:IT:raiscuolageoblocked",
+      "country": "IT",
+      "name": "Rai Scuola (576p) [Geo-blocked]",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiStoria.it",
+      "country": "IT",
+      "name": "Rai Storia",
+      "removedAt": "2026-10-21T08:59:35.527Z"
+    },
+    {
+      "id": "RaiWorldPremium.it",
+      "country": "IT",
+      "name": "Rai World Premium",
+      "removedAt": "2026-10-21T08:59:35.527Z"
     }
   ]
 }

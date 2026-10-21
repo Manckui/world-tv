@@ -30,6 +30,8 @@ export function PlayerPanel({ channel, favorite, onToggle, onClose, expanded, on
   const [sourceIndex, setSourceIndex] = useState(() => Math.max(0, channel.streams.findIndex(stream => stream.url === preferredSources[channel.id])));
   const [attempt, setAttempt] = useState(0);
   const [failed, setFailed] = useState(false);
+  // Sources already tried in this automatic round: each one is tried once, then the error is shown.
+  const tried = useRef(new Set([sourceIndex]));
   const closeRef = useRef<HTMLButtonElement>(null);
   const activeChannel = useMemo(() => ({ ...channel, stream: channel.streams[sourceIndex] ?? channel.stream }), [channel, sourceIndex]);
 
@@ -45,9 +47,27 @@ export function PlayerPanel({ channel, favorite, onToggle, onClose, expanded, on
     return () => window.removeEventListener("keydown", close);
   }, [onClose]);
 
+  function playable(index: number) {
+    const stream = channel.streams[index];
+    return Boolean(stream) && !stream.restriction && stream.format !== "external";
+  }
+
+  // A dead first source must not make the channel look broken: move on to the next untried source.
+  function failure() {
+    const next = channel.streams.findIndex((_, index) => !tried.current.has(index) && playable(index));
+    if (next < 0) { setFailed(true); return; }
+    tried.current.add(next);
+    setSourceIndex(next);
+    setAttempt(value => value + 1);
+  }
+
   function retry() {
-    // Try the next saved source after a failure without exposing technical URLs.
-    if (failed) setSourceIndex(index => (index + 1) % Math.max(1, channel.streams.length));
+    // Manual retry after every source failed: start a new round from the next source.
+    if (failed) {
+      const next = (sourceIndex + 1) % Math.max(1, channel.streams.length);
+      tried.current = new Set([next]);
+      setSourceIndex(next);
+    }
     setFailed(false);
     setAttempt(value => value + 1);
   }
@@ -62,7 +82,7 @@ export function PlayerPanel({ channel, favorite, onToggle, onClose, expanded, on
       <FavoriteButton channel={channel} favorite={favorite} onToggle={onToggle} />
     </div>
     <TvPlayer key={attempt} channel={activeChannel} 
-      muted={muted} locale={locale} onRetry={retry} onFailure={() => setFailed(true)} />
+      muted={muted} locale={locale} onRetry={retry} onFailure={failure} />
     {!compact && <p className={s.playerNote}>{t("Le dirette sono fornite dalle emittenti. Alcune possono richiedere il player ufficiale o essere disponibili solo in determinate aree.")}</p>}
   </section>;
 }
