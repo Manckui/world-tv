@@ -1,0 +1,2165 @@
+{
+  "version": 1,
+  "country": "DE",
+  "channels": [
+    {
+      "id": "3sat.de",
+      "name": "3sat",
+      "website": "https://www.3sat.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:32.096Z"
+        }
+      ]
+    },
+    {
+      "id": "AdriaMusicTelevision.de",
+      "name": "Adria Music Television",
+      "website": "https://folx.network/adria-music-television/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:33.964Z"
+        }
+      ]
+    },
+    {
+      "id": "AdventureEarth.de",
+      "name": "Adventure Earth",
+      "website": "https://www.autentic.com/117/Channels.htm#adventure_earth",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:34.719Z"
+        },
+        {
+          "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:55.143Z"
+        },
+        {
+          "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:55.404Z"
+        }
+      ]
+    },
+    {
+      "id": "AlexBerlin.de",
+      "name": "Alex Berlin",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:08:56.150Z"
+        }
+      ]
+    },
+    {
+      "id": "AllgauTV.de",
+      "name": "Allgau TV",
+      "website": "https://www.xn--allgu-jra.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:09:16.073Z"
+        }
+      ]
+    },
+    {
+      "id": "AltenburgTV.de",
+      "name": "Altenburg TV",
+      "website": "https://www.altenburg.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:09:19.107Z"
+        }
+      ]
+    },
+    {
+      "id": "ARDalpha.de",
+      "name": "ARD-alpha",
+      "website": "https://www.br.de/fernsehen/ard-alpha/live-streams-ard-alpha-100.html",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:09:38.493Z"
+        },
+        {
+          "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:09:40.563Z"
+        }
+      ]
+    },
+    {
+      "id": "arte.de",
+      "name": "arte",
+      "website": "https://www.arte.tv/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:09:57.960Z"
+        }
+      ]
+    },
+    {
+      "id": "AugsburgTV.de",
+      "name": "Augsburg TV",
+      "website": "https://www.augsburg.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:00.139Z"
+        },
+        {
+          "url": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:01.989Z"
+        }
+      ]
+    },
+    {
+      "id": "AutenticHistory.de",
+      "name": "Autentic History",
+      "website": "https://www.autentic.com/117/Channels.htm#autentic_history",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:19.404Z"
+        },
+        {
+          "url": "https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:21.089Z"
+        }
+      ]
+    },
+    {
+      "id": "AutenticTravel.de",
+      "name": "Autentic Travel",
+      "website": "https://www.autentic.com/117/Channels.htm#autentic_travel",
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:23.435Z"
+        },
+        {
+          "url": "https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:41.340Z"
+        }
+      ]
+    },
+    {
+      "id": "BibelTV.de",
+      "name": "Bibel TV",
+      "website": "https://www.bibeltv.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:45.367Z"
+        }
+      ]
+    },
+    {
+      "id": "BibelTVImpuls.de",
+      "name": "Bibel TV Impuls",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:10:48.354Z"
+        }
+      ]
+    },
+    {
+      "id": "BibelTVMusik.de",
+      "name": "Bibel TV Musik",
+      "website": null,
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:03.867Z"
+        }
+      ]
+    },
+    {
+      "id": "BRFernsehen.de",
+      "name": "BR Fernsehen",
+      "website": "https://www.br.de/mediathek/live",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:08.604Z"
+        },
+        {
+          "url": "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:09.315Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:brnord",
+      "name": "BR Nord",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:25.297Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:brsud",
+      "name": "BR Süd",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:29.557Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:btltvnetherlands",
+      "name": "BTL TV (Netherlands)",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:30.276Z"
+        }
+      ]
+    },
+    {
+      "id": "CiraTV.de",
+      "name": "Cira TV",
+      "website": "http://cira.tv/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:46.201Z"
+        }
+      ]
+    },
+    {
+      "id": "DasErste.de",
+      "name": "Das Erste",
+      "website": "https://www.daserste.de/live/index.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:52.233Z"
+        },
+        {
+          "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:11:52.963Z"
+        }
+      ]
+    },
+    {
+      "id": "DASDING908.de",
+      "name": "DASDING 90.8",
+      "website": "https://www.dasding.de/index.html",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:07.627Z"
+        }
+      ]
+    },
+    {
+      "id": "DeluxeDance.de",
+      "name": "Deluxe Dance",
+      "website": "https://deluxemusic.de/kontakt/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:13.170Z"
+        }
+      ]
+    },
+    {
+      "id": "DeluxeMusic.de",
+      "name": "Deluxe Music",
+      "website": "https://deluxemusic.de/kontakt/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:13.891Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:deluxemusicdancebykontor",
+      "name": "DELUXE MUSIC DANCE BY KONTOR",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:28.516Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:dieneuezeittv",
+      "name": "Die Neue Zeit TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:49.944Z"
+        }
+      ]
+    },
+    {
+      "id": "DMF.de",
+      "name": "DMF",
+      "website": "https://www.dmf.tv",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:55.016Z"
+        }
+      ]
+    },
+    {
+      "id": "Dokusat.de",
+      "name": "Dokusat",
+      "website": "https://www.dokusat.de/",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:12:55.862Z"
+        }
+      ]
+    },
+    {
+      "id": "DW.de",
+      "name": "DW",
+      "website": "https://www.dw.com/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:10.996Z"
+        },
+        {
+          "url": "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:16.448Z"
+        },
+        {
+          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:17.278Z"
+        },
+        {
+          "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:31.894Z"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:38.365Z"
+        },
+        {
+          "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:39.166Z"
+        },
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:13:54.330Z"
+        },
+        {
+          "url": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:00.095Z"
+        }
+      ]
+    },
+    {
+      "id": "EchtJetztTV.de",
+      "name": "EchtJetzt TV",
+      "website": "https://echtjetzt.tv/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:01.818Z"
+        }
+      ]
+    },
+    {
+      "id": "ErzTVStollberg.de",
+      "name": "Erz-TV Stollberg",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:16.911Z"
+        }
+      ]
+    },
+    {
+      "id": "EWTN.de",
+      "name": "EWTN",
+      "website": "https://www.ewtn.de/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:21.007Z"
+        },
+        {
+          "url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:22.734Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:fifagerman",
+      "name": "FIFA+ German",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:37.841Z"
+        }
+      ]
+    },
+    {
+      "id": "Filstalwelle.de",
+      "name": "Filstalwelle",
+      "website": "https://filstalwelle.de/impressum",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:42.453Z"
+        }
+      ]
+    },
+    {
+      "id": "FinestTV.de",
+      "name": "Finest TV",
+      "website": "https://www.finest.tv/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://media.finest.tv/hls/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:43.667Z"
+        }
+      ]
+    },
+    {
+      "id": "FolxMusicTelevision.de",
+      "name": "Folx Music Television",
+      "website": "https://folx.network/folx-music-television/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:14:59.306Z"
+        }
+      ]
+    },
+    {
+      "id": "FrankenFernsehen.de",
+      "name": "Franken Fernsehen",
+      "website": "https://www.frankenfernsehen.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:03.927Z"
+        }
+      ]
+    },
+    {
+      "id": "GrjngoWesternMovies.de",
+      "name": "Grjngo Western Movies",
+      "website": "https://www.grjngo.com/",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:04.601Z"
+        },
+        {
+          "url": "https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:20.254Z"
+        },
+        {
+          "url": "https://amogonetworx-grjngo-3-lu.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:25.366Z"
+        },
+        {
+          "url": "https://amogonetworx-grjngo-3-no.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:26.538Z"
+        },
+        {
+          "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:42.204Z"
+        },
+        {
+          "url": "https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:15:47.321Z"
+        }
+      ]
+    },
+    {
+      "id": "Handystar.de",
+      "name": "Handystar",
+      "website": "https://www.handystar.de/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:04.149Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:horsecountrytv",
+      "name": "Horse & Country TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:09.669Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:hr",
+      "name": "HR",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:10.025Z"
+        }
+      ]
+    },
+    {
+      "id": "hrfernsehen.de",
+      "name": "hr-fernsehen",
+      "website": "https://www.hr-fernsehen.de/livestream/index.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://www.hr-fernsehen.de/livestream/index.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T08:29:17.826Z"
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:26.230Z"
+        },
+        {
+          "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:31.173Z"
+        }
+      ]
+    },
+    {
+      "id": "HSE.de",
+      "name": "HSE",
+      "website": "https://www.hse.de/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:31.468Z"
+        }
+      ]
+    },
+    {
+      "id": "HSEExtra.de",
+      "name": "HSE Extra",
+      "website": "https://www.hse.de/dpl/c/live-im-tv/hse-extra",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:47.178Z"
+        }
+      ]
+    },
+    {
+      "id": "HSETrend.de",
+      "name": "HSE Trend",
+      "website": "https://www.hse.de/dpl/c/live-im-tv/hse-trend",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:52.121Z"
+        }
+      ]
+    },
+    {
+      "id": "Juwelo.de",
+      "name": "Juwelo",
+      "website": "https://www.juwelo.de/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:16:53.233Z"
+        }
+      ]
+    },
+    {
+      "id": "KaufBeiTV.de",
+      "name": "KaufBei TV",
+      "website": "https://www.kaufbei.tv/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://elephant.t62a.com/hls/8103/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:13.083Z"
+        }
+      ]
+    },
+    {
+      "id": "KiKA.de",
+      "name": "KiKA",
+      "website": "https://www.kika.de/",
+      "categories": [
+        "kids"
+      ],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:15.413Z"
+        },
+        {
+          "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:29.059Z"
+        },
+        {
+          "url": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:35.560Z"
+        }
+      ]
+    },
+    {
+      "id": "Lausitzwelle.de",
+      "name": "Lausitzwelle",
+      "website": "http://www.lausitzwelle.de/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:37.638Z"
+        }
+      ]
+    },
+    {
+      "id": "MDRFernsehen.de",
+      "name": "MDR Fernsehen",
+      "website": "http://www.mdr.de/tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:53.781Z"
+        }
+      ]
+    },
+    {
+      "id": "MoreThanSportsTV.de",
+      "name": "More Than Sports TV",
+      "website": "https://morethansports.tv/contact/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:58.672Z"
+        }
+      ]
+    },
+    {
+      "id": "Motorvision.de",
+      "name": "Motorvision",
+      "website": "https://motorvision.tv/",
+      "categories": [
+        "auto"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:17:59.568Z"
+        },
+        {
+          "url": "https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:15.218Z"
+        },
+        {
+          "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:20.885Z"
+        }
+      ]
+    },
+    {
+      "id": "MunchenTV.de",
+      "name": "Munchen TV",
+      "website": "https://www.muenchen.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:21.032Z"
+        }
+      ]
+    },
+    {
+      "id": "NDRFernsehen.de",
+      "name": "NDR Fernsehen",
+      "website": "https://www.ndr.de/fernsehen/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:40.054Z"
+        },
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:42.438Z"
+        },
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:18:42.603Z"
+        },
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:00.988Z"
+        }
+      ]
+    },
+    {
+      "id": "NDRFernsehenInternational.de",
+      "name": "NDR Fernsehen International",
+      "website": "https://www.ndr.de/fernsehen/livestream/livestreaminternational100.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:03.375Z"
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:03.543Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:ndrhamburg",
+      "name": "NDR Hamburg",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:21.924Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:ndrmecklenburgvorpommern",
+      "name": "NDR Mecklenburg-Vorpommern",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:24.333Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:ndrniedersachsen",
+      "name": "NDR Niedersachsen",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:24.500Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:ndrschleswigholstein",
+      "name": "NDR Schleswig-Holstein",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:42.924Z"
+        }
+      ]
+    },
+    {
+      "id": "NiederbayernTV.de",
+      "name": "Niederbayern TV",
+      "website": "https://www.niederbayerntv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:45.297Z"
+        }
+      ]
+    },
+    {
+      "id": "NiederbayernTVDeggendorfStraubing.de",
+      "name": "Niederbayern TV Deggendorf & Straubing",
+      "website": "https://deggendorf.niederbayerntv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:19:45.456Z"
+        }
+      ]
+    },
+    {
+      "id": "NiederbayernTVLandshut.de",
+      "name": "Niederbayern TV Landshut",
+      "website": "https://landshut.niederbayerntv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:03.888Z"
+        },
+        {
+          "url": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:06.257Z"
+        }
+      ]
+    },
+    {
+      "id": "NiederbayernTVPassau.de",
+      "name": "Niederbayern TV Passau",
+      "website": "https://passau.niederbayerntv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:06.433Z"
+        }
+      ]
+    },
+    {
+      "id": "noa4Hamburg.de",
+      "name": "noa4 Hamburg",
+      "website": "https://www.noa4.de/hamburg.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:24.827Z"
+        }
+      ]
+    },
+    {
+      "id": "noa4Norderstedt.de",
+      "name": "noa4 Norderstedt",
+      "website": "https://www.noa4.de/norderstedt.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:27.346Z"
+        }
+      ]
+    },
+    {
+      "id": "OberpfalzTV.de",
+      "name": "Oberpfalz TV",
+      "website": "https://www.otv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:38.579Z"
+        }
+      ]
+    },
+    {
+      "id": "OKFlensburg.de",
+      "name": "OK Flensburg",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:49.135Z"
+        }
+      ]
+    },
+    {
+      "id": "OKKiel.de",
+      "name": "OK Kiel",
+      "website": "https://www.oksh.de/ki/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:20:51.063Z"
+        }
+      ]
+    },
+    {
+      "id": "OneAdria.de",
+      "name": "One Adria",
+      "website": "https://folx.network/one-adria-music-television/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:08.247Z"
+        }
+      ]
+    },
+    {
+      "id": "OneMusicTelevision.de",
+      "name": "One Music Television",
+      "website": "https://folx.network/one-music-television/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://oneapp.b-cdn.net/1080p/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:10.126Z"
+        }
+      ]
+    },
+    {
+      "id": "Parlamentsfernsehen1.de",
+      "name": "Parlamentsfernsehen 1",
+      "website": "https://www.bundestag.de/parlamentsfernsehen",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:13.027Z"
+        }
+      ]
+    },
+    {
+      "id": "QVC.de",
+      "name": "QVC",
+      "website": "https://www.qvc.de/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:32.202Z"
+        }
+      ]
+    },
+    {
+      "id": "rbbFernsehen.de",
+      "name": "rbb Fernsehen",
+      "website": "https://www.rbb-online.de/fernsehen/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:42.898Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:redbulltvde",
+      "name": "Red Bull TV DE",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:44.829Z"
+        }
+      ]
+    },
+    {
+      "id": "RegioTVBodensee.de",
+      "name": "Regio TV Bodensee",
+      "website": "https://www.regio-tv.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:21:53.163Z"
+        }
+      ]
+    },
+    {
+      "id": "RegioTVStuttgart.de",
+      "name": "Regio TV Stuttgart",
+      "website": "https://www.regio-tv.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:04.390Z"
+        }
+      ]
+    },
+    {
+      "id": "RFH.de",
+      "name": "RFH",
+      "website": "https://www.rfh-tv.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:06.807Z"
+        }
+      ]
+    },
+    {
+      "id": "RiC.de",
+      "name": "RiC",
+      "website": "http://www.rictv.de/",
+      "categories": [
+        "kids",
+        "family"
+      ],
+      "streams": [
+        {
+          "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:15.398Z"
+        },
+        {
+          "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:25.869Z"
+        }
+      ]
+    },
+    {
+      "id": "SaarlandFernsehen1.de",
+      "name": "Saarland Fernsehen 1",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:29.015Z"
+        }
+      ]
+    },
+    {
+      "id": "SaarlandFernsehen2.de",
+      "name": "Saarland Fernsehen 2",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:36.384Z"
+        }
+      ]
+    },
+    {
+      "id": "SachsenEins.de",
+      "name": "Sachsen Eins",
+      "website": "https://www.sachsen-fernsehen.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:46.838Z"
+        }
+      ]
+    },
+    {
+      "id": "SachsenFernsehenChemnitz.de",
+      "name": "Sachsen Fernsehen Chemnitz",
+      "website": "https://www.sachsen-fernsehen.de/kategorie/chemnitz/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:50.012Z"
+        }
+      ]
+    },
+    {
+      "id": "SachsenFernsehenDresden.de",
+      "name": "Sachsen Fernsehen Dresden",
+      "website": "https://www.sachsen-fernsehen.de/kategorie/dresden/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:22:57.342Z"
+        }
+      ]
+    },
+    {
+      "id": "SachsenFernsehenLeipzig.de",
+      "name": "Sachsen Fernsehen Leipzig",
+      "website": "https://www.sachsen-fernsehen.de/kategorie/leipzig/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:07.829Z"
+        }
+      ]
+    },
+    {
+      "id": "Seenluft24.de",
+      "name": "Seenluft24",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:20.605Z"
+        }
+      ]
+    },
+    {
+      "id": "SenderNeuJerusalem.de",
+      "name": "Sender Neu Jerusalem",
+      "website": "https://www.neu-jerusalem.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:28.800Z"
+        }
+      ]
+    },
+    {
+      "id": "SophiaTV.de",
+      "name": "Sophia TV",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:42.053Z"
+        }
+      ]
+    },
+    {
+      "id": "SophiaTVEspanol.de",
+      "name": "Sophia TV Espanol",
+      "website": "https://radio-santec.com/es/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:49.804Z"
+        }
+      ]
+    },
+    {
+      "id": "SophiaTVFrancais.de",
+      "name": "Sophia TV Francais",
+      "website": "https://radio-santec.com/fr/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:23:51.857Z"
+        }
+      ]
+    },
+    {
+      "id": "SRFernsehen.de",
+      "name": "SR Fernsehen",
+      "website": "https://www.sr.de/sr/fernsehen/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:03.108Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:strongman",
+      "name": "Strongman",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:12.810Z"
+        }
+      ]
+    },
+    {
+      "id": "SWR3VisualRadio.de",
+      "name": "SWR 3 Visual Radio",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:24.065Z"
+        }
+      ]
+    },
+    {
+      "id": "SWRFernsehenHD.de",
+      "name": "SWR Fernsehen HD",
+      "website": "https://www.swrfernsehen.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:31.440Z"
+        }
+      ]
+    },
+    {
+      "id": "tagesschau24.de",
+      "name": "tagesschau24",
+      "website": "https://www.tagesschau.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:35.534Z"
+        }
+      ]
+    },
+    {
+      "id": "teltOwkanal.de",
+      "name": "teltOwkanal",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:45.012Z"
+        }
+      ]
+    },
+    {
+      "id": "TerraMaterWILD.de",
+      "name": "Terra Mater WILD",
+      "website": "https://www.autentic.com/117/Channels.htm#terra_mater",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:53.880Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:thegrahamnortonshow",
+      "name": "The Graham Norton Show",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:24:56.517Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBozsikeHamburgHD.de",
+      "name": "TV Bozsike Hamburg HD",
+      "website": "https://radiobozsike.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://rtmp.radiobozsike.com/hls/stream1.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:07.938Z"
+        }
+      ]
+    },
+    {
+      "id": "TVIngolstadt.de",
+      "name": "TV Ingolstadt",
+      "website": "https://www.tvingolstadt.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:15.367Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMainfranken.de",
+      "name": "TV Mainfranken",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:17.972Z"
+        }
+      ]
+    },
+    {
+      "id": "TVOberfranken.de",
+      "name": "TV Oberfranken",
+      "website": "https://www.tvo.de/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:28.871Z"
+        }
+      ]
+    },
+    {
+      "id": "TV38SudostNiedersachen.de",
+      "name": "TV38 Sudost-Niedersachen",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:36.398Z"
+        }
+      ]
+    },
+    {
+      "id": "TVA.de",
+      "name": "TVA",
+      "website": "https://www.tvaktuell.com/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:39.449Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:wdr",
+      "name": "WDR",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:25:57.305Z"
+        }
+      ]
+    },
+    {
+      "id": "WDR1Live.de",
+      "name": "WDR 1 Live",
+      "website": null,
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:00.873Z"
+        },
+        {
+          "url": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:12.463Z"
+        }
+      ]
+    },
+    {
+      "id": "WDRFernsehen.de",
+      "name": "WDR Fernsehen",
+      "website": "https://www1.wdr.de/unternehmen/der-wdr/standorte/studios/bonn/studio-bonn-102.html",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:18.235Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:21.805Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:33.413Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:39.259Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:42.785Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:26:54.400Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:00.210Z"
+        },
+        {
+          "url": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:03.742Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:15.358Z"
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:21.220Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:24.761Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:36.419Z"
+        },
+        {
+          "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:42.719Z"
+        }
+      ]
+    },
+    {
+      "id": "WELT.de",
+      "name": "WELT",
+      "website": "https://www.welt.de/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:45.819Z"
+        }
+      ]
+    },
+    {
+      "id": "WeltderWunderTV.de",
+      "name": "Welt der Wunder TV",
+      "website": "https://www.weltderwunder.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:27:58.156Z"
+        }
+      ]
+    },
+    {
+      "id": "WorldofFreesports.de",
+      "name": "World of Freesports",
+      "website": "https://www.worldoffreesports-tv.com/",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:03.708Z"
+        },
+        {
+          "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:07.304Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:xitehitsgermany",
+      "name": "XITE Hits Germany",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:19.118Z"
+        }
+      ]
+    },
+    {
+      "id": "YOLTV.de",
+      "name": "YOL TV",
+      "website": "https://www.yoltv.eu/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.yoltv.com/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:24.654Z"
+        }
+      ]
+    },
+    {
+      "id": "ZDF.de",
+      "name": "ZDF",
+      "website": "https://www.zdf.de/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:29.221Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:DE:zeeonegerman",
+      "name": "Zee One German",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/de.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:44.768Z"
+        }
+      ]
+    },
+    {
+      "id": "ZweiMusicTelevision.de",
+      "name": "Zwei Music Television",
+      "website": "https://folx.network/zwei-music-television/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:28:45.540Z"
+        }
+      ]
+    }
+  ]
+}

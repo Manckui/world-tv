@@ -1,4 +1,4 @@
-export type CountryCode = "IT" | "ES" | "FR" | "VN" | "JP" | "CL" | "US" | "ZA";
+export type CountryCode = "IT" | "ES" | "FR" | "DE" | "PT" | "VN" | "JP" | "CL" | "US" | "ZA";
 
 export type CountryOption = { code: CountryCode; name: string; flag: string };
 

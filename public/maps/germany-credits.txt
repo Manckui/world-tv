@@ -1,0 +1,10 @@
+Germania — confini dei 16 Länder
+Fonte originale: Bundesamt für Kartographie und Geodäsie (BKG), Germania.
+Distribuzione: geoBoundaries gbOpen DEU ADM1. Dati rappresentati: 2021.
+https://www.geoboundaries.org/api/current/gbOpen/DEU/ADM1/
+https://github.com/wmgeolab/geoBoundaries/tree/9469f09/releaseData/gbOpen/DEU/ADM1
+Licenza: Datenlizenz Deutschland – Namensnennung – Version 2.0 (dl-de/by-2-0)
+https://www.govdata.de/dl-de/by-2-0
+Modifiche World TV: codici ISO 3166-2, arrotondamento delle coordinate a tre
+decimali, rimozione dei punti ripetuti e orientamento degli anelli per d3-geo.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "country": "PT",
+  "channels": [
+    {
+      "id": "ADBTV.pt",
+      "name": "ADB TV",
+      "website": "https://live.adburaca.org/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:34:08.881Z"
+        }
+      ]
+    },
+    {
+      "id": "ARTV.pt",
+      "name": "ARTV",
+      "website": "https://canal.parlamento.pt/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8",
+          "format": "hls",
+          "page": "https://canal.parlamento.pt/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T08:34:30.710Z"
+        },
+        {
+          "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:34:52.574Z"
+        }
+      ]
+    },
+    {
+      "id": "ConecTVAlgarve.pt",
+      "name": "ConecTV",
+      "website": "https://www.conectv.tv/ao-vivo",
+      "categories": [
+        "regional",
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+          "format": "hls",
+          "page": "https://www.conectv.tv/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T08:35:13.978Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:PT:covilhanensetv",
+      "name": "Covilhanense TV",
+      "website": "https://tv.covilhanense.pt/",
+      "categories": [
+        "local",
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://tv.covilhanense.pt/hls/live.m3u8",
+          "format": "hls",
+          "page": "https://tv.covilhanense.pt/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T08:35:36.348Z"
+        }
+      ]
+    },
+    {
+      "id": "KuriakosCine.pt",
+      "name": "Kuriakos Cine",
+      "website": null,
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:35:58.482Z"
+        }
+      ]
+    },
+    {
+      "id": "KuriakosKids.pt",
+      "name": "Kuriakos Kids",
+      "website": "https://kuriakos-kids.com/",
+      "categories": [
+        "animation",
+        "kids",
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:36:20.377Z"
+        }
+      ]
+    },
+    {
+      "id": "KuriakosTV.pt",
+      "name": "Kuriakos TV",
+      "website": "https://kuriakos-tv.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:36:42.752Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaChurchOnline.pt",
+      "name": "Mana Church Online",
+      "website": "https://www.igreja-online.co.uk/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:37:05.128Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaCirkevOnline.pt",
+      "name": "Mana Cirkev Online",
+      "website": "https://cirkev-online.sk/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:37:32.074Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaEgliseOnline.pt",
+      "name": "Mana Eglise Online",
+      "website": "https://eglise-online.tv/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:37:53.952Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaIglesiaOnline.pt",
+      "name": "Mana Iglesia Online",
+      "website": "https://www.iglesia-online.es/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:38:15.355Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaIgrejaOnline.pt",
+      "name": "Mana Igreja Online",
+      "website": "https://www.igreja-online.tv",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:38:36.721Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaTserkovOnlayn.pt",
+      "name": "Mana Tserkov' Onlayn",
+      "website": "https://www.igreja-online.ru/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:38:58.593Z"
+        }
+      ]
+    },
+    {
+      "id": "ONFM.pt",
+      "name": "ON FM",
+      "website": "https://www.onfm.pt/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:39:22.194Z"
+        }
+      ]
+    },
+    {
+      "id": "PortoCanal.pt",
+      "name": "Porto Canal",
+      "website": "https://portocanal.sapo.pt/direto",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:39:43.053Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioSines.pt",
+      "name": "Radio Sines",
+      "website": "https://radiosines.sapo.pt/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:40:03.948Z"
+        }
+      ]
+    },
+    {
+      "id": "RFPtv.pt",
+      "name": "RFPtv",
+      "website": "https://www.rfptv.pt/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:40:39.949Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCancaoNova.pt",
+      "name": "TV Canção Nova Portugal",
+      "website": "https://tv.cancaonova.pt/tv-cancao-nova-portugal-em-direto/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+          "format": "hls",
+          "page": "https://tv.cancaonova.pt/tv-cancao-nova-portugal-em-direto/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T08:41:11.049Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana1.pt",
+      "name": "TV Mana 1",
+      "website": "https://tvmana1.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:41:32.445Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana2.pt",
+      "name": "TV Mana 2",
+      "website": "https://tvmana2.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:41:53.822Z"
+        }
+      ]
+    },
+    {
+      "id": "TVManaEnglish.pt",
+      "name": "TV Mana English",
+      "website": "https://tvmana-english.ar/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:42:16.712Z"
+        }
+      ]
+    },
+    {
+      "id": "TVManaEspanhol.pt",
+      "name": "TV Mana Espanhol",
+      "website": "https://tvmana-espanhol.ar/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:42:38.085Z"
+        }
+      ]
+    },
+    {
+      "id": "TVManaRusskiy.pt",
+      "name": "TV Mana Russkiy",
+      "website": "https://tvmanarusskii.ru/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T08:42:59.513Z"
+        }
+      ]
+    }
+  ]
+}

@@ -37,7 +37,7 @@ test("resume requires a compatible environment and finished automatic attempts",
 test("CLI validates location, country, times, limits and origin", () => {
   assert.equal(optionsFrom(["--help"]).help, true);
   assert.throws(() => optionsFrom([]));
-  for (const extra of [["--country", "DE"], ["--observe", "0"], ["--limit", "-1"], ["--limit", "Infinity"], ["--concurrency", "0"], ["--concurrency", "5"], ["--concurrency", "1.5"], ["--base-url", "http://user:secret@localhost:3000"]]) assert.throws(() => optionsFrom(["--location", "Italia", ...extra]));
+  for (const extra of [["--country", "XX"], ["--observe", "0"], ["--limit", "-1"], ["--limit", "Infinity"], ["--concurrency", "0"], ["--concurrency", "5"], ["--concurrency", "1.5"], ["--base-url", "http://user:secret@localhost:3000"]]) assert.throws(() => optionsFrom(["--location", "Italia", ...extra]));
   assert.equal(optionsFrom(["--location", "Italia", "--limit", "5"]).limit, 5);
   assert.equal(optionsFrom(["--location", "Italia"]).concurrency, 3);
   assert.equal(optionsFrom(["--location", "Italia", "--concurrency", "1"]).concurrency, 1);

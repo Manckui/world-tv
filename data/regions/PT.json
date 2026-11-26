@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "country": "PT",
+  "regions": [
+    {
+      "code": "PT-20",
+      "name": "Açores",
+      "center": [
+        -27.2607,
+        38.3558
+      ]
+    },
+    {
+      "code": "PT-01",
+      "name": "Aveiro",
+      "center": [
+        -8.4686,
+        40.7232
+      ]
+    },
+    {
+      "code": "PT-02",
+      "name": "Beja",
+      "center": [
+        -7.9453,
+        37.8296
+      ]
+    },
+    {
+      "code": "PT-03",
+      "name": "Braga",
+      "center": [
+        -8.3099,
+        41.553
+      ]
+    },
+    {
+      "code": "PT-04",
+      "name": "Bragança",
+      "center": [
+        -6.8596,
+        41.5089
+      ]
+    },
+    {
+      "code": "PT-05",
+      "name": "Castelo Branco",
+      "center": [
+        -7.5022,
+        39.9464
+      ]
+    },
+    {
+      "code": "PT-06",
+      "name": "Coimbra",
+      "center": [
+        -8.3359,
+        40.2046
+      ]
+    },
+    {
+      "code": "PT-07",
+      "name": "Évora",
+      "center": [
+        -7.8414,
+        38.6039
+      ]
+    },
+    {
+      "code": "PT-08",
+      "name": "Faro",
+      "center": [
+        -8.132,
+        37.2442
+      ]
+    },
+    {
+      "code": "PT-09",
+      "name": "Guarda",
+      "center": [
+        -7.23,
+        40.6409
+      ]
+    },
+    {
+      "code": "PT-10",
+      "name": "Leiria",
+      "center": [
+        -8.7767,
+        39.7169
+      ]
+    },
+    {
+      "code": "PT-11",
+      "name": "Lisboa",
+      "center": [
+        -9.1638,
+        38.9965
+      ]
+    },
+    {
+      "code": "PT-30",
+      "name": "Madeira",
+      "center": [
+        -16.9513,
+        32.7508
+      ]
+    },
+    {
+      "code": "PT-12",
+      "name": "Portalegre",
+      "center": [
+        -7.62,
+        39.1899
+      ]
+    },
+    {
+      "code": "PT-13",
+      "name": "Porto",
+      "center": [
+        -8.3528,
+        41.2249
+      ]
+    },
+    {
+      "code": "PT-14",
+      "name": "Santarém",
+      "center": [
+        -8.4783,
+        39.2927
+      ]
+    },
+    {
+      "code": "PT-15",
+      "name": "Setúbal",
+      "center": [
+        -8.6523,
+        38.3177
+      ]
+    },
+    {
+      "code": "PT-16",
+      "name": "Viana do Castelo",
+      "center": [
+        -8.5075,
+        41.8778
+      ]
+    },
+    {
+      "code": "PT-17",
+      "name": "Vila Real",
+      "center": [
+        -7.6318,
+        41.5545
+      ]
+    },
+    {
+      "code": "PT-18",
+      "name": "Viseu",
+      "center": [
+        -7.8718,
+        40.7984
+      ]
+    }
+  ]
+}

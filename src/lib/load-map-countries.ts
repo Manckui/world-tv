@@ -12,6 +12,8 @@ const maps: Partial<Record<CountryCode, Omit<MapCountry, "code" | "name" | "flag
   FR: { iso3: "FRA", map: "france", credits: "france-credits", center: [2.2, 46.6],
     overviewRegionCodes: ["FR-ARA", "FR-BFC", "FR-BRE", "FR-CVL", "FR-20R", "FR-GES", "FR-HDF",
       "FR-IDF", "FR-NOR", "FR-NAQ", "FR-OCC", "FR-PDL", "FR-PAC"] },
+  DE: { iso3: "DEU", map: "germany", credits: "germany-credits", center: [10.4, 51.1] },
+  PT: { iso3: "PRT", map: "portugal", credits: "portugal-credits", center: [-8.2, 39.6] },
 };
 
 export async function loadMapCountries(): Promise<MapCountry[]> {

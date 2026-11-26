@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "country": "DE",
+  "regions": [
+    {
+      "code": "DE-BW",
+      "name": "Baden-Württemberg",
+      "center": [
+        9.0416,
+        48.5416
+      ]
+    },
+    {
+      "code": "DE-BY",
+      "name": "Bayern",
+      "center": [
+        11.4278,
+        48.9383
+      ]
+    },
+    {
+      "code": "DE-BE",
+      "name": "Berlin",
+      "center": [
+        13.4022,
+        52.5015
+      ]
+    },
+    {
+      "code": "DE-BB",
+      "name": "Brandenburg",
+      "center": [
+        13.4043,
+        52.4687
+      ]
+    },
+    {
+      "code": "DE-HB",
+      "name": "Bremen",
+      "center": [
+        8.7357,
+        53.2143
+      ]
+    },
+    {
+      "code": "DE-HH",
+      "name": "Hamburg",
+      "center": [
+        10.0134,
+        53.5473
+      ]
+    },
+    {
+      "code": "DE-HE",
+      "name": "Hessen",
+      "center": [
+        9.0261,
+        50.5992
+      ]
+    },
+    {
+      "code": "DE-MV",
+      "name": "Mecklenburg-Vorpommern",
+      "center": [
+        12.5422,
+        53.756
+      ]
+    },
+    {
+      "code": "DE-NI",
+      "name": "Niedersachsen",
+      "center": [
+        9.1679,
+        52.7657
+      ]
+    },
+    {
+      "code": "DE-NW",
+      "name": "Nordrhein-Westfalen",
+      "center": [
+        7.5541,
+        51.4779
+      ]
+    },
+    {
+      "code": "DE-RP",
+      "name": "Rheinland-Pfalz",
+      "center": [
+        7.452,
+        49.911
+      ]
+    },
+    {
+      "code": "DE-SL",
+      "name": "Saarland",
+      "center": [
+        6.9536,
+        49.3842
+      ]
+    },
+    {
+      "code": "DE-SN",
+      "name": "Sachsen",
+      "center": [
+        13.3447,
+        51.0529
+      ]
+    },
+    {
+      "code": "DE-ST",
+      "name": "Sachsen-Anhalt",
+      "center": [
+        11.7028,
+        52.009
+      ]
+    },
+    {
+      "code": "DE-SH",
+      "name": "Schleswig-Holstein",
+      "center": [
+        9.8197,
+        54.1843
+      ]
+    },
+    {
+      "code": "DE-TH",
+      "name": "Thüringen",
+      "center": [
+        11.0265,
+        50.9034
+      ]
+    }
+  ]
+}

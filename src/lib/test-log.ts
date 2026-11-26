@@ -16,7 +16,7 @@ function isRecord(value: unknown): value is PlaybackTest {
   if (!value || typeof value !== "object") return false;
   const r = value as PlaybackTest;
   return typeof r.id === "string" && typeof r.channelId === "string" && typeof r.channelName === "string"
-    && ["IT", "ES", "FR", "VN", "JP", "CL", "US", "ZA"].includes(r.country)
+    && ["IT", "ES", "FR", "DE", "PT", "VN", "JP", "CL", "US", "ZA"].includes(r.country)
     && typeof r.streamUrl === "string" && typeof r.startedAt === "string" && !Number.isNaN(Date.parse(r.startedAt))
     && (r.confirmedAt === undefined || typeof r.confirmedAt === "string" && !Number.isNaN(Date.parse(r.confirmedAt)))
     && Object.hasOwn(OUTCOME_LABELS, r.outcome) && Array.isArray(r.events)

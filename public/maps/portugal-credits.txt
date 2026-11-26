@@ -1,0 +1,2 @@
+Fonte: geoBoundaries gbOpen PRT ADM1, release 9469f09 (DG Território). Licenza: ODbL 1.0.
+Modifiche: selezionati i 20 distretti/regioni autonome del Portogallo, codici ISO 3166-2 PT-01…PT-18, PT-20 e PT-30; geometrie semplificate arrotondate a 4 decimali; winding normalizzato per d3-geo; centri calcolati con geoCentroid. Scaricato e trasformato per World TV.
