@@ -4,7 +4,7 @@ import { readFile, readdir } from "node:fs/promises";
 import assert from "node:assert/strict";
 import { geoArea, geoContains } from "d3-geo";
 
-const mapNames = { ES: "spain", FR: "france", DE: "germany", PT: "portugal" };
+const mapNames = { ES: "spain", FR: "france", DE: "germany", PT: "portugal", BR: "brazil", MX: "mexico", NL: "netherlands", PL: "poland" };
 const countries = process.argv.slice(2);
 if (!countries.length) countries.push(...(await readdir("data/catalogs")).filter(file => /^[A-Z]{2}\.json$/.test(file)).map(file => file.slice(0, 2)));
 async function json(filename) { return JSON.parse(await readFile(filename, "utf8")); }

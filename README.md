@@ -11,7 +11,7 @@
 ## Cosa fa
 
 - **Globo navigabile:** trascinamento, zoom con rotella, pinch e pulsanti, Paesi e regioni cliccabili, pin delle emittenti nella città della loro sede.
-- **Catalogo per Paese:** Italia (circa 550 canali), Spagna (circa 250), Germania (circa 110), Francia (circa 90) e Portogallo (circa 20). TV nazionali separate da quelle regionali e locali, con ricerca per nome o città, preferiti e pulsante "Sorprendimi".
+- **Catalogo per Paese:** Italia (circa 550 canali), Spagna (circa 250), Germania (circa 110), Brasile (circa 110), Francia (circa 90), Messico (circa 75) e Portogallo (circa 20). TV nazionali separate da quelle regionali e locali, con ricerca per nome o città, preferiti e pulsante "Sorprendimi".
 - **Player HLS/DASH** nel browser (hls.js, dash.js, HLS nativo su Safari). Se una fonte non funziona, il player passa da solo a quella successiva. I messaggi d'errore distinguono geoblocco, CORS, DRM e fonte offline.
 - **Interfaccia in italiano e inglese**, progettata per desktop e mobile (design system "Orbita").
 
@@ -71,6 +71,6 @@ docs/                 design, diagnostica, note di sviluppo
 - [Note di sviluppo](docs/sviluppo.md): runner dei test, catalogo italiano, geografia
 - [Come contribuire con un Paese](CONTRIBUTING.md)
 - [Design Orbita](docs/design/orbita-implementation.md) e [lingue](docs/design/languages.md)
-- Rapporti per Paese: [Spagna](docs/diagnostics/spain-handoff.md), [Francia](docs/diagnostics/france-handoff.md), [Germania](docs/diagnostics/germany-research-coverage.md), [Portogallo](docs/diagnostics/portugal-handoff.md)
+- Rapporti per Paese: [Spagna](docs/diagnostics/spain-handoff.md), [Francia](docs/diagnostics/france-handoff.md), [Germania](docs/diagnostics/germany-research-coverage.md), [Portogallo](docs/diagnostics/portugal-handoff.md), [Brasile](docs/diagnostics/brazil-research-coverage.md), [Messico](docs/diagnostics/mexico-research-coverage.md)
 
 Le dirette appartengono alle rispettive emittenti, e la loro disponibilità può cambiare nel tempo.

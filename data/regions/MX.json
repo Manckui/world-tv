@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "country": "MX",
+  "regions": [
+    {
+      "code": "MX-AGU",
+      "name": "Aguascalientes",
+      "center": [
+        -102.362,
+        22.0057
+      ]
+    },
+    {
+      "code": "MX-BCN",
+      "name": "Baja California",
+      "center": [
+        -115.0719,
+        30.5416
+      ]
+    },
+    {
+      "code": "MX-BCS",
+      "name": "Baja California Sur",
+      "center": [
+        -112.0211,
+        25.9097
+      ]
+    },
+    {
+      "code": "MX-CAM",
+      "name": "Campeche",
+      "center": [
+        -90.3184,
+        18.8486
+      ]
+    },
+    {
+      "code": "MX-CHP",
+      "name": "Chiapas",
+      "center": [
+        -92.4617,
+        16.4829
+      ]
+    },
+    {
+      "code": "MX-CHH",
+      "name": "Chihuahua",
+      "center": [
+        -106.4618,
+        28.7931
+      ]
+    },
+    {
+      "code": "MX-CMX",
+      "name": "Ciudad de México",
+      "center": [
+        -99.1408,
+        19.2772
+      ]
+    },
+    {
+      "code": "MX-COA",
+      "name": "Coahuila",
+      "center": [
+        -102.0445,
+        27.2828
+      ]
+    },
+    {
+      "code": "MX-COL",
+      "name": "Colima",
+      "center": [
+        -104.0947,
+        19.1346
+      ]
+    },
+    {
+      "code": "MX-DUR",
+      "name": "Durango",
+      "center": [
+        -104.9128,
+        24.918
+      ]
+    },
+    {
+      "code": "MX-MEX",
+      "name": "Estado de México",
+      "center": [
+        -99.6456,
+        19.3557
+      ]
+    },
+    {
+      "code": "MX-GUA",
+      "name": "Guanajuato",
+      "center": [
+        -101.0141,
+        20.9045
+      ]
+    },
+    {
+      "code": "MX-GRO",
+      "name": "Guerrero",
+      "center": [
+        -99.9188,
+        17.6697
+      ]
+    },
+    {
+      "code": "MX-HID",
+      "name": "Hidalgo",
+      "center": [
+        -98.8872,
+        20.4787
+      ]
+    },
+    {
+      "code": "MX-JAL",
+      "name": "Jalisco",
+      "center": [
+        -103.6166,
+        20.579
+      ]
+    },
+    {
+      "code": "MX-MIC",
+      "name": "Michoacán",
+      "center": [
+        -101.8796,
+        19.207
+      ]
+    },
+    {
+      "code": "MX-MOR",
+      "name": "Morelos",
+      "center": [
+        -99.0753,
+        18.7425
+      ]
+    },
+    {
+      "code": "MX-NAY",
+      "name": "Nayarit",
+      "center": [
+        -104.8489,
+        21.7989
+      ]
+    },
+    {
+      "code": "MX-NLE",
+      "name": "Nuevo León",
+      "center": [
+        -99.9687,
+        25.5634
+      ]
+    },
+    {
+      "code": "MX-OAX",
+      "name": "Oaxaca",
+      "center": [
+        -96.447,
+        16.9704
+      ]
+    },
+    {
+      "code": "MX-PUE",
+      "name": "Puebla",
+      "center": [
+        -97.9009,
+        19.0037
+      ]
+    },
+    {
+      "code": "MX-QUE",
+      "name": "Querétaro",
+      "center": [
+        -99.8469,
+        20.8554
+      ]
+    },
+    {
+      "code": "MX-ROO",
+      "name": "Quintana Roo",
+      "center": [
+        -88.122,
+        19.6285
+      ]
+    },
+    {
+      "code": "MX-SLP",
+      "name": "San Luis Potosí",
+      "center": [
+        -100.4105,
+        22.5846
+      ]
+    },
+    {
+      "code": "MX-SIN",
+      "name": "Sinaloa",
+      "center": [
+        -107.468,
+        24.9934
+      ]
+    },
+    {
+      "code": "MX-SON",
+      "name": "Sonora",
+      "center": [
+        -110.7851,
+        29.6804
+      ]
+    },
+    {
+      "code": "MX-TAB",
+      "name": "Tabasco",
+      "center": [
+        -92.5828,
+        17.9332
+      ]
+    },
+    {
+      "code": "MX-TAM",
+      "name": "Tamaulipas",
+      "center": [
+        -98.6702,
+        24.267
+      ]
+    },
+    {
+      "code": "MX-TLA",
+      "name": "Tlaxcala",
+      "center": [
+        -98.1685,
+        19.4286
+      ]
+    },
+    {
+      "code": "MX-VER",
+      "name": "Veracruz",
+      "center": [
+        -96.3878,
+        19.3627
+      ]
+    },
+    {
+      "code": "MX-YUC",
+      "name": "Yucatán",
+      "center": [
+        -88.9202,
+        20.7461
+      ]
+    },
+    {
+      "code": "MX-ZAC",
+      "name": "Zacatecas",
+      "center": [
+        -102.6645,
+        23.2845
+      ]
+    }
+  ]
+}

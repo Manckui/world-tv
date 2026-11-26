@@ -1,0 +1,11 @@
+Brasile — confini dei 26 stati e del Distretto Federale
+Distribuzione: geoBoundaries gbOpen BRA ADM1, derivato da Wikimedia Commons "Brazil_States.svg".
+Dati rappresentati: 2006.
+https://www.geoboundaries.org/api/current/gbOpen/BRA/ADM1/
+https://commons.wikimedia.org/wiki/File:Brazil_States.svg
+Licenza: Creative Commons Attribution 2.5 Generic
+https://creativecommons.org/licenses/by/2.5/
+Modifiche World TV: nomi con accenti e refusi corretti a partire dal codice ISO 3166-2,
+arrotondamento delle coordinate a tre decimali, rimozione dei punti ripetuti e orientamento
+degli anelli per d3-geo.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

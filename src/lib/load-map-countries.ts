@@ -14,6 +14,10 @@ const maps: Partial<Record<CountryCode, Omit<MapCountry, "code" | "name" | "flag
       "FR-IDF", "FR-NOR", "FR-NAQ", "FR-OCC", "FR-PDL", "FR-PAC"] },
   DE: { iso3: "DEU", map: "germany", credits: "germany-credits", center: [10.4, 51.1] },
   PT: { iso3: "PRT", map: "portugal", credits: "portugal-credits", center: [-8.2, 39.6] },
+  BR: { iso3: "BRA", map: "brazil", credits: "brazil-credits", center: [-52, -14] },
+  MX: { iso3: "MEX", map: "mexico", credits: "mexico-credits", center: [-102, 23.6] },
+  NL: { iso3: "NLD", map: "netherlands", credits: "netherlands-credits", center: [5.3, 52.2] },
+  PL: { iso3: "POL", map: "poland", credits: "poland-credits", center: [19.4, 52] },
 };
 
 export async function loadMapCountries(): Promise<MapCountry[]> {

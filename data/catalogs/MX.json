@@ -1,0 +1,1266 @@
+{
+  "version": 1,
+  "country": "MX",
+  "channels": [
+    {
+      "id": "8NTV.mx",
+      "name": "8NTV",
+      "website": "https://www.ntv.com.mx/envivo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:49:32.616Z"
+        }
+      ]
+    },
+    {
+      "id": "ADNNoticias.mx",
+      "name": "ADN Noticias",
+      "website": null,
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:49:54.086Z"
+        }
+      ]
+    },
+    {
+      "id": "AlcanceTV.mx",
+      "name": "Alcance TV",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:00.666Z"
+        }
+      ]
+    },
+    {
+      "id": "AMXNoticias.mx",
+      "name": "AMX Noticias",
+      "website": "https://radioytvmexiquense.mx/index.php/noticias/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:16.576Z"
+        }
+      ]
+    },
+    {
+      "id": "AntenaTV.mx",
+      "name": "Antena TV",
+      "website": "http://www.antenatele.com.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:24.173Z"
+        }
+      ]
+    },
+    {
+      "id": "BAMOSTV.mx",
+      "name": "BAMOS TV",
+      "website": "https://www.bamos.com.mx/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://video2.getstreamhosting.com:19360/8092/8092.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:42.754Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal22Nacional.mx",
+      "name": "Canal 22 Nacional",
+      "website": "https://www.canal22.org.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:03.961Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal26.mx",
+      "name": "Canal 26",
+      "website": "https://ryta.com.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:05.213Z"
+        },
+        {
+          "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:32.963Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal33Tijuana.mx",
+      "name": "Canal 33 Tijuana",
+      "website": "https://canal66.tv/",
+      "categories": [
+        "general",
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:34.943Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal44.mx",
+      "name": "Canal 44",
+      "website": "https://canal44.com/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:00.350Z"
+        }
+      ]
+    },
+    {
+      "id": "CanaldelCongreso451.mx",
+      "name": "Canal del Congreso 45.1",
+      "website": "https://www.canaldelcongreso.gob.mx/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:01.151Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalOnce.mx",
+      "name": "Canal Once",
+      "website": "http://canalonce.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:23.070Z"
+        },
+        {
+          "url": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:24.775Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalParlamentodelCongresodeJalisco.mx",
+      "name": "Canal Parlamento del Congreso de Jalisco",
+      "website": "https://canalparlamento.congresojal.gob.mx/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:47.598Z"
+        }
+      ]
+    },
+    {
+      "id": "CBTVMichoacan.mx",
+      "name": "CB TV Michoacan",
+      "website": "https://cbtelevision.com.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:50.996Z"
+        }
+      ]
+    },
+    {
+      "id": "ConectaTV.mx",
+      "name": "Conecta TV",
+      "website": null,
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:14.648Z"
+        }
+      ]
+    },
+    {
+      "id": "CreaLaTV.mx",
+      "name": "CreaLaTV",
+      "website": "https://www.creala.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.crealatv.com/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:15.502Z"
+        }
+      ]
+    },
+    {
+      "id": "ElChavoTV.mx",
+      "name": "El Chavo TV",
+      "website": "https://gia.tv/watchssh101.php?pptv=211465",
+      "categories": [
+        "kids"
+      ],
+      "streams": [
+        {
+          "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:37.643Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:estrellanews",
+      "name": "Estrella News",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://estrella-news-oando.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:45.487Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:estrellatv",
+      "name": "Estrella TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://estrellatv-oando.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:01.636Z"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:07.956Z"
+        }
+      ]
+    },
+    {
+      "id": "ExpresaTV.mx",
+      "name": "Expresa TV",
+      "website": "https://expresatv.com.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:24.102Z"
+        }
+      ]
+    },
+    {
+      "id": "IcrtvColima.mx",
+      "name": "Icrtv Colima",
+      "website": "http://www.icrtvcolima.com/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:32.598Z"
+        }
+      ]
+    },
+    {
+      "id": "ILCECanal15SummaSaberes.mx",
+      "name": "ILCE Canal 15 Summa Saberes",
+      "website": "https://www.ilce.edu.mx/index.php/radio-y-tv",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:57.081Z"
+        }
+      ]
+    },
+    {
+      "id": "ITVDeportes.mx",
+      "name": "ITV Deportes",
+      "website": null,
+      "categories": [
+        "entertainment",
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:18.762Z"
+        }
+      ]
+    },
+    {
+      "id": "JaliscoTV.mx",
+      "name": "Jalisco TV",
+      "website": "https://jaliscotv.com/",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:32.442Z"
+        }
+      ]
+    },
+    {
+      "id": "JusticiaTV.mx",
+      "name": "Justicia TV",
+      "website": "https://justiciatv.mx/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:39.660Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:lifetimelatinamericamexico",
+      "name": "Lifetime Latin America Mexico",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://streaming.onnethn.com/LIFETIME/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:54.881Z"
+        }
+      ]
+    },
+    {
+      "id": "LoboTV.mx",
+      "name": "Lobo TV",
+      "website": "https://www.lobotv.com.mx/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:00.570Z"
+        }
+      ]
+    },
+    {
+      "id": "MariaVision.mx",
+      "name": "Maria Vision",
+      "website": "https://www.mariavision.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:17.801Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:mexicotraveltv",
+      "name": "México Travel TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:27.045Z"
+        }
+      ]
+    },
+    {
+      "id": "MexiquenseTV.mx",
+      "name": "Mexiquense TV",
+      "website": "https://radioytvmexiquense.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:38.755Z"
+        }
+      ]
+    },
+    {
+      "id": "MilenioTelevision.mx",
+      "name": "Milenio Television",
+      "website": "https://www.milenio.com/mileniotv",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:52.526Z"
+        }
+      ]
+    },
+    {
+      "id": "MonteMaria.mx",
+      "name": "Monte Maria",
+      "website": "https://www.montemaria.mx/?lang=en",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:05.780Z"
+        }
+      ]
+    },
+    {
+      "id": "NayaritComunica.mx",
+      "name": "Nayarit Comunica",
+      "website": "https://nayaritcomunica.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:21.877Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:nickjrlatinamerica",
+      "name": "Nick Jr. Latin America",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:35.319Z"
+        }
+      ]
+    },
+    {
+      "id": "NueveTV.mx",
+      "name": "Nueve TV",
+      "website": "https://www.ntvslp.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:58.331Z"
+        }
+      ]
+    },
+    {
+      "id": "PopcornCentral.mx",
+      "name": "Popcorn Central",
+      "website": "https://popcorncentraltv.com/",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:08.384Z"
+        }
+      ]
+    },
+    {
+      "id": "PresumiendoMexico.mx",
+      "name": "Presumiendo Mexico",
+      "website": "https://www.presumiendomexico.com.mx/",
+      "categories": [
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:29.837Z"
+        }
+      ]
+    },
+    {
+      "id": "PSN.mx",
+      "name": "PSN",
+      "website": "https://psn.si/",
+      "categories": [
+        "entertainment",
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://srspsn.live/live/livestream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:30.417Z"
+        }
+      ]
+    },
+    {
+      "id": "QuieroTV.mx",
+      "name": "Quiero TV",
+      "website": "https://quierotv.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:55.891Z"
+        }
+      ]
+    },
+    {
+      "id": "RCGTV.mx",
+      "name": "RCG TV",
+      "website": "https://rcgmedia.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:01.435Z"
+        }
+      ]
+    },
+    {
+      "id": "RTQQueretaro.mx",
+      "name": "RTQ Queretaro",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:20.632Z"
+        }
+      ]
+    },
+    {
+      "id": "SIPSETV81.mx",
+      "name": "SIPSE TV 8.1",
+      "website": "https://sipseplay.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:54.048Z"
+        }
+      ]
+    },
+    {
+      "id": "SIPSETVCUN81.mx",
+      "name": "SIPSE TVCUN 8.1",
+      "website": "https://sipseplay.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:03.654Z"
+        }
+      ]
+    },
+    {
+      "id": "SistemaMichoacanodeTV.mx",
+      "name": "Sistema Michoacano de TV",
+      "website": "https://www.sistemamichoacano.tv/television",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:16.542Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:sistema-michoacano-tv",
+      "name": "Sistema Michoacano de TV",
+      "website": "https://www.sistemamichoacano.tv/television",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.sistemamichoacano.tv/television",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:08:35.391Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:tele6",
+      "name": "TELE 6",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:48.015Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleFormula.mx",
+      "name": "TeleFormula",
+      "website": "https://www.radioformula.com.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:11.684Z"
+        }
+      ]
+    },
+    {
+      "id": "Telemax.mx",
+      "name": "Telemax",
+      "website": "https://www.telemax.com.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:27.714Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:telemax-sonora",
+      "name": "Telemax Sonora",
+      "website": "https://www.telemax.com.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.telemax.com.mx/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:08:35.391Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleplaySureste.mx",
+      "name": "Teleplay Sureste",
+      "website": "https://teleplay.tv/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:34.175Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:MX:thepetcollectivemexico",
+      "name": "The Pet Collective Mexico",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:58.919Z"
+        }
+      ]
+    },
+    {
+      "id": "TRCTV.mx",
+      "name": "TRC TV",
+      "website": "http://trccampeche.gob.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:02:27.129Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBUAP.mx",
+      "name": "TV BUAP",
+      "website": "https://radioytv.buap.mx/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:02:42.528Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCuatro41.mx",
+      "name": "TV Cuatro 4.1",
+      "website": "http://www.tvcuatro.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:02:55.330Z"
+        }
+      ]
+    },
+    {
+      "id": "TVLobo.mx",
+      "name": "TV Lobo",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:15.513Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMarLaPaz.mx",
+      "name": "TV Mar La Paz",
+      "website": "https://tvmar.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:18.234Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMarLosCabos.mx",
+      "name": "TV Mar Los Cabos",
+      "website": "https://tvmar.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:42.514Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMarPuertoVallarta.mx",
+      "name": "TV Mar Puerto Vallarta",
+      "website": "https://tvmar.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:49.281Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMigrante.mx",
+      "name": "TV Migrante",
+      "website": "https://mxplus.tv/television/tv-migrante",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:15.627Z"
+        }
+      ]
+    },
+    {
+      "id": "TVUG.mx",
+      "name": "TV UG",
+      "website": "https://ugto.mx/sirth/television/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:17.363Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPCuliacan.mx",
+      "name": "TVP Culiacan",
+      "website": "https://tvpacifico.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:42.410Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPMazatlan.mx",
+      "name": "TVP Mazatlan",
+      "website": "https://tvpacifico.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:50.693Z"
+        }
+      ]
+    },
+    {
+      "id": "UAATV.mx",
+      "name": "UAA TV",
+      "website": "https://www.uaa.mx/portal/comunicacion/radio-y-tv/",
+      "categories": [
+        "education",
+        "culture",
+        "public"
+      ],
+      "streams": [
+        {
+          "url": "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:14.660Z"
+        }
+      ]
+    },
+    {
+      "id": "UltraTVPuebla.mx",
+      "name": "Ultra TV Puebla",
+      "website": "https://puebla.ultralaradio.mx/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:19.177Z"
+        }
+      ]
+    },
+    {
+      "id": "UnisonTV.mx",
+      "name": "Unison TV",
+      "website": "https://television.unison.mx/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:43.200Z"
+        }
+      ]
+    },
+    {
+      "id": "VBMediaTV.mx",
+      "name": "VB Media TV",
+      "website": "https://www.vbmedia.com.mx",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:01.181Z"
+        }
+      ]
+    },
+    {
+      "id": "VisionTelevision.mx",
+      "name": "Vision Television",
+      "website": "https://www.vozfmradio.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:06.751Z"
+        }
+      ]
+    },
+    {
+      "id": "WeatherSpy.mx",
+      "name": "WeatherSpy",
+      "website": "https://www.weatherspy.tv/",
+      "categories": [
+        "weather"
+      ],
+      "streams": [
+        {
+          "url": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:24.224Z"
+        }
+      ]
+    },
+    {
+      "id": "XHBZCTDT.mx",
+      "name": "XHBZC-TDT",
+      "website": "https://iert.bcs.gob.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:29.012Z"
+        }
+      ]
+    },
+    {
+      "id": "XHFGLTDT.mx",
+      "name": "XHFGL-TDT",
+      "website": "https://www.el15.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:45.172Z"
+        }
+      ]
+    },
+    {
+      "id": "XHGVTDT.mx",
+      "name": "XHGV-TDT",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:58.115Z"
+        }
+      ]
+    },
+    {
+      "id": "XHIJTDT.mx",
+      "name": "XHIJ-TDT",
+      "website": "http://www.canal44.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:08.719Z"
+        }
+      ]
+    },
+    {
+      "id": "XHTTGTDT.mx",
+      "name": "XHTTG-TDT",
+      "website": "http://radiotvycine.chiapas.gob.mx/en-vivo/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:28.181Z"
+        }
+      ]
+    },
+    {
+      "id": "XHUNESTDT.mx",
+      "name": "XHUNES-TDT",
+      "website": "https://senalespana.unes.edu.mx/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:32.212Z"
+        }
+      ]
+    },
+    {
+      "id": "XHZHZTDT.mx",
+      "name": "XHZHZ-TDT",
+      "website": "https://www.sizart.org.mx/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:53.651Z"
+        }
+      ]
+    }
+  ]
+}

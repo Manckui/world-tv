@@ -1,0 +1,11 @@
+Messico — confini dei 31 stati e di Città del Messico
+Fonte originale: Instituto Nacional de Estadística y Geografía (INEGI), Messico.
+Distribuzione: geoBoundaries gbOpen MEX ADM1 (via HDX). Dati rappresentati: 2020.
+https://www.geoboundaries.org/api/current/gbOpen/MEX/ADM1/
+https://data.humdata.org/dataset/mexican-administrative-level-0-country-1-estado-and-2-municipio-boundary-polygons
+Licenza: Creative Commons Attribution 3.0 IGO
+https://creativecommons.org/licenses/by/3.0/igo/
+Modifiche World TV: codici ISO 3166-2 attuali (Città del Messico MX-CMX), nomi con accenti,
+arrotondamento delle coordinate a due decimali, rimozione dei punti ripetuti e orientamento
+degli anelli per d3-geo.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

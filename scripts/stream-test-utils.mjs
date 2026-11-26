@@ -13,7 +13,7 @@ export function optionsFrom(argv) {
   } });
   if (values.help) return { help: true };
   const country = values.country.toUpperCase();
-  if (!["IT", "ES", "FR", "DE", "PT"].includes(country)) throw new Error("Paesi supportati: IT, ES, FR, DE, PT.");
+  if (!["IT", "ES", "FR", "DE", "PT", "BR", "MX", "NL", "PL"].includes(country)) throw new Error("Paesi supportati: IT, ES, FR, DE, PT, BR, MX, NL, PL.");
   if (values.recheck !== undefined && values.recheck !== "uncertain") throw new Error("--recheck accetta solo uncertain (Da verificare).");
   if (values["manual-results"] && !values.recheck) throw new Error("--manual-results richiede --recheck uncertain.");
   if (!values.location?.trim()) throw new Error('Indica dove esegui il test: --location "Italia". Non è il Paese del canale.');
@@ -58,7 +58,7 @@ export function needsRecheck(channel, records) {
 export function validateInputTests(report, country, automatic = false) {
   if (report?.version !== 1 || !Array.isArray(report.tests) || automatic && (report.run?.runnerVersion !== 1 || report.run.config?.country !== country)) throw new Error("Report di partenza non valido.");
   for (const test of report.tests) {
-    if (!test || !["IT", "ES", "FR", "DE", "PT", "VN", "JP", "CL", "US", "ZA"].includes(test.country) || automatic && test.country !== country || typeof test.channelId !== "string" || typeof test.streamUrl !== "string" || typeof test.startedAt !== "string" || !Number.isFinite(Date.parse(test.startedAt))
+    if (!test || !["IT", "ES", "FR", "DE", "PT", "BR", "MX", "NL", "PL", "VN", "JP", "CL", "US", "ZA"].includes(test.country) || automatic && test.country !== country || typeof test.channelId !== "string" || typeof test.streamUrl !== "string" || typeof test.startedAt !== "string" || !Number.isFinite(Date.parse(test.startedAt))
       || !["loading", "ready", "playing", "failed", "interrupted"].includes(test.outcome)
       || automatic && (!test.automation || typeof test.automation.complete !== "boolean" || !["verified", "failed", "inconclusive", "skipped", "interrupted"].includes(test.automation.verdict))) throw new Error("Tentativo non valido nel report di partenza.");
   }

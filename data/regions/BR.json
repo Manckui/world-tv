@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "country": "BR",
+  "regions": [
+    {
+      "code": "BR-AC",
+      "name": "Acre",
+      "center": [
+        -70.4724,
+        -9.2848
+      ]
+    },
+    {
+      "code": "BR-AL",
+      "name": "Alagoas",
+      "center": [
+        -36.5142,
+        -9.5166
+      ]
+    },
+    {
+      "code": "BR-AP",
+      "name": "Amapá",
+      "center": [
+        -52.0126,
+        1.364
+      ]
+    },
+    {
+      "code": "BR-AM",
+      "name": "Amazonas",
+      "center": [
+        -64.72,
+        -4.1402
+      ]
+    },
+    {
+      "code": "BR-BA",
+      "name": "Bahia",
+      "center": [
+        -41.6934,
+        -12.4907
+      ]
+    },
+    {
+      "code": "BR-CE",
+      "name": "Ceará",
+      "center": [
+        -39.6078,
+        -5.1558
+      ]
+    },
+    {
+      "code": "BR-DF",
+      "name": "Distrito Federal",
+      "center": [
+        -47.8053,
+        -15.792
+      ]
+    },
+    {
+      "code": "BR-ES",
+      "name": "Espírito Santo",
+      "center": [
+        -40.6839,
+        -19.5972
+      ]
+    },
+    {
+      "code": "BR-GO",
+      "name": "Goiás",
+      "center": [
+        -49.6195,
+        -16.0482
+      ]
+    },
+    {
+      "code": "BR-MA",
+      "name": "Maranhão",
+      "center": [
+        -45.2962,
+        -5.0959
+      ]
+    },
+    {
+      "code": "BR-MT",
+      "name": "Mato Grosso",
+      "center": [
+        -55.9191,
+        -12.9385
+      ]
+    },
+    {
+      "code": "BR-MS",
+      "name": "Mato Grosso do Sul",
+      "center": [
+        -54.8633,
+        -20.346
+      ]
+    },
+    {
+      "code": "BR-MG",
+      "name": "Minas Gerais",
+      "center": [
+        -44.6776,
+        -18.4648
+      ]
+    },
+    {
+      "code": "BR-PA",
+      "name": "Pará",
+      "center": [
+        -53.0745,
+        -3.9935
+      ]
+    },
+    {
+      "code": "BR-PB",
+      "name": "Paraíba",
+      "center": [
+        -36.7671,
+        -7.1569
+      ]
+    },
+    {
+      "code": "BR-PR",
+      "name": "Paraná",
+      "center": [
+        -51.6586,
+        -24.6833
+      ]
+    },
+    {
+      "code": "BR-PE",
+      "name": "Pernambuco",
+      "center": [
+        -37.9233,
+        -8.3563
+      ]
+    },
+    {
+      "code": "BR-PI",
+      "name": "Piauí",
+      "center": [
+        -42.9683,
+        -7.4291
+      ]
+    },
+    {
+      "code": "BR-RJ",
+      "name": "Rio de Janeiro",
+      "center": [
+        -42.7299,
+        -22.2635
+      ]
+    },
+    {
+      "code": "BR-RN",
+      "name": "Rio Grande do Norte",
+      "center": [
+        -36.6103,
+        -5.8882
+      ]
+    },
+    {
+      "code": "BR-RS",
+      "name": "Rio Grande do Sul",
+      "center": [
+        -53.258,
+        -29.8017
+      ]
+    },
+    {
+      "code": "BR-RO",
+      "name": "Rondônia",
+      "center": [
+        -62.8428,
+        -10.8769
+      ]
+    },
+    {
+      "code": "BR-RR",
+      "name": "Roraima",
+      "center": [
+        -61.3864,
+        2.0978
+      ]
+    },
+    {
+      "code": "BR-SC",
+      "name": "Santa Catarina",
+      "center": [
+        -50.5225,
+        -27.3011
+      ]
+    },
+    {
+      "code": "BR-SP",
+      "name": "São Paulo",
+      "center": [
+        -48.7702,
+        -22.3116
+      ]
+    },
+    {
+      "code": "BR-SE",
+      "name": "Sergipe",
+      "center": [
+        -37.379,
+        -10.5904
+      ]
+    },
+    {
+      "code": "BR-TO",
+      "name": "Tocantins",
+      "center": [
+        -48.342,
+        -10.1474
+      ]
+    }
+  ]
+}

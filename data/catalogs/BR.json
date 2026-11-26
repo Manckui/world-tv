@@ -1,0 +1,1889 @@
+{
+  "version": 1,
+  "country": "BR",
+  "channels": [
+    {
+      "id": "PlusMaisUm.br",
+      "name": "+MaisUm",
+      "website": "https://maisumtv.com",
+      "categories": [
+        "general",
+        "entertainment",
+        "movies",
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:49:31.213Z"
+        }
+      ]
+    },
+    {
+      "id": "1001Noites.br",
+      "name": "1001 Noites",
+      "website": "https://1001noites.com.br/",
+      "categories": [
+        "shop"
+      ],
+      "streams": [
+        {
+          "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:49:31.213Z"
+        }
+      ]
+    },
+    {
+      "id": "AdessoTV.br",
+      "name": "Adesso TV",
+      "website": "https://www.adessotv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:49:55.284Z"
+        }
+      ]
+    },
+    {
+      "id": "AmazonSat.br",
+      "name": "Amazon Sat",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:27.369Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:angeltvportuguese",
+      "name": "Angel TV Portuguese",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:38.174Z"
+        }
+      ]
+    },
+    {
+      "id": "ArarunaTV.br",
+      "name": "Araruna TV",
+      "website": "https://www.ararunatv.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:50:51.321Z"
+        }
+      ]
+    },
+    {
+      "id": "AratuOn.br",
+      "name": "Aratu On",
+      "website": "https://aratuon.com.br/aovivo/aratuon",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:00.614Z"
+        }
+      ]
+    },
+    {
+      "id": "BoasNovas.br",
+      "name": "Boas Novas",
+      "website": "http://boasnovas.tv/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:18.051Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal25Jundiai.br",
+      "name": "Canal 25 Jundiai",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:41.705Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalEducacao.br",
+      "name": "Canal Educacao",
+      "website": "https://www.gov.br/mec/pt-br/canal-educacao",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:51:48.417Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalFDR.br",
+      "name": "Canal FDR",
+      "website": "https://fdr.org.br/canalfdr/",
+      "categories": [
+        "general",
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:04.098Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalGov.br",
+      "name": "Canal Gov",
+      "website": "https://agenciagov.ebc.com.br/",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:14.849Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalMetropolitanodeNoticias.br",
+      "name": "Canal Metropolitano de Noticias",
+      "website": null,
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:52:28.813Z"
+        }
+      ]
+    },
+    {
+      "id": "CatveMasterTV.br",
+      "name": "Catve Master TV",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:01.352Z"
+        }
+      ]
+    },
+    {
+      "id": "Catve2.br",
+      "name": "Catve2",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:17.726Z"
+        }
+      ]
+    },
+    {
+      "id": "ChromaTV.br",
+      "name": "Chroma TV",
+      "website": "https://chromatv.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:30.402Z"
+        }
+      ]
+    },
+    {
+      "id": "CINDIETV.br",
+      "name": "CINDIE TV",
+      "website": "https://www.cindie.com/",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:46.808Z"
+        }
+      ]
+    },
+    {
+      "id": "ClassiqueTV.br",
+      "name": "Classique TV",
+      "website": null,
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:53:54.888Z"
+        }
+      ]
+    },
+    {
+      "id": "COMBrasil.br",
+      "name": "COM Brasil",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:11.535Z"
+        },
+        {
+          "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:17.356Z"
+        }
+      ]
+    },
+    {
+      "id": "ComedyCentralBrasil.br",
+      "name": "Comedy Central Brasil",
+      "website": null,
+      "categories": [
+        "comedy"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:33.700Z"
+        }
+      ]
+    },
+    {
+      "id": "ConectaMaisTV.br",
+      "name": "Conecta Mais TV",
+      "website": null,
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:54.913Z"
+        }
+      ]
+    },
+    {
+      "id": "ConecTVBrasil.br",
+      "name": "ConecTV Brasil",
+      "website": "https://www.conectvbrasil.site/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:54:55.658Z"
+        }
+      ]
+    },
+    {
+      "id": "ConexaoTV.br",
+      "name": "Conexao TV",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:19.893Z"
+        }
+      ]
+    },
+    {
+      "id": "CulturaFast.br",
+      "name": "Cultura Fast",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:22.714Z"
+        }
+      ]
+    },
+    {
+      "id": "DemaisTV.br",
+      "name": "Demais TV",
+      "website": "https://www.demaistv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:43.086Z"
+        }
+      ]
+    },
+    {
+      "id": "DespertarTV.br",
+      "name": "Despertar TV",
+      "website": "https://despertartv.com.br/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:55:46.657Z"
+        }
+      ]
+    },
+    {
+      "id": "ElementalChannel.br",
+      "name": "Elemental Channel",
+      "website": "https://www.elementalchannel.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:10.605Z"
+        }
+      ]
+    },
+    {
+      "id": "EUTV.br",
+      "name": "EUTV",
+      "website": "https://eutv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:28.168Z"
+        }
+      ]
+    },
+    {
+      "id": "FalaLitoral.br",
+      "name": "Fala Litoral",
+      "website": "https://portalfalalitoral.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:34.822Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:fifaportuguese",
+      "name": "FIFA+ Portuguese",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:51.647Z"
+        }
+      ]
+    },
+    {
+      "id": "FonteTV.br",
+      "name": "Fonte TV",
+      "website": "https://fontetv.redefonte.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:56:58.310Z"
+        }
+      ]
+    },
+    {
+      "id": "GospelCartoon.br",
+      "name": "Gospel Cartoon",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:16.371Z"
+        }
+      ]
+    },
+    {
+      "id": "GospelMovieTV.br",
+      "name": "Gospel Movie TV",
+      "website": "https://ipgotv.net.br/tv/gmovies/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:28.847Z"
+        }
+      ]
+    },
+    {
+      "id": "ISTV.br",
+      "name": "ISTV",
+      "website": "https://www.istv.com.br/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:38.355Z"
+        }
+      ]
+    },
+    {
+      "id": "J3NEWSTV.br",
+      "name": "J3NEWS TV",
+      "website": "https://tvterceiravia.com.br/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:57:52.094Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:kuriakoskids",
+      "name": "Kuriakos Kids",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:05.663Z"
+        }
+      ]
+    },
+    {
+      "id": "Lke.br",
+      "name": "L!ke",
+      "website": "http://www.canallike.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:15.630Z"
+        }
+      ]
+    },
+    {
+      "id": "LamoreRockShowWebTV.br",
+      "name": "Lamore Rock Show WebTV",
+      "website": "https://www.lamorerockshowwebtv.com.br/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:29.347Z"
+        }
+      ]
+    },
+    {
+      "id": "Loading.br",
+      "name": "Loading",
+      "website": null,
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:37.410Z"
+        }
+      ]
+    },
+    {
+      "id": "MyTimeMovieNetwork.br",
+      "name": "MyTime Movie Network",
+      "website": "https://mytimemovienetwork.com/",
+      "categories": [
+        "movies"
+      ],
+      "streams": [
+        {
+          "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:58:58.406Z"
+        }
+      ]
+    },
+    {
+      "id": "NTV.br",
+      "name": "NTV",
+      "website": "https://www.ntv.tv.br/",
+      "categories": [
+        "general",
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:03.130Z"
+        }
+      ]
+    },
+    {
+      "id": "ODiaTV.br",
+      "name": "O Dia TV",
+      "website": "https://portalodia.com/odiatv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:21.138Z"
+        }
+      ]
+    },
+    {
+      "id": "PetloversTV.br",
+      "name": "Petlovers TV",
+      "website": "https://petloverstv.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:27.105Z"
+        }
+      ]
+    },
+    {
+      "id": "PlayTV.br",
+      "name": "Play TV",
+      "website": "http://playtv.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:43.159Z"
+        }
+      ]
+    },
+    {
+      "id": "PlenaTV.br",
+      "name": "Plena TV",
+      "website": "http://www.folha1.com.br/plena_tv",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T12:59:50.119Z"
+        }
+      ]
+    },
+    {
+      "id": "PlenitudeTV.br",
+      "name": "Plenitude TV",
+      "website": "https://www.iaptd.com.br/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:07.199Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:redbulltvbr",
+      "name": "Red Bull TV BR",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:35.218Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeBrasil.br",
+      "name": "Rede Brasil",
+      "website": "https://rbtv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:35.825Z"
+        },
+        {
+          "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_brazil.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:00:57.912Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeGospel.br",
+      "name": "Rede Gospel",
+      "website": "https://www.redegospel.tv.br/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:11.348Z"
+        },
+        {
+          "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:19.917Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeImpactoGospelTV.br",
+      "name": "Rede Impacto Gospel TV",
+      "website": "https://redeimpactogospel.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:33.340Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeMeioNorte.br",
+      "name": "Rede Meio Norte",
+      "website": "https://www.meionorte.com/tv-meionorte",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:43.917Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeMinas.br",
+      "name": "Rede Minas",
+      "website": "http://redeminas.tv/",
+      "categories": [
+        "education"
+      ],
+      "streams": [
+        {
+          "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:01:55.547Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeNGT.br",
+      "name": "Rede NGT",
+      "website": "https://redengt.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:02:21.113Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeSPTV.br",
+      "name": "Rede SPTV",
+      "website": "https://www.redesptv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:02:28.832Z"
+        }
+      ]
+    },
+    {
+      "id": "SBTNacional.br",
+      "name": "SBT Nacional",
+      "website": "https://www.sbt.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:09.230Z"
+        }
+      ]
+    },
+    {
+      "id": "SOUTV.br",
+      "name": "SOU TV",
+      "website": "https://www.soutv.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:34.451Z"
+        }
+      ]
+    },
+    {
+      "id": "STZTV.br",
+      "name": "STZ TV",
+      "website": "https://stztv.org.br/",
+      "categories": [
+        "news",
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:41.293Z"
+        }
+      ]
+    },
+    {
+      "id": "TCM10HD.br",
+      "name": "TCM 10 HD",
+      "website": null,
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:03:57.938Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:tele6",
+      "name": "TELE 6",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:04.258Z"
+        }
+      ]
+    },
+    {
+      "id": "TerraViva.br",
+      "name": "Terra Viva",
+      "website": null,
+      "categories": [
+        "outdoor"
+      ],
+      "streams": [
+        {
+          "url": "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:21.941Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:tracebrazuca",
+      "name": "Trace Brazuca HD",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:35.852Z"
+        }
+      ]
+    },
+    {
+      "id": "TVACritica.br",
+      "name": "TV A Critica",
+      "website": "https://www.acritica.com/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:04:46.167Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAldeia.br",
+      "name": "TV Aldeia",
+      "website": "https://www.tvaldeia.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:02.261Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:tvalems",
+      "name": "TV ALEMS",
+      "website": "https://al.ms.gov.br/TvAssembleia",
+      "categories": [
+        "legislative",
+        "public"
+      ],
+      "streams": [
+        {
+          "url": "https://live.stream.al.ms.gov.br/memfs/33b4fef9-32fb-4248-ab5f-fffe30037d02.m3u8",
+          "format": "hls",
+          "page": "https://live.stream.al.ms.gov.br/canal1",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:31:28.007Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAlese.br",
+      "name": "TV Alese",
+      "website": "https://al.se.leg.br/",
+      "categories": [
+        "legislative",
+        "public"
+      ],
+      "streams": [
+        {
+          "url": "https://tvalese.al.se.leg.br/hls/tvalese/index.m3u8",
+          "format": "hls",
+          "page": "https://al.se.leg.br/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:31:51.071Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAliancaCatarinense.br",
+      "name": "TV Alianca Catarinense",
+      "website": "https://tvaliancasc.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:09.109Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAlternativa.br",
+      "name": "TV Alternativa",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:27.319Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAparecida.br",
+      "name": "TV Aparecida",
+      "website": "https://www.a12.com/tv",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:05:31.611Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:tvassembleiaal",
+      "name": "TV Assembleia Alagoas",
+      "website": "https://www.al.al.leg.br/ao-vivo/video-ao-vivo",
+      "categories": [
+        "legislative",
+        "public"
+      ],
+      "streams": [
+        {
+          "url": "https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.al.al.leg.br/ao-vivo/video-ao-vivo",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:32:15.121Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAssembleiaRN.br",
+      "name": "TV Assembleia RN",
+      "website": "https://www.al.rn.leg.br/",
+      "categories": [
+        "legislative",
+        "public"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.logicahost.com.br/fundacao/tv.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:32:38.680Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBrasilCentral.br",
+      "name": "TV Brasil Central",
+      "website": "https://goias.gov.br/abc/wp-content/uploads/sites/23/files/stream/tvbrasilcentral.html",
+      "categories": [
+        "public",
+        "education",
+        "regional"
+      ],
+      "streams": [
+        {
+          "url": "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
+          "format": "hls",
+          "page": "https://goias.gov.br/abc/wp-content/uploads/sites/23/files/stream/tvbrasilcentral.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T13:33:01.753Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBrasilOeste.br",
+      "name": "TV Brasil Oeste",
+      "website": "http://www.tbomt.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:15.090Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBRICSPortuguese.br",
+      "name": "TV BRICS Portuguese",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:39.071Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBrusque.br",
+      "name": "TV Brusque",
+      "website": "https://www.tvbrusque.com.br/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:06:39.559Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCAJUIWEB.br",
+      "name": "TV CAJUI WEB",
+      "website": "https://www.instagram.com/cajuimidiatvradio?cnvx=MWI1NDB3YzA1YWs4OA==",
+      "categories": [
+        "general",
+        "news",
+        "music",
+        "religious",
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:01.557Z"
+        }
+      ]
+    },
+    {
+      "id": "TVClube.br",
+      "name": "TV Clube",
+      "website": "https://tvclubepe.op9.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:35.645Z"
+        }
+      ]
+    },
+    {
+      "id": "TVComunitaria.br",
+      "name": "TV Comunitaria",
+      "website": "https://www.tvcomunitariadf.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:46.742Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCultura.br",
+      "name": "TV Cultura",
+      "website": "https://cultura.uol.com.br/aovivo/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:07:57.611Z"
+        },
+        {
+          "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:08:09.970Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCuruca.br",
+      "name": "TV Curuca",
+      "website": "https://www.tvcurucasp.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:08:23.657Z"
+        }
+      ]
+    },
+    {
+      "id": "TVDifusao.br",
+      "name": "TV Difusao",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:08:54.133Z"
+        }
+      ]
+    },
+    {
+      "id": "TVGuara.br",
+      "name": "TV Guara",
+      "website": "https://www.redemassa.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:09:27.816Z"
+        }
+      ]
+    },
+    {
+      "id": "TVLifeAmerica.br",
+      "name": "TV Life America",
+      "website": "https://tvlifeamerica.com/",
+      "categories": [
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:09:49.399Z"
+        }
+      ]
+    },
+    {
+      "id": "TVLitoralRN.br",
+      "name": "TV Litoral RN",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:09:51.283Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMaanaim.br",
+      "name": "TV Maanaim",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:10:12.914Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMaisMarica.br",
+      "name": "TV Mais Marica",
+      "website": "https://www.tvmaismarica.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:10:36.860Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:BR:tvmanabrasil",
+      "name": "TV Mana Brasil",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/br.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:10:38.878Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMarajoara.br",
+      "name": "TV Marajoara",
+      "website": "https://www.grupomarajoara.com.br/tv-marajoara/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:11:00.835Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMetropole.br",
+      "name": "TV Metropole",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:11:03.118Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPadreCicero.br",
+      "name": "TV Padre Cicero",
+      "website": "https://www.tvpadrecicero.com.br/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:11:26.079Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPantanalMS.br",
+      "name": "TV Pantanal MS",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:11:33.968Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPassoFundo.br",
+      "name": "TV Passo Fundo",
+      "website": "https://tvpassofundo.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:11:50.364Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSaoRaimundo.br",
+      "name": "TV Sao Raimundo",
+      "website": null,
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:01.907Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSeries.br",
+      "name": "TV Series",
+      "website": null,
+      "categories": [
+        "series"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:13.265Z"
+        }
+      ]
+    },
+    {
+      "id": "TVShowFortaleza.br",
+      "name": "TV Show Fortaleza",
+      "website": "https://www.tvshowfortaleza.com/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:24.372Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSimCachoeiro.br",
+      "name": "TV Sim Cachoeiro",
+      "website": "https://www.simnoticias.com.br/ao-vivo-tv-sim-cachoeiro/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:35.228Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSulBahia.br",
+      "name": "TV Sul Bahia",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:49.556Z"
+        }
+      ]
+    },
+    {
+      "id": "TVTerceiroAnjo.br",
+      "name": "TV Terceiro Anjo",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:12:58.397Z"
+        }
+      ]
+    },
+    {
+      "id": "TVUFOP.br",
+      "name": "TV UFOP",
+      "website": "https://tv.ufop.br/",
+      "categories": [
+        "public",
+        "education",
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:13:13.848Z"
+        }
+      ]
+    },
+    {
+      "id": "TVUniversal.br",
+      "name": "TV Universal",
+      "website": null,
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:13:19.345Z"
+        }
+      ]
+    },
+    {
+      "id": "TVVilaReal.br",
+      "name": "TV Vila Real",
+      "website": "https://www.gazetadigital.com.br/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:13:37.867Z"
+        }
+      ]
+    },
+    {
+      "id": "TVZoom.br",
+      "name": "TV Zoom",
+      "website": "https://tvzoom.com.br/tag/brasil/",
+      "categories": [
+        "entertainment",
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:13:41.798Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPlusPet.br",
+      "name": "TV+Pet",
+      "website": "https://www.tvmaispet.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:14:01.786Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCOMMaceio.br",
+      "name": "TVCOM Maceio",
+      "website": "http://tvcommaceio.tv.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:14:06.465Z"
+        }
+      ]
+    },
+    {
+      "id": "TVideoNews.br",
+      "name": "TVideoNews",
+      "website": null,
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:14:28.389Z"
+        }
+      ]
+    },
+    {
+      "id": "TVitape.br",
+      "name": "TVitape",
+      "website": "https://www.tvitape.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:14:51.330Z"
+        }
+      ]
+    },
+    {
+      "id": "TVLatinaSat.br",
+      "name": "TVLatinaSat",
+      "website": "https://latinasat.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:14:53.227Z"
+        }
+      ]
+    },
+    {
+      "id": "TVNBN.br",
+      "name": "TVNBN",
+      "website": "https://www.tvnbn.com.br/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:15:13.346Z"
+        }
+      ]
+    },
+    {
+      "id": "UMATV.br",
+      "name": "UMA TV",
+      "website": "https://www.umatv.com.br/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:15:17.720Z"
+        }
+      ]
+    },
+    {
+      "id": "UnisulTV.br",
+      "name": "Unisul TV",
+      "website": "http://unisultv.blogspot.com/",
+      "categories": [
+        "education",
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:15:36.319Z"
+        }
+      ]
+    },
+    {
+      "id": "VEJAPlusTV.br",
+      "name": "VEJA+ TV",
+      "website": "https://veja.abril.com.br/veja-mais-tv/",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:15:41.164Z"
+        },
+        {
+          "url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:15:59.320Z"
+        }
+      ]
+    }
+  ]
+}
