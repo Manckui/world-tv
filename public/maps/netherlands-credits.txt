@@ -1,0 +1,9 @@
+Paesi Bassi — confini delle 12 province
+Fonte originale: Nationaal Georegister (PDOK), Paesi Bassi. Dati rappresentati: 2022.
+Distribuzione: geoBoundaries gbOpen NLD ADM1.
+https://www.geoboundaries.org/api/current/gbOpen/NLD/ADM1/
+Licenza: CC0 1.0 Universal (pubblico dominio)
+https://creativecommons.org/publicdomain/zero/1.0/
+Modifiche World TV: arrotondamento delle coordinate a tre decimali, rimozione dei punti
+ripetuti e orientamento degli anelli per d3-geo. Le isole caraibiche non sono incluse.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

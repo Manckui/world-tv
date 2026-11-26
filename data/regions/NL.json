@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "country": "NL",
+  "regions": [
+    {
+      "code": "NL-DR",
+      "name": "Drenthe",
+      "center": [
+        6.6186,
+        52.8623
+      ]
+    },
+    {
+      "code": "NL-FL",
+      "name": "Flevoland",
+      "center": [
+        5.5146,
+        52.5502
+      ]
+    },
+    {
+      "code": "NL-FR",
+      "name": "Fryslân",
+      "center": [
+        5.6925,
+        53.1525
+      ]
+    },
+    {
+      "code": "NL-GE",
+      "name": "Gelderland",
+      "center": [
+        5.9385,
+        52.0617
+      ]
+    },
+    {
+      "code": "NL-GR",
+      "name": "Groningen",
+      "center": [
+        6.7324,
+        53.2599
+      ]
+    },
+    {
+      "code": "NL-LI",
+      "name": "Limburg",
+      "center": [
+        5.9332,
+        51.2079
+      ]
+    },
+    {
+      "code": "NL-NB",
+      "name": "Noord-Brabant",
+      "center": [
+        5.1851,
+        51.5617
+      ]
+    },
+    {
+      "code": "NL-NH",
+      "name": "Noord-Holland",
+      "center": [
+        4.9115,
+        52.6627
+      ]
+    },
+    {
+      "code": "NL-OV",
+      "name": "Overijssel",
+      "center": [
+        6.4432,
+        52.4443
+      ]
+    },
+    {
+      "code": "NL-UT",
+      "name": "Utrecht",
+      "center": [
+        5.1638,
+        52.0843
+      ]
+    },
+    {
+      "code": "NL-ZE",
+      "name": "Zeeland",
+      "center": [
+        3.8149,
+        51.4781
+      ]
+    },
+    {
+      "code": "NL-ZH",
+      "name": "Zuid-Holland",
+      "center": [
+        4.4425,
+        51.9391
+      ]
+    }
+  ]
+}

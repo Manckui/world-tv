@@ -1,0 +1,11 @@
+Polonia — confini dei 16 voivodati
+Fonte originale: © OpenStreetMap contributors (estrazione Wambacher). Dati rappresentati: 2017.
+Distribuzione: geoBoundaries gbOpen POL ADM1.
+https://www.geoboundaries.org/api/current/gbOpen/POL/ADM1/
+https://www.openstreetmap.org/copyright
+Licenza: Open Data Commons Open Database License 1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+Modifiche World TV: codici ISO 3166-2 numerici attuali (PL-02…PL-32), nomi polacchi,
+arrotondamento delle coordinate a tre decimali, rimozione dei punti ripetuti e orientamento
+degli anelli per d3-geo.
+Il file serve all'esplorazione del catalogo TV, non alla determinazione legale dei confini.

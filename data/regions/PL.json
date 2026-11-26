@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "country": "PL",
+  "regions": [
+    {
+      "code": "PL-02",
+      "name": "Dolnośląskie",
+      "center": [
+        16.4114,
+        51.0887
+      ]
+    },
+    {
+      "code": "PL-04",
+      "name": "Kujawsko-pomorskie",
+      "center": [
+        18.4901,
+        53.0716
+      ]
+    },
+    {
+      "code": "PL-06",
+      "name": "Lubelskie",
+      "center": [
+        22.903,
+        51.2167
+      ]
+    },
+    {
+      "code": "PL-08",
+      "name": "Lubuskie",
+      "center": [
+        15.3424,
+        52.1928
+      ]
+    },
+    {
+      "code": "PL-10",
+      "name": "Łódzkie",
+      "center": [
+        19.4163,
+        51.6036
+      ]
+    },
+    {
+      "code": "PL-12",
+      "name": "Małopolskie",
+      "center": [
+        20.2706,
+        49.8584
+      ]
+    },
+    {
+      "code": "PL-14",
+      "name": "Mazowieckie",
+      "center": [
+        21.0998,
+        52.3411
+      ]
+    },
+    {
+      "code": "PL-16",
+      "name": "Opolskie",
+      "center": [
+        17.8989,
+        50.6461
+      ]
+    },
+    {
+      "code": "PL-18",
+      "name": "Podkarpackie",
+      "center": [
+        22.1698,
+        49.9517
+      ]
+    },
+    {
+      "code": "PL-20",
+      "name": "Podlaskie",
+      "center": [
+        22.9296,
+        53.2601
+      ]
+    },
+    {
+      "code": "PL-22",
+      "name": "Pomorskie",
+      "center": [
+        17.9763,
+        54.1521
+      ]
+    },
+    {
+      "code": "PL-24",
+      "name": "Śląskie",
+      "center": [
+        18.9927,
+        50.3281
+      ]
+    },
+    {
+      "code": "PL-26",
+      "name": "Świętokrzyskie",
+      "center": [
+        20.7691,
+        50.7632
+      ]
+    },
+    {
+      "code": "PL-28",
+      "name": "Warmińsko-mazurskie",
+      "center": [
+        20.831,
+        53.8553
+      ]
+    },
+    {
+      "code": "PL-30",
+      "name": "Wielkopolskie",
+      "center": [
+        17.2502,
+        52.327
+      ]
+    },
+    {
+      "code": "PL-32",
+      "name": "Zachodniopomorskie",
+      "center": [
+        15.5551,
+        53.5797
+      ]
+    }
+  ]
+}

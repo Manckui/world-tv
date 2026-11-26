@@ -1,0 +1,2083 @@
+{
+  "version": 1,
+  "country": "NL",
+  "channels": [
+    {
+      "id": "1AlmereTV.nl",
+      "name": "1AlmereTV",
+      "website": "https://www.1almere.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:25:22.002Z"
+        }
+      ]
+    },
+    {
+      "id": "1TwenteTV.nl",
+      "name": "1Twente TV",
+      "website": "https://www.1twente.nl/kijk",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms10.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.1twente.nl/kijk",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:02:32.545Z"
+        },
+        {
+          "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:25:22.002Z"
+        }
+      ]
+    },
+    {
+      "id": "360TuneBox.nl",
+      "name": "360TuneBox",
+      "website": "http://www.360tunebox.com/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:25:43.522Z"
+        }
+      ]
+    },
+    {
+      "id": "A1TV.nl",
+      "name": "A1 TV",
+      "website": "https://www.a1mediagroep.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:25:43.525Z"
+        }
+      ]
+    },
+    {
+      "id": "AltenaTV.nl",
+      "name": "Altena TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:05.072Z"
+        }
+      ]
+    },
+    {
+      "id": "AT5.nl",
+      "name": "AT5",
+      "website": "https://www.at5.nl/media",
+      "categories": [
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://takeoff.jetstre.am/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.at5.nl/live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:02:32.546Z"
+        }
+      ]
+    },
+    {
+      "id": "BEATTV.nl",
+      "name": "BEATTV",
+      "website": "https://beatfm.nl/",
+      "categories": [
+        "music",
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://tv.beatfm.nl/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:05.813Z"
+        }
+      ]
+    },
+    {
+      "id": "BNRNieuwsradio.nl",
+      "name": "BNR Nieuwsradio",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:26.086Z"
+        }
+      ]
+    },
+    {
+      "id": "BredaNuTV.nl",
+      "name": "BredaNu TV",
+      "website": "https://bredanu.nl/kijken/bredanu/live/",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://tv.streaming.bredanu.nl/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://bredanu.nl/kijken/bredanu/live/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:02:54.191Z"
+        }
+      ]
+    },
+    {
+      "id": "BTLTV.nl",
+      "name": "BTL TV",
+      "website": "https://btl-tv.com/",
+      "categories": [
+        "religious"
+      ],
+      "streams": [
+        {
+          "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:27.570Z"
+        }
+      ]
+    },
+    {
+      "id": "BVN.nl",
+      "name": "BVN",
+      "website": "https://www.bvn.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:47.080Z"
+        }
+      ]
+    },
+    {
+      "id": "DanceTelevision.nl",
+      "name": "Dance Television",
+      "website": "https://www.dancetv.net/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:26:49.550Z"
+        }
+      ]
+    },
+    {
+      "id": "DenHaagTV.nl",
+      "name": "Den Haag TV",
+      "website": "https://www.denhaagfm.nl/televisie",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://mistserv3.videostreams.nl/hls/denhaag/index.m3u8",
+          "format": "hls",
+          "page": "https://cdn.denhaagfm.nl/kijklive.html",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:02:54.199Z"
+        }
+      ]
+    },
+    {
+      "id": "DitisHelmond.nl",
+      "name": "Dit is Helmond",
+      "website": "https://ditishelmond.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:27:11.026Z"
+        }
+      ]
+    },
+    {
+      "id": "DocuBox.nl",
+      "name": "DocuBox",
+      "website": "https://www.docuboxlive.com/",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:27:29.014Z"
+        }
+      ]
+    },
+    {
+      "id": "DTVDenBosch.nl",
+      "name": "Dtv Den Bosch",
+      "website": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://live.dtvstreams.nl/memfs/b1c6903d-3184-4b3e-975d-686f80bb4146.m3u8",
+          "format": "hls",
+          "page": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:15.133Z"
+        }
+      ]
+    },
+    {
+      "id": "DTVMaashorst.nl",
+      "name": "Dtv Maashorst",
+      "website": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://live.dtvstreams.nl/memfs/e1095ea7-f558-4711-a181-b2f38cd34b39.m3u8",
+          "format": "hls",
+          "page": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:15.625Z"
+        }
+      ]
+    },
+    {
+      "id": "DTVOssBernheze.nl",
+      "name": "Dtv Oss & Bernheze",
+      "website": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://live.dtvstreams.nl/memfs/bcf94ab4-ea3d-41ad-87a9-e4912e4927c8.m3u8",
+          "format": "hls",
+          "page": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:36.586Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:NL:dtvringdenbosch",
+      "name": "Dtv Ring Den Bosch",
+      "website": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+      "categories": [
+        "local",
+        "news"
+      ],
+      "streams": [
+        {
+          "url": "https://live.dtvstreams.nl/memfs/61b02793-f243-4a9c-8792-26629dd149d0.m3u8",
+          "format": "hls",
+          "page": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:36.588Z"
+        }
+      ]
+    },
+    {
+      "id": "FashionBox.nl",
+      "name": "FashionBox",
+      "website": "http://www.fashionboxlive.com/",
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:27:32.010Z"
+        }
+      ]
+    },
+    {
+      "id": "FastFunBox.nl",
+      "name": "Fast&FunBox",
+      "website": "https://spiintl.com/channels/fastandfunbox",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:27:50.493Z"
+        }
+      ]
+    },
+    {
+      "id": "FightBox.nl",
+      "name": "FightBox",
+      "website": "http://www.fightbox.com",
+      "categories": [
+        "sports"
+      ],
+      "streams": [
+        {
+          "url": "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:27:53.755Z"
+        }
+      ]
+    },
+    {
+      "id": "GigantFM.nl",
+      "name": "Gigant FM",
+      "website": "https://www.gigantfm.nl/contact",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:11.979Z"
+        }
+      ]
+    },
+    {
+      "id": "GouwestadTV.nl",
+      "name": "Gouwestad TV",
+      "website": "https://gouwestad.nl/wp/",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.gouwestad.nl:1672/hls/stream1/index.m3u8",
+          "format": "hls",
+          "page": "https://gouwestad.nl/wp/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:57.543Z"
+        }
+      ]
+    },
+    {
+      "id": "Haarlem105TV.nl",
+      "name": "Haarlem105 TV",
+      "website": "https://haarlem105.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:16.745Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:NL:horsecountrytv",
+      "name": "Horse & Country TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/nl.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:35.751Z"
+        }
+      ]
+    },
+    {
+      "id": "HypeVisualRadio.nl",
+      "name": "Hype Visual Radio",
+      "website": "https://www.hyperadio.nl/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:38.491Z"
+        }
+      ]
+    },
+    {
+      "id": "INFAST.nl",
+      "name": "INFAST",
+      "website": "https://www.in.tv/channel/infast",
+      "categories": [
+        "lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:58.974Z"
+        },
+        {
+          "url": "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:28:59.482Z"
+        },
+        {
+          "url": "https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:29:21.356Z"
+        },
+        {
+          "url": "https://lifestyle-rakuten.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:29:21.640Z"
+        }
+      ]
+    },
+    {
+      "id": "INTRAVEL.nl",
+      "name": "INTRAVEL",
+      "website": "https://www.in.tv/channel/intravel",
+      "categories": [
+        "travel"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:29:42.992Z"
+        },
+        {
+          "url": "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:29:44.535Z"
+        }
+      ]
+    },
+    {
+      "id": "InTrouble.nl",
+      "name": "InTrouble",
+      "website": "https://www.in.tv/channel/introuble",
+      "categories": [
+        "auto",
+        "sports",
+        "outdoor"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:05.959Z"
+        }
+      ]
+    },
+    {
+      "id": "INWILD.nl",
+      "name": "INWILD",
+      "website": "https://www.in.tv/channel/inwild",
+      "categories": [
+        "documentary"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:05.993Z"
+        },
+        {
+          "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:26.903Z"
+        },
+        {
+          "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:28.123Z"
+        }
+      ]
+    },
+    {
+      "id": "InWonder.nl",
+      "name": "InWonder",
+      "website": "https://in.tv/channel/inwonder",
+      "categories": [
+        "science"
+      ],
+      "streams": [
+        {
+          "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:47.864Z"
+        },
+        {
+          "url": "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:30:52.785Z"
+        }
+      ]
+    },
+    {
+      "id": "JinTV.nl",
+      "name": "Jin TV",
+      "website": "https://jintv.net/en/contact/",
+      "categories": [
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://live.jintv.org/medialive/jintv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:08.846Z"
+        }
+      ]
+    },
+    {
+      "id": "KempenTV.nl",
+      "name": "KempenTV",
+      "website": "https://www.kempentv.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:14.185Z"
+        }
+      ]
+    },
+    {
+      "id": "L1TV.nl",
+      "name": "L1 TV",
+      "website": "https://www.l1.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:30.508Z"
+        }
+      ]
+    },
+    {
+      "id": "LangstraatTV.nl",
+      "name": "Langstraat TV",
+      "website": "https://www.langstraatmedia.nl/langstraat-tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:35.129Z"
+        }
+      ]
+    },
+    {
+      "id": "LansingerlandTV.nl",
+      "name": "Lansingerland TV",
+      "website": "https://streekomroepzoetermeerlansingerland.nl/live-tv-zoetermeer/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.streekomroepzoetermeerlansingerland.nl/LansingerlandTV/index.m3u8",
+          "format": "hls",
+          "page": "https://streekomroepzoetermeerlansingerland.nl/live-tv-zoetermeer/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:03:57.550Z"
+        },
+        {
+          "url": "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:51.475Z"
+        }
+      ]
+    },
+    {
+      "id": "LEOMiddelseTV.nl",
+      "name": "LEO Middelse TV",
+      "website": "https://leomiddelse.nl/live-tv-kijken/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:31:56.136Z"
+        }
+      ]
+    },
+    {
+      "id": "LINQTV.nl",
+      "name": "LINQ TV",
+      "website": "https://www.linqmedia.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/dtv-11/246-2090022/Linq_Media_TV.smil/manifest.mpd",
+          "format": "dash",
+          "page": "https://www.linqmedia.nl/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:04:18.435Z"
+        },
+        {
+          "url": "https://ms2.mx-cd.net/dtv-11/246-2090022/Linq_Media_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.linqmedia.nl/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:04:18.931Z"
+        }
+      ]
+    },
+    {
+      "id": "LONTV.nl",
+      "name": "LON TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:32:14.648Z"
+        }
+      ]
+    },
+    {
+      "id": "MagicPowerRadio.nl",
+      "name": "Magic PowerRadio",
+      "website": "https://www.magic-powerradio.nl/video",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:32:17.101Z"
+        }
+      ]
+    },
+    {
+      "id": "MaLive.nl",
+      "name": "MaLive",
+      "website": "https://malive.nl/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://live.salto.nl/hls/malive_high.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:32:36.634Z"
+        }
+      ]
+    },
+    {
+      "id": "MerweTV.nl",
+      "name": "MerweTV",
+      "website": "https://merwertv.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:32:38.825Z"
+        }
+      ]
+    },
+    {
+      "id": "NH.nl",
+      "name": "NH",
+      "website": "https://www.nhnieuws.nl/media",
+      "categories": [
+        "news",
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.nhnieuws.nl/media",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:04:39.870Z"
+        }
+      ]
+    },
+    {
+      "id": "NOOSTV.nl",
+      "name": "NOOS TV",
+      "website": "https://noos.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:32:59.077Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepBrabant.nl",
+      "name": "Omroep Brabant",
+      "website": "https://www.omroepbrabant.nl/tv",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:33:00.327Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepBrabantRadio.nl",
+      "name": "Omroep Brabant Radio",
+      "website": "https://www.omroepbrabant.nl/radio",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:33:20.061Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepDommelland.nl",
+      "name": "Omroep Dommelland",
+      "website": "https://www.omroepdommelland.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:33:22.512Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepFlevoland.nl",
+      "name": "Omroep Flevoland",
+      "website": "https://www.omroepflevoland.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:33:41.516Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepGelderland.nl",
+      "name": "Omroep Gelderland",
+      "website": "https://www.gld.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:33:43.985Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepHoekscheWaard.nl",
+      "name": "Omroep Hoeksche Waard",
+      "website": "https://www.omroephw.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:02.508Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepLandvanCuijk.nl",
+      "name": "Omroep Land van Cuijk",
+      "website": "https://omroeplvc.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:05.668Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepLingewaard.nl",
+      "name": "Omroep Lingewaard",
+      "website": "https://www.omroeplingewaard.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:23.395Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepMeierijstad.nl",
+      "name": "Omroep Meierijstad",
+      "website": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d1y4hog7qha7jy.cloudfront.net/nlpo/clr-nlpo/ca451ea4x/index.m3u8",
+          "format": "hls",
+          "page": "https://dtvnieuws.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:04:39.877Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepPeelrand.nl",
+      "name": "Omroep Peelrand",
+      "website": "https://omroeppeelrand.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:29.125Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepSudwest.nl",
+      "name": "Omroep Sudwest",
+      "website": "https://omroepsudwest.tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:44.823Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepTilburg.nl",
+      "name": "Omroep Tilburg",
+      "website": "https://www.omroeptilburg.nl/tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:34:50.020Z"
+        },
+        {
+          "url": "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:05.815Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepVenlo.nl",
+      "name": "Omroep Venlo",
+      "website": "https://omroepvenlo.nl/televisie-livestream",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:11.007Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepVenray.nl",
+      "name": "Omroep Venray",
+      "website": "https://www.omroepvenray.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:26.796Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepWest.nl",
+      "name": "Omroep West",
+      "website": "https://www.omroepwest.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:32.006Z"
+        }
+      ]
+    },
+    {
+      "id": "OmroepZeeland.nl",
+      "name": "Omroep Zeeland",
+      "website": "https://www.omroepzeeland.nl/televisie",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:47.787Z"
+        }
+      ]
+    },
+    {
+      "id": "OmropFryslan.nl",
+      "name": "Omrop Fryslan",
+      "website": "https://www.omropfryslan.nl/fy/tv/oersjoch",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:35:52.990Z"
+        },
+        {
+          "url": "https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_netherlands.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:08.751Z"
+        }
+      ]
+    },
+    {
+      "id": "OOGTV.nl",
+      "name": "OOG TV",
+      "website": "https://www.oogtv.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:13.944Z"
+        }
+      ]
+    },
+    {
+      "id": "OPENRotterdamTV.nl",
+      "name": "OPEN Rotterdam TV",
+      "website": "https://openrotterdam.nl/livestream/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:29.719Z"
+        }
+      ]
+    },
+    {
+      "id": "ORTSTV.nl",
+      "name": "ORTS TV",
+      "website": "https://orts.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:34.952Z"
+        }
+      ]
+    },
+    {
+      "id": "Qmusic.nl",
+      "name": "Qmusic",
+      "website": "https://qmusic.nl",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://stream.qmusic.nl/qmusic/videohls.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:51.213Z"
+        }
+      ]
+    },
+    {
+      "id": "Radio10.nl",
+      "name": "Radio 10",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:36:56.699Z"
+        }
+      ]
+    },
+    {
+      "id": "Radio350.nl",
+      "name": "Radio 350",
+      "website": "https://www.radio350.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream.radio350.nl/hls/radio350.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:37:12.708Z"
+        }
+      ]
+    },
+    {
+      "id": "Radio538.nl",
+      "name": "Radio 538",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:37:17.671Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioAalsmeerTV.nl",
+      "name": "Radio Aalsmeer TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:37:33.679Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioJND.nl",
+      "name": "Radio JND",
+      "website": "https://radiojnd.nl/",
+      "categories": [
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:37:38.658Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioToppers.nl",
+      "name": "RadioToppers",
+      "website": "http://www.radio-toppers.net/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:37:59.638Z"
+        }
+      ]
+    },
+    {
+      "id": "Regio90TV.nl",
+      "name": "Regio90 TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:38:01.152Z"
+        }
+      ]
+    },
+    {
+      "id": "RN7.nl",
+      "name": "RN7",
+      "website": "https://www.rn7.nl/kijk-en-luister/nu-live",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://streams2.rn7.nl/memfs/82e7d507-6e4f-4c89-beaa-07a1fb6b9516.m3u8",
+          "format": "hls",
+          "page": "https://www.rn7.nl/kijk-en-luister/nu-live",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:00.796Z"
+        },
+        {
+          "url": "https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:38:20.636Z"
+        }
+      ]
+    },
+    {
+      "id": "RPLWoerden.nl",
+      "name": "RPL Woerden",
+      "website": "https://rplwoerden.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:38:22.150Z"
+        }
+      ]
+    },
+    {
+      "id": "RTV1.nl",
+      "name": "RTV 1",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:38:42.125Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVDordrecht.nl",
+      "name": "RTV Dordrecht",
+      "website": "https://www.rtvdordrecht.nl/tv",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/dtv-10/107-475823/RTV_Dordrecht.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.rtvdordrecht.nl/tv",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:02.863Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVDrenthe.nl",
+      "name": "RTV Drenthe",
+      "website": "https://www.rtvdrenthe.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:38:43.909Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVHorizon.nl",
+      "name": "RTV Horizon",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:39:03.440Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVLOVE.nl",
+      "name": "RTV LOVE",
+      "website": "https://www.rtvlove.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:39:05.112Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVMaastricht.nl",
+      "name": "RTV Maastricht",
+      "website": "https://1zuid.nl/televisie/live-rtvm",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream.rtvmaastricht.nl/rtvm_live/tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://1zuid.nl/televisie/live-rtvm",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:22.217Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVMeppel.nl",
+      "name": "RTV Meppel",
+      "website": "https://www.rtvmeppel.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:39:25.092Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVNoord.nl",
+      "name": "RTV Noord",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:39:46.147Z"
+        },
+        {
+          "url": "https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8",
+          "format": "hls",
+          "page": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_netherlands.m3u8",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:39:46.856Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVNoordExtra.nl",
+      "name": "RTV Noord Extra",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:40:07.661Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVOost.nl",
+      "name": "RTV Oost",
+      "website": "https://www.rtvoost.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:40:09.543Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVPurmerend.nl",
+      "name": "RTV Purmerend",
+      "website": "https://rtvpurmerend.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:40:29.488Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVRijnmond.nl",
+      "name": "RTV Rijnmond",
+      "website": "https://www.rijnmond.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:40:31.060Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVUtrecht.nl",
+      "name": "RTV Utrecht",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:40:52.978Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVVeluwezoomTV.nl",
+      "name": "RTV Veluwezoom TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:41:11.143Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVWesterwolde.nl",
+      "name": "RTV Westerwolde",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://media.rtvwesterwolde.nl/hls/live/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:41:13.916Z"
+        }
+      ]
+    },
+    {
+      "id": "Salto1.nl",
+      "name": "Salto 1",
+      "website": "https://www.salto.nl/",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:41:33.749Z"
+        }
+      ]
+    },
+    {
+      "id": "Salto2.nl",
+      "name": "Salto 2",
+      "website": "https://www.salto.nl/",
+      "categories": [
+        "culture"
+      ],
+      "streams": [
+        {
+          "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:41:36.089Z"
+        }
+      ]
+    },
+    {
+      "id": "SBS6Classics.nl",
+      "name": "SBS6 Classics",
+      "website": "https://www.kijk.nl/programmas/sbs6-classics-247",
+      "categories": [
+        "entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:42:15.427Z"
+        }
+      ]
+    },
+    {
+      "id": "SchieTV.nl",
+      "name": "Schie TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:42:19.993Z"
+        }
+      ]
+    },
+    {
+      "id": "SleutelstadTV.nl",
+      "name": "Sleutelstad TV",
+      "website": "https://sleutelstad.nl/tv/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:42:41.085Z"
+        }
+      ]
+    },
+    {
+      "id": "StudioRheden.nl",
+      "name": "Studio Rheden",
+      "website": "https://www.studiorheden.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://stream.studiorhedenlive.nl/hlstv/stream.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:00.562Z"
+        }
+      ]
+    },
+    {
+      "id": "Studio040TV.nl",
+      "name": "Studio040 TV",
+      "website": "https://studio040.nl/televisie/live",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:03.165Z"
+        }
+      ]
+    },
+    {
+      "id": "TMF.nl",
+      "name": "TMF",
+      "website": null,
+      "categories": [
+        "classic",
+        "music"
+      ],
+      "streams": [
+        {
+          "url": "https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:23.292Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRain.nl",
+      "name": "TV Rain",
+      "website": "https://tvrain.ru/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:24.947Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerActualiteitenkanaal.nl",
+      "name": "Tweede Kamer: Actualiteitenkanaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/actualiteitenkanaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:44.877Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerAlettaJacobszaal.nl",
+      "name": "Tweede Kamer: Aletta Jacobszaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/aletta-jacobszaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:43:46.130Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerEnquetezaal.nl",
+      "name": "Tweede Kamer: Enquetezaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/enquetezaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:07.301Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerGroenvanPrinstererzaal.nl",
+      "name": "Tweede Kamer: Groen van Prinstererzaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/groen-van-prinstererzaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:11.847Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerKlompezaal.nl",
+      "name": "Tweede Kamer: Klompezaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/klompezaal",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:28.272Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerMaxvanderStoelzaal.nl",
+      "name": "Tweede Kamer: Max van der Stoelzaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/max-van-der-stoelzaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:33.344Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerPlenairezaal.nl",
+      "name": "Tweede Kamer: Plenaire zaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/plenaire-zaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:50.253Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerSuzeGroenewegzaal.nl",
+      "name": "Tweede Kamer: Suze Groenewegzaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/suze-groenewegzaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:44:54.579Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerThorbeckezaal.nl",
+      "name": "Tweede Kamer: Thorbeckezaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/thorbeckezaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:45:12.794Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerTroelstrazaal.nl",
+      "name": "Tweede Kamer: Troelstrazaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/troelstrazaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:45:23.869Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerVondelingkamer.nl",
+      "name": "Tweede Kamer: Vondelingkamer",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/vondelingkamer",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/vondelingkamer/index.m3u8",
+          "format": "hls",
+          "page": "https://www.tweedekamer.nl/vergaderingen/livedebat/vondelingkamer",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:23.762Z"
+        }
+      ]
+    },
+    {
+      "id": "TweedeKamerWttewaallvanStoetwegenzaal.nl",
+      "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
+      "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/wttewaall-van-stoetwegenzaal",
+      "categories": [
+        "legislative"
+      ],
+      "streams": [
+        {
+          "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:45:34.274Z"
+        }
+      ]
+    },
+    {
+      "id": "UStad.nl",
+      "name": "UStad",
+      "website": "https://www.ustad.nl/",
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:45:45.870Z"
+        }
+      ]
+    },
+    {
+      "id": "VechtdalTV.nl",
+      "name": "Vechtdal TV",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:45:55.801Z"
+        }
+      ]
+    },
+    {
+      "id": "catalog:NL:waterbear",
+      "name": "WaterBear",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/iptv/countries/nl.m3u",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:46:06.845Z"
+        }
+      ]
+    },
+    {
+      "id": "WEEFFTV.nl",
+      "name": "WEEFF TV",
+      "website": "https://www.weeff.nl/tv",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://takeoff.jetstre.am/?account=weeff&file=weefftv&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+          "format": "hls",
+          "page": "https://www.weeff.nl/tv",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:43.649Z"
+        }
+      ]
+    },
+    {
+      "id": "WeertFMTV.nl",
+      "name": "WeertFM TV",
+      "website": "https://www.weertfm.nl/",
+      "categories": [
+        "general"
+      ],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:46:17.055Z"
+        }
+      ]
+    },
+    {
+      "id": "WOS.nl",
+      "name": "WOS",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:46:28.024Z"
+        },
+        {
+          "url": "https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:46:37.685Z"
+        },
+        {
+          "url": "https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:46:48.989Z"
+        }
+      ]
+    },
+    {
+      "id": "ZO34.nl",
+      "name": "ZO!34",
+      "website": null,
+      "categories": [],
+      "streams": [
+        {
+          "url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8",
+          "format": "hls",
+          "page": "https://iptv-org.github.io/api",
+          "provenance": "public-list",
+          "verifiedAt": "2026-11-26T13:47:00.485Z"
+        }
+      ]
+    },
+    {
+      "id": "ZuidWestTV.nl",
+      "name": "ZuidWest TV",
+      "website": "https://www.zuidwestupdate.nl/tv-live/",
+      "categories": [
+        "local"
+      ],
+      "streams": [
+        {
+          "url": "https://owncast1.zuidwest.cloud/hls/stream.m3u8",
+          "format": "hls",
+          "page": "https://www.zuidwestupdate.nl/tv-live/",
+          "provenance": "official-page",
+          "verifiedAt": "2026-11-26T14:05:45.199Z"
+        }
+      ]
+    }
+  ]
+}
